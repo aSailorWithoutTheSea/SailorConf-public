@@ -441,11 +441,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?path=%2F%3Fed&s
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegram%40server_free2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?type=tcp&security=none#Telegram: @HedwigV2ray
 vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?encryption=none&security=tls&sni=my.digikala.dynv6.net&type=ws&host=my.digikala.dynv6.net&path=%2F--------v2rayNGcloud-----%3Fed%3D2560#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.73:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#Telegram: @HedwigV2ray
-vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?encryption=none&security=none&type=tcp&headerType=none#Telegram: @HedwigV2ray
-vless://3069ee6a-294d-4f79-b700-6cd13b28206c@142.132.227.65:14831?type=tcp&security=none#Telegram: @HedwigV2ray
-vless://c4cd9656-81a7-4342-9c0f-959ad333acae@all.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&host=de2radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&type=ws&sni=de2radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com#Telegram: @HedwigV2ray
-vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=63888383929583954786.zagreb-prx-dnraaad.info#Telegram: @HedwigV2ray
-vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583954786.zagreb-prx-dnraaad.info&type=ws&host=638874929583954786.zagreb-prx-dnraaad.info&path=%2Fjmgjhhws#Telegram: @HedwigV2ray
-# Last updated: 2025-07-10 20:30:20
+# Last updated: 2025-07-10 21:30:19
