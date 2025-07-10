@@ -352,4 +352,4 @@ vless://d8b137a4-d641-566e-8f85-05f82b787215@38.76.247.230:443?security=tls&sni=
 vless://d8b137a4-d641-566e-8f85-05f82b787215@www.speedtest.net:443?security=tls&sni=sg-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-2-ssm.medicaldream.ir&encryption=none#Telegram: @HedwigV2ray
 vless://dc089b27-3f77-5c89-a282-bbbb728302d1@45.88.183.53:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.88.183.53&encryption=none#Telegram: @HedwigV2ray
 vless://dc089b27-3f77-5c89-a282-bbbb728302d1@www.speedtest.net:443?security=tls&sni=in-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=in-1-ssm.medicaldream.ir&encryption=none#Telegram: @HedwigV2ray
-# Last updated: 2025-07-10 19:30:19
+# Last updated: 2025-07-10 20:30:20
