@@ -436,21 +436,4 @@ vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.147.22:2053?encryption=none&
 vless://efb2c3a8-86f0-4d35-8d5b-3698ee7fab32@104.18.26.90:80?encryption=none&security=none&type=ws&host=TgOnlyTesla.cr-goveaccept-et01.com&path=%2F#Telegram: @HedwigV2ray
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?encryption=none&security=tls&sni=MAxNETvipAp-cloUD252.nEtKh3.site&type=ws&host=MAxNETvipAp-cloUD252.nEtKh3.site&path=%2Flinkws%3Fed%3D2560#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?path=%2F%3Fed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegram%40server_free2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
-vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?type=tcp&security=none#Telegram: @HedwigV2ray
-vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?encryption=none&security=tls&sni=my.digikala.dynv6.net&type=ws&host=my.digikala.dynv6.net&path=%2F--------v2rayNGcloud-----%3Fed%3D2560#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.73:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#Telegram: @HedwigV2ray
-vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?encryption=none&security=none&type=tcp&headerType=none#Telegram: @HedwigV2ray
-vless://3069ee6a-294d-4f79-b700-6cd13b28206c@142.132.227.65:14831?type=tcp&security=none#Telegram: @HedwigV2ray
-vless://c4cd9656-81a7-4342-9c0f-959ad333acae@all.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&host=de2radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&type=ws&sni=de2radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com#🇮🇷 Iran | Telegram: @HedwigV2ray
-vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=63888383929583954786.zagreb-prx-dnraaad.info#🇺🇸 USA | Telegram: @HedwigV2ray
-vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583954786.zagreb-prx-dnraaad.info&type=ws&host=638874929583954786.zagreb-prx-dnraaad.info&path=%2Fjmgjhhws#Telegram: @HedwigV2ray
-vless://212f3cb2-7bac-4321-a0a8-3a10896290fe@dl.soundhub.me:7000?security=reality&encryption=none&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&headerType=none&fp=firefox&type=tcp&sni=www.unpkg.com&sid=0b5922be64fc5713#🇺🇸 USA | Telegram: @HedwigV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80/?type=ws&encryption=none&flow=&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443#Telegram: @HedwigV2ray
-vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443/?type=ws&encryption=none&flow=&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=kawaiifreevpn.pages.dev&fp=chrome#Telegram: @HedwigV2ray
-vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.78.206:2096/?type=ws&encryption=none&flow=&host=FReedOM.pANoToSu.StorE&path=%2FvRpve4WyyyBMiVSu%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&security=tls&sni=FReedOM.pANoToSu.StorE&fp=randomized#Telegram: @HedwigV2ray
-vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321/?type=tcp&encryption=none&flow=#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam%F0%9F%87%A8%F0%9F%87%B3%402%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.154:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-07-11 10:30:23
+# Last updated: 2025-07-11 11:30:20
