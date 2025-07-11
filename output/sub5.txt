@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@ko-01.cloxynode.com:35515#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@sg-01.cloxynode.com:35515#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Telegram: @HedwigV2ray
@@ -444,17 +446,4 @@ vless://3069ee6a-294d-4f79-b700-6cd13b28206c@142.132.227.65:14831?type=tcp&secur
 vless://c4cd9656-81a7-4342-9c0f-959ad333acae@all.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&host=de2radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&type=ws&sni=de2radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com#Telegram: @HedwigV2ray
 vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=63888383929583954786.zagreb-prx-dnraaad.info#Telegram: @HedwigV2ray
 vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583954786.zagreb-prx-dnraaad.info&type=ws&host=638874929583954786.zagreb-prx-dnraaad.info&path=%2Fjmgjhhws#Telegram: @HedwigV2ray
-vless://212f3cb2-7bac-4321-a0a8-3a10896290fe@dl.soundhub.me:7000?security=reality&encryption=none&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&headerType=none&fp=firefox&type=tcp&sni=www.unpkg.com&sid=0b5922be64fc5713#Telegram: @HedwigV2ray
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80/?type=ws&encryption=none&flow=&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443#Telegram: @HedwigV2ray
-vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443/?type=ws&encryption=none&flow=&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=kawaiifreevpn.pages.dev&fp=chrome#Telegram: @HedwigV2ray
-vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.78.206:2096/?type=ws&encryption=none&flow=&host=FReedOM.pANoToSu.StorE&path=%2FvRpve4WyyyBMiVSu%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&security=tls&sni=FReedOM.pANoToSu.StorE&fp=randomized#Telegram: @HedwigV2ray
-vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321/?type=tcp&encryption=none&flow=#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam%F0%9F%87%A8%F0%9F%87%B3%402%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.154:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2Fam%402%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#Telegram: @HedwigV2ray
-vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188?security=&encryption=none&headerType=&type=tcp&path=%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292#Telegram: @HedwigV2ray
-vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292&security=none&encryption=none&host=barayeiranmahsang.varzesh.dpdns.org&type=ws&sni=barayeiranmahsang.varzesh.dpdns.org#Telegram: @HedwigV2ray
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.18.26.90:443?path=%2FJoin---v2ray_configs_pools---Join---v2ray_configs_pools%3Fed%3D2560&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-07-11 05:30:22
+# Last updated: 2025-07-11 06:30:21
