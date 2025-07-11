@@ -1,5 +1,5 @@
 # SailorConf-public
-Copy Sublinks to your client <3
+Copy Sublinks to your client ❤🤞
 
 
 https://raw.githubusercontent.com/aSailorWithoutTheSea/SailorConf-public/refs/heads/main/output/sub1.txt
