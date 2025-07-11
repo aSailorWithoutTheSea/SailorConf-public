@@ -436,4 +436,5 @@ vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.147.22:2053?encryption=none&
 vless://efb2c3a8-86f0-4d35-8d5b-3698ee7fab32@104.18.26.90:80?encryption=none&security=none&type=ws&host=TgOnlyTesla.cr-goveaccept-et01.com&path=%2F#Telegram: @HedwigV2ray
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?encryption=none&security=tls&sni=MAxNETvipAp-cloUD252.nEtKh3.site&type=ws&host=MAxNETvipAp-cloUD252.nEtKh3.site&path=%2Flinkws%3Fed%3D2560#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?path=%2F%3Fed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-07-11 11:30:20
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegram%40server_free2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
+# Last updated: 2025-07-11 12:30:21
