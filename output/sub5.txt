@@ -428,4 +428,4 @@ vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg%3D%3D@209.200.246.174:8388#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2Fjoin---MTMVPN---join%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#Telegram: @HedwigV2ray
 vless://1343289b-3518-48da-9ee6-1bc99860b505@104.18.26.90:443?path=%2FTwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService-TwixService%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com&fp=randomized&type=ws&sni=mrdnzdtnbkwbdfsqoncu.dissertationhelpspecialist.com#Telegram: @HedwigV2ray
-# Last updated: 2025-07-11 02:30:21
+# Last updated: 2025-07-11 03:30:20
