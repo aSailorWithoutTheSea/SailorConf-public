@@ -26,13 +26,11 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@3.39.249.233:443#Telegram: @HedwigV2ray
-ss://YWVzLTI1Ni1nY206MEFOSVBNUThWNFBIMkJRTw==@ti3hyra4.slashdevslashnetslashtun.net:18002#🇯🇵 Japan | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206NWJkYTI3MzYtODFlNy00M2I0LTg2ZmMtMjg2ZjhmOGU2NTc4@51.195.103.227:8443#🇫🇷 France | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#🇯🇵 Japan | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#🇯🇵 Japan | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
-ss://YWVzLTI1Ni1nY206RUxOUDNFOVg0MjZPU1VWSw==@ti3hyra4.slashdevslashnetslashtun.net:15006#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206Wlg5RjhLSzIxTzYwWUs5VA==@qh62onjn.slashdevslashnetslashtun.net:15015#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFlURTNZakU1WkMwME9EazJMVFExTXpFdFlXWTNPUzAyWlRreFpEaGxaamd5TWpn@13.231.80.233:9898#🇯🇵 Japan | Telegram: @HedwigV2ray
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmpwaGMyUXhNak0wTlRZ@103.36.91.32:8388#🇸🇬 Singapore | Telegram: @HedwigV2ray
@@ -49,14 +47,10 @@ trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.36.104:443?sni=sk.ylka.dpd
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.243.218:443?sni=ck.ylka.dpdns.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@icook.tw:443?sni=sk.ylka.dpdns.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@ip.sb:443?sni=ck.ylka.dpdns.org#🇺🇸 USA | Telegram: @HedwigV2ray
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@otto.ns.cloudflare.com:443?sni=ck.ylka.dpdns.org#🇺🇸 USA | Telegram: @HedwigV2ray
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@shopify.com:443?sni=sk.ylka.dpdns.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@sullivan.ns.cloudflare.com:443?sni=ck.ylka.dpdns.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@whatismyipaddress.com:443?sni=sk.ylka.dpdns.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@wilson.ns.cloudflare.com:443?sni=sk.ylka.dpdns.org#Telegram: @HedwigV2ray
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=sk.ylka.dpdns.org#🇺🇸 USA | Telegram: @HedwigV2ray
-trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443?sni=SsXCDfR5.986986.shoP#🇺🇸 USA | Telegram: @HedwigV2ray
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#Telegram: @HedwigV2ray
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?#Telegram: @HedwigV2ray
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#Telegram: @HedwigV2ray
@@ -92,9 +86,7 @@ trojan://Aimer@103.116.7.103:2083?sni=epmk.ambercc.filegear-sg.me#🇯🇵 Japan
 trojan://Aimer@103.116.7.133:2083?sni=epml.ambercc.filegear-sg.me#🇯🇵 Japan | Telegram: @HedwigV2ray
 trojan://Aimer@103.116.7.220:2096?sni=epml.ambercc.filegear-sg.me#🇯🇵 Japan | Telegram: @HedwigV2ray
 trojan://Aimer@135.84.74.254:2083?sni=epmk.ambercc.filegear-sg.me#🇺🇸 USA | Telegram: @HedwigV2ray
-trojan://Aimer@141.11.203.191:8443?sni=epmk.ambercc.filegear-sg.me#🇫🇷 France | Telegram: @HedwigV2ray
 trojan://Aimer@154.197.64.104:8443?sni=epml.ambercc.filegear-sg.me#🇨🇳 China | Telegram: @HedwigV2ray
-trojan://Aimer@167.68.4.10:2096?sni=epmk.ambercc.filegear-sg.me#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://Aimer@167.68.4.223:2096?sni=epmk.ambercc.filegear-sg.me#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://Aimer@167.68.4.58:443?sni=epml.ambercc.filegear-sg.me#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://Aimer@176.53.144.206:8443?sni=epmk.ambercc.filegear-sg.me#🇬🇧 UK | Telegram: @HedwigV2ray
@@ -116,7 +108,6 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:7571?allowInsecure=1&sni
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:4446?sni=www.baidu.com#🇸🇬 Singapore | Telegram: @HedwigV2ray
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:4447?sni=www.baidu.com#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:4448?sni=www.baidu.com#🇰🇷 South Korea | Telegram: @HedwigV2ray
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:444?sni=www.baidu.com#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.27:53248?sni=www.baidu.com#🇯🇵 Japan | Telegram: @HedwigV2ray
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:16158?allowInsecure=1&sni=www.baidu.com#🇰🇷 South Korea | Telegram: @HedwigV2ray
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:24903?allowInsecure=1&sni=www.baidu.com#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
@@ -126,7 +117,6 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.123:10600?sni=www.baidu.com
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.123:8657?sni=www.baidu.com#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?allowInsecure=1&sni=vle.amclubdns.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#🇷🇺 Russia | Telegram: @HedwigV2ray
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?allowInsecure=1&sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#Telegram: @HedwigV2ray
-trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#Telegram: @HedwigV2ray
 trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.220.32:443?sni=eEEfGty6.999836.XYz#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
 trojan://telegram-id-directvpn@63.177.166.9:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
@@ -152,6 +142,7 @@ vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&
 vless://172663dd-119d-4377-8f8f-d9c165037793@198.89.125.185:29380?security=reality&encryption=none&pbk=AqP0j7-muP7ik0-CM91y4-OA2bbffC6p75Z6D-it-ho&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6287b533dabc#Telegram: @HedwigV2ray
 vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443/?type=ws&encryption=none&flow=&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=%2Flinkws%3Fed%3D2560&security=tls&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#Telegram: @HedwigV2ray
 vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?encryption=none&security=tls&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=%2Flinkws%3Fed#🇬🇧 UK | Telegram: @HedwigV2ray
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?path=%2Flinkws%3Fed&security=tls&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80/?type=ws&encryption=none&flow=&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443#Telegram: @HedwigV2ray
 vless://218c2394-c466-48f1-a60f-840443b82430@en.jpgformat.ir:10108?path=%2FsZ05WJ95WdI5RBYV%3Fed%3D2560&security=tls&encryption=none&host=pmlmyazd-dzy.pages.dev&fp=chrome&type=ws&sni=pMLmyaZd-DZy.pAgeS.DeV#Telegram: @HedwigV2ray
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&host=JuOf8QfKy3.VpBeThOrVp002.InFo&path=%2F#Telegram: @HedwigV2ray
@@ -183,6 +174,9 @@ vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?type=tcp&securi
 vless://44781453-5f6c-43ab-8d6c-3bc4323311be@142.132.227.65:80?type=tcp&security=none#Telegram: @HedwigV2ray
 vless://453aeace-638f-441e-98cd-6dbab6e0c75e@143.198.196.86:80?path=%2FFREE%20by%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#Telegram: @HedwigV2ray
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.16.52.232:443/?type=ws&encryption=none&flow=&host=rayan-12.parastoo.dpdns.org&path=%2F%40Filter_breaker&security=tls&sni=rayan-12.parastoo.dpdns.org&fp=chrome#Telegram: @HedwigV2ray
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@198.41.198.242:443/?type=ws&encryption=none&flow=&host=rayan-07.parastoo.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rayan-07.parastoo.dpdns.org&fp=chrome#Telegram: @HedwigV2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880?path=%2F&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#Telegram: @HedwigV2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.13.54:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.13.54:80?path=%2Fvpnowl%3Fed%3D2560&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.57:8880?path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
@@ -190,6 +184,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?encryption=none
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?path=%2F%3Fed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.7.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.73.216:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.214:80/?type=ws&encryption=none&flow=&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.214:80?path=%2FTelegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.214:80?path=%2FTelegram%3A+%40v2ray_configs_pools%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.242:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
@@ -225,6 +220,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?encryption=none&s
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTeam%40see2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTeam%40see2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegram%40server_free2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegram%40server_free2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2Fam%402%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
@@ -251,6 +247,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.111:8880?path=%2FTelegramU
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.111:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.124:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.126:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#Telegram: @HedwigV2ray
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.143:8880?path=%2F&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.51:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
@@ -273,6 +270,7 @@ vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=%2F%40proNG1%
 vless://6b690c69-7301-44c4-81e8-9d5d7e8263a6@51.38.98.69:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0&sid=ecd6615548c2bddb&type=tcp&headerType=none#Telegram: @HedwigV2ray
 vless://6c7a6a6a-6a6a-4000-8000-000000000002@104.20.2.221:8443/?type=ws&encryption=none&flow=&host=bycf.lzjnb.shop&path=%2F%3Fed%3D2560&security=tls&sni=bycf.lzjnb.shop#Telegram: @HedwigV2ray
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583333723.zagreb-prx-dnraaad.info&type=ws&host=638874929583333723.zagreb-prx-dnraaad.info&path=%2Faucvumws#Telegram: @HedwigV2ray
+vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?path=%2Faucvumws&security=tls&encryption=none&host=638874929583333723.zagreb-prx-dnraaad.info&type=ws&sni=638874929583333723.zagreb-prx-dnraaad.info#Telegram: @HedwigV2ray
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D%23TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3D%3Fed%3D2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#Telegram: @HedwigV2ray
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#Telegram: @HedwigV2ray
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#Telegram: @HedwigV2ray
@@ -281,6 +279,7 @@ vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443/?type=ws&encryption
 vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=reality&encryption=none&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&headerType=none&fp=chrome&type=tcp&sni=chess.com#Telegram: @HedwigV2ray
 vless://73e7f7f0-c749-48ff-98b6-fab2299e3d3c@www.speedtest.net:2096?path=%2Fiihuzdws&security=tls&encryption=none&host=638868958469955915.amsterdam-prx-dnraaam.info&type=ws&sni=638868958469955915.amsterdam-prx-dnraaam.info#Telegram: @HedwigV2ray
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?encryption=none&security=tls&sni=NGINX.NSCl.IR&alpn=h3&type=ws&host=nginx.nscl.ir&path=%2Fassets%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free%3Fed%3D2560#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#Telegram: @HedwigV2ray
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?encryption=none&security=tls&sni=NGINX.NSCl.IR&alpn=h3&type=ws&host=nginx.nscl.ir&path=%2Fassets#Telegram: @HedwigV2ray
 vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=%2Fikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#Telegram: @HedwigV2ray
@@ -317,17 +316,19 @@ vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?path=%2F%3Fed%3D25
 vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info#Telegram: @HedwigV2ray
 vless://bea44815-cda6-42f8-a0a9-a5877d2ea734@142.132.227.65:34560?type=tcp&security=none#Telegram: @HedwigV2ray
 vless://c44ae46c-eee5-45a8-b90f-d5a3ae99fd34@dev.loadbalance.iranstars-shop.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#Telegram: @HedwigV2ray
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.8.156:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=random&type=ws&sni=yx.yushan.dpdns.org#🇸🇬 Singapore | Telegram: @HedwigV2ray
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@start.adsplustnet.com:80?path=%2Ftest%3Dtrue&security=none&alpn=http%2F1.1&encryption=none&host=d1.hetzner.com&type=ws&sni=epgs9l0n.salamtrip.ir%D8%AA%D8%B9%D8%AF%D8%A7%D8%AFتعداد#Telegram: @HedwigV2ray
 vless://c80463ca-2231-4f44-ba98-c9518395be38@139.162.188.193:21866?security=none&encryption=none&host=%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-%40v2ray_configs_pools-&headerType=none&type=tcp#Telegram: @HedwigV2ray
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=azadnet-7py.pages.dev&type=ws&sni=azadnet-7py.pages.dev#Telegram: @HedwigV2ray
 vless://d300ae15-2ba2-4f91-b1b0-b4510912e4cc@104.18.26.90:443?encryption=none&security=tls&sni=2free2.aparatir.xyz&fp=randomized&type=ws&host=2free2.aparatir.xyz&path=%2Fadmin#Telegram: @HedwigV2ray
 vless://d3f7d069-890f-43b9-ae8f-823443270113@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583751598.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638874929583751598.zagreb-prx-dnraaad.info&path=/exyyutws#Telegram: @HedwigV2ray
 vless://d3f7d069-890f-43b9-ae8f-823443270113@104.18.26.90:2096?path=%2Fexyyutws&security=tls&encryption=none&host=638874929583751598.zagreb-prx-dnraaad.info&type=ws&sni=638874929583751598.zagreb-prx-dnraaad.info#Telegram: @HedwigV2ray
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40v2ray_configs_pools&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=&encryption=none&type=grpc#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#🇫🇷 France | Telegram: @HedwigV2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880/?type=grpc&encryption=none&flow=#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880/?type=grpc&encryption=none&flow=#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?encryption=none&security=none&type=grpc#Telegram: @HedwigV2ray
 vless://e00a3ae8-d43d-4eb5-ab91-20a018ce1b9c@142.132.227.65:443?type=tcp&security=none#Telegram: @HedwigV2ray
 vless://e0f10460-5b5e-4100-bbf9-6aba2593439f@172.66.40.99:443?encryption=none&security=tls&sni=2free2.aparatir.xyz&type=ws&host=2free2.aparatir.xyz&path=%2Fadmin#Telegram: @HedwigV2ray
@@ -377,6 +378,7 @@ vmess://eyJhZGQiOiIxMDQuMjEuMy4xODkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiIzNC44MC4xNTYuMjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2OTFmYjhhLWQ4OTAtNGEzMy05YjBlLTczMDE3YWRhZTViMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwODQiLCJwcyI6IlRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIzNC44MC4xNTcuMTk4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYxYThjODViLTg2YzgtNDNjOC1lOTIwLWJjZGJmMzkxMDgxZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTMxNzUiLCJwcyI6IlRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIzOC42MC4yNTEuMjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZkZDljNTI0LTNlZjMtNDllZi04OGVmLTIwYWM0YTI5YTgwNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9mZGQ5YzUyNCIsInBvcnQiOiI1NzAzOCIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ3d3cubWV0ZXIubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJibGF6ZS1nZXItMjQ4LmJsYXplY2xvdWRtYWluLnNpdGUiLCJpZCI6ImMyMDhlMGFlLTZmNmQtNDc0NS05OWRhLTQ0YTQ0NzQ0YzUzMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3NydD9lZD0yNTYwIiwicG9ydCI6IjIwODMiLCJwcyI6IlRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiYmxhemUtZ2VyLTI0OC5ibGF6ZWNsb3VkbWFpbi5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJAdjJ4YXktQHYyeGF5LUB2MnhheS0iLCJpZCI6IjRhYzM5ZThhLTZkNWMtNDhiYi1iMGQwLWY2MzNjODI5MTEzZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU3MDkiLCJwcyI6IlRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJjc2dvLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIiwiaWQiOiI2NzgyOGE2ZS0wMTQ0LTRlNTctODE2OS0yNDQ3YTNkZDJlNjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcHJvZmlsZS90ZWxlZ3JhbUBzc3JzdWIiLCJwb3J0IjoiODg4MCIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+HuvCfh7ggVVNBIHwgVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIxZmRTTkExMTkyMjg5MjhPcFMyc21UYUIyMjhhQXNERHNkMWVhMTE0NDIwMjIzMjAuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
@@ -412,4 +414,4 @@ vmess://eyJhZGQiOiJlbG1hLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixo
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Inh5bWthbG5ybTgtMTYxOTcxMDIxODkubWFzaGFsbGFoYmV0LmNvbSIsImlkIjoieHlta2FsbnJtOCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IlRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJzc3JzdWIuY2xvdWRmbGFyZS4xODI2ODIueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZG4tbm9kZS1vc3MtOTkucGFvZnUuZGUiLCJpZCI6IjY3ODI4YTZlLTAxNDQtNGU1Ny04MTY5LTI0NDdhM2RkMmU2MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9wcm9maWxlL3RlbGVncmFtQHNzcnN1YiIsInBvcnQiOiI4ODgwIiwicHMiOiJUZWxlZ3JhbTogQEhlZHdpZ1YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-# Last updated: 2025-07-12 08:30:21
+# Last updated: 2025-07-12 09:30:19
