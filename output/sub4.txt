@@ -20,6 +20,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphWFVZUGhDdENHbk1xU0Fxczg2ZGhx@h110vpnde.outl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphbU95UGRtdkI4VklqUU5xRWdlVkVv@sakura.outlinekeys.net:1235#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphc3c2NTdNemxwd0I0REk3MTBLWTJH@151.236.5.86:8443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMFRLeG5IQVllZUZZeXpUQU1YbjBG@h110vpnnl.outlinekeys.net:52571#🇳🇱 Netherlands | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUnZVOENSbDZRa01JRkNqdGxnR1ZS@213.111.142.157:8443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUnZVOENSbDZRa01JRkNqdGxnR1ZS@213.111.142.157:8443#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiVEtFbkRXWHpJaWRrS0xqOVd1Sksz@94.159.96.245:11902#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWJjYjJkOGJiMWQ3ZGI3@51.81.33.5:48231#Telegram: @HedwigV2ray
@@ -267,7 +268,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.212.48:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.211.229.86:443#Telegram: @HedwigV2ray
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.68.44.53:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.106.229.219:989#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#Telegram: @HedwigV2ray
@@ -293,4 +293,5 @@ ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA==@176.32.35.68:10111#Telegram: @Hedw
 ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA==@176.32.35.68:20190?type=tcp#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206NTYwYjdkNjVjMWY0YjEyYQ==@195.58.49.147:10106#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206NTYwYjdkNjVjMWY0YjEyYQ==@195.58.49.147:20198?type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-07-17 18:30:22
+ss://YWVzLTI1Ni1nY206NWJkYTI3MzYtODFlNy00M2I0LTg2ZmMtMjg2ZjhmOGU2NTc4@51.195.103.227:8443#🇫🇷 France | Telegram: @HedwigV2ray
+# Last updated: 2025-07-17 19:30:23
