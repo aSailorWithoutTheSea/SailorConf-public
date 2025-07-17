@@ -329,4 +329,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&mode=gu
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?encryption=none&security=none&sni=TABRIZ.NET&alpn=h2,http/1.1&fp=chrome&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=TABRIZ.NET#Telegram: @HedwigV2ray
-# Last updated: 2025-07-17 07:30:19
+# Last updated: 2025-07-17 08:30:20

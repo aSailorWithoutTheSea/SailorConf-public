@@ -269,4 +269,4 @@ vless://ed579b5e-96df-413c-8133-8a907b931866@CONFiGLiNE.fast.hosting-ip.com:80?m
 vless://ed579b5e-96df-413c-8133-8a907b931866@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=arkadashyasin.io&type=xhttp#Telegram: @HedwigV2ray
 vless://ed5e7f5b-03a9-43e3-a2ff-4346c023561b@fast.peace.lemoex.blog:80?mode=auto&path=/&security=none&encryption=none&host=mmad-patrick-fn.global.ssl.fastly.net&type=xhttp#Telegram: @HedwigV2ray
 vless://ed655843-9ec6-46ef-acba-b15fbfa87b32@v2test.bing-net.com:9820?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-07-17 07:30:19
+# Last updated: 2025-07-17 08:30:20
