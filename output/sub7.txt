@@ -345,4 +345,4 @@ vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/n2BmD2c
 vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/niD0IbaNuq8dRBa6/NDYuMTcuMTAwLjEyOA&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simowEBsItESpEeDTESt.ir#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/niD0IbaNuq8dRBa6/NDYuMTcuMTAwLjEyOA&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simowEBsItESpEeDTESt.ir#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 vless://28e61570-789a-45d0-b3e7-b8511b49ab4e@p.paliss.ir:2070?security=none&type=tcp&headerType=http&path=/heu6FayCxmdp0097Cajz&host=#Telegram: @HedwigV2ray
-# Last updated: 2025-07-17 20:30:21
+# Last updated: 2025-07-17 21:30:23
