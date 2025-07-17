@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQWxzbnVWN0NMR2pWN3VDeGNiVVdZ@194.87.45.189:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.109.127:443#Telegram: @HedwigV2ray
@@ -269,5 +270,4 @@ ss://YWVzLTEyOC1nY206ckk5aXhxbVpISEc0UEJ2VUFOWUFHdw==@37.202.231.23:444#Telegram
 ss://YWVzLTEyOC1nY206cng4OGJCMHd4dUEwMlNhaGdDYlNCS0JaaG1LVzBua1drUGFXYzZsVlI1VT0=@91.99.237.255:80#Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206cng4OGJCMHd4dUEwMlNhaGdDYlNCS0JaaG1LVzBua1drUGFXYzZsVlI1VT0=@91.99.237.255:80#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206dG1kODQyNw@120.233.71.140:52251#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
-ss://YWVzLTEyOC1nY206dG1kODQyNw@120.233.71.140:52252#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
-# Last updated: 2025-07-17 22:30:28
+# Last updated: 2025-07-17 23:30:19
