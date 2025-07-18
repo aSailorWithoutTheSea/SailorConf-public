@@ -306,4 +306,4 @@ trojan://KhMXaEsWE0@lion.diacotowhidian.com.tr:80?mode=gun&security=tls&alpn=h3,
 trojan://KhMXaEsWE0@lion.diacotowhidian.com.tr:80?mode=gun&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=grpc&sni=lion.diacotowhidian.com.tr#🇩🇪 Germany | Telegram: @HedwigV2ray
 trojan://NewUser2@104.248.18.2:1935/?type=tcp&security=tls&sni=x2-germany-digitalocean-v2.devefun.org#Telegram: @HedwigV2ray
 trojan://NewUser3@154.197.64.242:8443/?type=tcp&security=tls&sni=ngepx3.ambercc.filegear-sg.me#Telegram: @HedwigV2ray
-# Last updated: 2025-07-18 21:30:22
+# Last updated: 2025-07-18 22:30:21
