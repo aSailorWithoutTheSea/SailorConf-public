@@ -410,4 +410,4 @@ trojan://xOWvsJYC58@91.99.234.241:47428?mode=auto&path=/&security=none&type=xhtt
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#Telegram: @HedwigV2ray
 trojan://y9z0a1b2-5678-9abc-def0-1234567890ab@104.21.25.540:443?type=ws&host=trojan.workers.dev&path=/trojan#Telegram: @HedwigV2ray
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=tpmwh.phooeyunfold.com#Telegram: @HedwigV2ray
-# Last updated: 2025-07-18 03:30:24
+# Last updated: 2025-07-18 04:30:22
