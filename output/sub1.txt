@@ -94,6 +94,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My43OTo0NDM=#🇬🇧 UK | Tele
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTQ6NDQz#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTY6NDQz#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My4xOTg6NDQz#🇬🇧 UK | Telegram: @HedwigV2ray
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAdWstZGMxLnlhbmdvbi5jbHViOjQ0Mw==#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTUAyMTcuMzAuMTAuMTg6OTAxOQ==#🇵🇱 Poland | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@3.113.25.232:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A0Ni4xODMuMTg0LjYwOjk4OQ==#Telegram: @HedwigV2ray
@@ -288,7 +289,6 @@ vless://a95b8225-c07b-47fe-b1e4-b1bda89c7f7c@www.speedtest.net:80?allowInsecure=
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560fp=chrome&security=tls#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443-udp443&fp=safari&security=tls#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://c98cf3bc-9f1a-41ae-a923-255ca07cb3aa@167.235.28.81:2226?type=grpc&serviceName=2226vless#🇳🇱 Netherlands | Telegram: @HedwigV2ray
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@188.244.122.247:8880?allowInsecure=1&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳#Telegram: @HedwigV2ray
 vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@5.10.244.109:443?allowInsecure=1&sni=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=madcity2.777999.lol&path=/?ed=2560fp=chrome&security=tls#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://e46d518d-4a20-4f9a-873d-a86e9455321c@64.176.38.232:443?allowInsecure=1&sni=lighter-missouri-hydrocodone-yeast.trycloudflare.com&type=ws&host=lighter-missouri-hydrocodone-yeast.trycloudflare.com&path=/e46d518d-4a20-4f9a-873d-a86e9455321c-vless?ed=2048security=tls#🇸🇬 Singapore | Telegram: @HedwigV2ray
 vless://e74c23fa-44c0-425e-812d-5e2df4487ced@www.speedtest.net:8880?allowInsecure=1&sni=de-snapp23.academigroup.ir.&type=ws&host=de-snapp23.academigroup.ir.&path=/telegram---Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram----Academi_vpn--Mystic_vpn?ed=2048#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -364,4 +364,4 @@ vmess://eyJ2IjoyLCJwcyI6IvCfh7rwn4e4IFVTQSB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJh
 vmess://eyJ2IjoyLCJwcyI6IvCfh7rwn4e4IFVTQSB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJhZGQiOiJ2MzcuaGVkdWlhbi5saW5rIiwicG9ydCI6MzA4MzcsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidjM3LmhlZHVpYW4ubGluayIsInBhdGgiOiIvb29vbyIsInRscyI6ZmFsc2UsInNuaSI6IiJ9
 vmess://eyJ2IjoyLCJwcyI6IvCfh7rwn4e4IFVTQSB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJhZGQiOiJ2NS5oZWR1aWFuLmxpbmsiLCJwb3J0IjozMDgwNSwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJ2NS5oZWR1aWFuLmxpbmsiLCJwYXRoIjoiL29vb28iLCJ0bHMiOmZhbHNlLCJzbmkiOiIifQ==
 vmess://eyJ2IjoyLCJwcyI6IvCfh7rwn4e4IFVTQSB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJhZGQiOiJ2Ny5oZWR1aWFuLmxpbmsiLCJwb3J0IjozMDgwNywiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJvY2JjLmNvbSIsInBhdGgiOiIvb29vbyIsInRscyI6ZmFsc2UsInNuaSI6IiJ9
-# Last updated: 2025-07-18 02:30:20
+# Last updated: 2025-07-18 03:30:22
