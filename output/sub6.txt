@@ -382,4 +382,4 @@ vless://186c95f5-9814-4082-83f8-948a426f5eac@www.speedtest.net:2096?mode=auto&pa
 vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=hvxoo.metahkh.com#Telegram: @HedwigV2ray
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-07-19 10:30:23
+# Last updated: 2025-07-19 11:30:19
