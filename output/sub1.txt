@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnRWUyVVl2SVZMUzBUT0NUTEJHeEZQ@154.205.147.68:8443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoa1RHbmdIcXpWbUxLajRQR3ZaVG1Z@h110vpnus.outlinekeys.net:9483#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodzQwNHhSa3JkMXlSNUVDZGc3RkFY@178.209.40.92:8443#🇨🇭 Switzerland | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqWGZzeWFVVHdaeEd1YVNMd0lreTNT@h110vpnnl.outlinekeys.net:52571#Telegram: @HedwigV2ray
@@ -18,7 +19,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpseVc0THVEV0pnSERBbkMzWkRadHNW@81.19.141.45:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptQjBMOUhkbko0QmlkWjZBM2xvTUdj@37.235.55.232:8443#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTGxoeDNIZkJ0dkl0TFRm@admin.c4.havij.co:443?type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmM5Tk5jbGYyamtqTGxtTkxhV2c4@83.172.139.15:8443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.123.5:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#Telegram: @HedwigV2ray
@@ -134,7 +134,6 @@ ss://YWVzLTEyOC1nY206dG1kODQyNw@120.233.71.140:52252#🇭🇰 Hong Kong | Telegr
 ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#Telegram: @HedwigV2ray
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@217.30.10.18:9014#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6TmV3UGFzc0M=@154.223.21.223:989#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6TmV3UGFzczI@154.223.21.222:989#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#Telegram: @HedwigV2ray
@@ -157,8 +156,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.251.195:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.190.1.125:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#Telegram: @HedwigV2ray
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.200.220.184:443#Telegram: @HedwigV2ray
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.70.176.73:443#Telegram: @HedwigV2ray
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.248.142.136:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.106.229.219:989#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#Telegram: @HedwigV2ray
@@ -194,6 +192,7 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.176:5500#Telegram: @Hed
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#Telegram: @HedwigV2ray
+ss://YWVzLTI1Ni1nY206TE9ISTk2VzRNWTdVMlQ4VA@219.135.227.209:16003#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206TWpRY3Z4Q0Z3M2hCMFEwNXY3K0RTWVlqRU45QVZPWStMTUQwWFJrSkVqWT0=@152.42.254.253:30262#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206TlRBeFpUazJOR1kyWlRNek5qaGhOemxrTnpWall6VXdNamRqTldKaA==@193.142.30.152:10081#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206Tml6bkx2b0l1eQ==@220.124.31.130:19378#Telegram: @HedwigV2ray
@@ -230,7 +229,6 @@ ss://YWVzLTI1Ni1nY206dzdiQ3I4S0tMeW5DaHNPcVVzS0RRTUtidzRBMEZNS1ZETU8xdzVrcndyMVh
 ss://bm9uZTphYmFjYWJjLWFhYmMtYmNhYS1hYmRjLWJjYmJhYWFhY2NiYw==@127.0.0.1:1080#Telegram: @HedwigV2ray
 ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.unlimited.biz.id:443?encryption=none&type=ws&host=aio.unlimited.biz.id&path=/aioproxybot/129.150.49.58-18650&security=tls&sni=aio.unlimited.biz.id#Telegram: @HedwigV2ray
 ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.xtradata.dpdns.org:80?encryption=none&type=ws&host=aio.xtradata.dpdns.org&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.xtradata.dpdns.org#Telegram: @HedwigV2ray
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaFlqaGlOakkxWXkxbFptSTRMVFExWTJRdFlqVXdPUzFqTjJOalpXRmlaVEJqWXpZ@soonjp.soon.guru:40003#Telegram: @HedwigV2ray
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.360:443#Telegram: @HedwigV2ray
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.370:443#Telegram: @HedwigV2ray
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.380:443#Telegram: @HedwigV2ray
@@ -257,6 +255,8 @@ ss://chacha20-ietf-poly1305:trv-cnUFki4Y7mo_DxsXRQ@8.8.8.8:8888#Telegram: @Hedwi
 ss://chacha20-ietf-poly1305:trv-cnUFki4Y7mo_DxsXRQ@homa.cybsecguru.com:62005#Telegram: @HedwigV2ray
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#Telegram: @HedwigV2ray
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#Telegram: @HedwigV2ray
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#Telegram: @HedwigV2ray
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#Telegram: @HedwigV2ray
 ss://cmM0LW1kNTppRkRFMFo@kraz01.fjk.wtf:20353#Telegram: @HedwigV2ray
 ss://cmM0LW1kNTppRkRFMFo@sg17.fjk.wtf:20353#Telegram: @HedwigV2ray
 trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=gg&sni=speedtest.net#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -317,4 +317,4 @@ trojan://Aimer@192.0.54.221:2083?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me
 trojan://Aimer@27.50.48.61:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmf.ambercc.filegear-sg.me&type=ws&sni=epmf.ambercc.filegear-sg.me#Telegram: @HedwigV2ray
 trojan://Aimer@45.80.209.25:81?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#🇩🇪 Germany | Telegram: @HedwigV2ray
 trojan://Bia-DailyConfigs@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&security=reality&pbk=ZDqMqclXIFjaEvYbYCElqQXLgglpsP06zKTpHrq2EQ4&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=fafait.net&sid=fe3a2e89#Telegram: @HedwigV2ray
-# Last updated: 2025-07-19 06:30:16
+# Last updated: 2025-07-19 07:30:18
