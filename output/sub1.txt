@@ -317,4 +317,4 @@ trojan://PavClLIvFd@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#Telegram: @HedwigV2ray
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#Telegram: @HedwigV2ray
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#Telegram: @HedwigV2ray
-# Last updated: 2025-07-18 23:30:19
+# Last updated: 2025-07-19 00:30:20
