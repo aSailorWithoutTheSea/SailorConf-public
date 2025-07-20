@@ -317,4 +317,4 @@ trojan://Aimer@192.0.54.221:2083?allowInsecure=0&sni=ngep.ambercc.filegear-sg.me
 trojan://Aimer@27.50.48.61:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmf.ambercc.filegear-sg.me&type=ws&sni=epmf.ambercc.filegear-sg.me#Telegram: @HedwigV2ray
 trojan://Aimer@45.80.209.25:81?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#🇩🇪 Germany | Telegram: @HedwigV2ray
 trojan://Bia-DailyConfigs@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&security=reality&pbk=ZDqMqclXIFjaEvYbYCElqQXLgglpsP06zKTpHrq2EQ4&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=fafait.net&sid=fe3a2e89#Telegram: @HedwigV2ray
-# Last updated: 2025-07-20 00:30:19
+# Last updated: 2025-07-20 01:30:19
