@@ -34,6 +34,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.136
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#🇮🇳 India | Telegram: @HedwigV2ray
@@ -191,7 +192,6 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#🇩🇪 Germ
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇨🇦 Canada | Telegram: @HedwigV2ray
-vless://c463fd0a-1379-4b83-afe2-713719e406ad@adakana.alcatelindan.com:45980?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://c6132f27-e603-4176-8b15-278907af7ead@test.leperfume.ir:443?mode=multi&security=reality&encryption=none&pbk=8eFzByo1ERD94b3SfZDmOoeykxKCXi8OpQhnSof5OQY&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=8e#Telegram: @HedwigV2ray
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=chrome&type=ws&sni=vless8-ekh.pages.dev#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://cc5d15ef-fd93-40f6-b2f9-7a80225e7e5d@www.speedtest.net:2096?security=tls&encryption=none&type=ws&host=638879176706570136.amsterdam-prx-dnraaal.info&path=/nqxbfjws&sni=638879176706570136.amsterdam-prx-dnraaal.info&fp=chrome#Telegram: @HedwigV2ray
@@ -246,4 +246,4 @@ vmess://eyJhZGQiOiJ2anAzLjBiYWQuY29tIiwiYWlkIjowLCJob3N0IjoidmpwMy4wYmFkLmNvbSIs
 vmess://eyJhZGQiOiJjYzJkYXNoLjg5MDYwMDA0Lnh5eiIsImFpZCI6MCwiaG9zdCI6ImNjMmRhc2guODkwNjAwMDQueHl6IiwiaWQiOiIyZmMzNzcxMy0zMDE3LTQ5N2UtZmYyZC05NjVmODI2YTE5YTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MjA5NiwicHMiOiJUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiY2MyZDEuODkwNjAwMDQueHl6In0=
 vmess://eyJhZGQiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiYWlkIjowLCJob3N0Ijoib3J2cHMyLmhvcnNlbm1hLm5ldCIsImlkIjoiNTdlNTk1ZTYtZWY1NC00ZTBkLWI4ZGYtZTk2ZGI5NjEyYjk5IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hvcnNlbiIsInBvcnQiOjg0NDMsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJwYXRoIjoiLyIsImFkZCI6Im1vdmFnaGF0MjAuZnVuZmlsLmxpbmsiLCJ0eXBlIjoiaHR0cCIsImlkIjoiMDhhM2JkZDItMjE2Ny00NzYxLWI1NDctZThiZDFiNGE0NGVjIiwiaG9zdCI6InRlbGV3ZWJpb24uY29tIiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsInBvcnQiOiI0ODkxMyIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkifQ==
-# Last updated: 2025-07-21 03:30:26
+# Last updated: 2025-07-21 04:30:22

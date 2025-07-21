@@ -13,7 +13,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZkhlTTY3d05mT3lGQk1WZVZNV3Zw@62.210.88.22:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#🇮🇳 India | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 Russia | Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#🇷🇺 Russia | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGs2U240NVlYSUo0cERHRFVxeTNp@78.129.140.11:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5ZjRoSzRoRmpuYXM0allNaWMxcXpZ@213.111.131.70:8443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🇬🇧 UK | Telegram: @HedwigV2ray
@@ -96,6 +95,7 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.154:8388#🇭🇰 Hong Kong | 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Japan | Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan | Telegram: @HedwigV2ray
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#🇨🇭 Switzerland | Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#🇨🇭 Switzerland | Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#🇨🇭 Switzerland | Telegram: @HedwigV2ray
@@ -135,6 +135,7 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.98:64759#🇹🇼 Taiwan | Tel
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#🇵🇱 Poland | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA==@176.32.35.68:10111#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#🇯🇵 Japan | Telegram: @HedwigV2ray
+ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#Telegram: @HedwigV2ray
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.154.18:38388#Telegram: @HedwigV2ray
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -146,8 +147,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguar
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freeguard.org#Telegram: @HedwigV2ray
 trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@18.167.126.55:40091?security=tls&sni=hk12.bilibili.com&type=tcp&allowInsecure=1#Telegram: @HedwigV2ray
-trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#Telegram: @HedwigV2ray
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?#Telegram: @HedwigV2ray
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?allowInsecure=1#Telegram: @HedwigV2ray
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&allowInsecure=1&type=tcp&headerType=none#Telegram: @HedwigV2ray
@@ -172,7 +171,6 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?type=ws&sni=vle.amclubdns.dpdns.org&path=/?ed=2560&PROT_TYPE=trojan&host=vle.amclubdns.dpdns.org#🇷🇺 Russia | Telegram: @HedwigV2ray
 trojan://da631e61-bead-4c9c-8bd7-7bea82f736ae@js-12f83a8c.kaiqsz.com:12221?allowInsecure=0&sni=nkrpjj.cn#Telegram: @HedwigV2ray
 trojan://da631e61-bead-4c9c-8bd7-7bea82f736ae@js-12f83a8c.kaiqsz.com:12221?sni=nkrpjj.cn#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
-trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#Telegram: @HedwigV2ray
 trojan://pChLk4O2J8@91.107.141.97:50255?type=tcp&security=none#Telegram: @HedwigV2ray
 trojan://telegram-id-directvpn@13.36.253.184:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
 trojan://telegram-id-directvpn@13.36.56.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
@@ -418,13 +416,14 @@ vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=/TELEGRAM-MAR
 vless://8cb143d6-ba4e-4217-987f-38abbf2ff4f2@172.67.174.89:443?encryption=none&security=tls&sni=pPaL03.liana-guTKowSKi.wOrKErs.dEv&alpn=h2,http/1.1&fp=chrome&type=ws&host=PPaL03.LiaNA-gUtKowskI.worKerS.dev&path=---@External\_Net---@External\_Net---@External\_Net---@External\_Net---@External\_Net?ed=2560#Telegram: @HedwigV2ray
 vless://8e0cdac9-ab9d-4022-8325-7e482cb327e4@104.20.19.168:8880?type=ws#Telegram: @HedwigV2ray
 vless://8e93b7d9-d134-4440-90b4-430248a97fe9@zeusly.house0of1nyxora.top:2087?security=reality&encryption=none&pbk=3XkvyZPLeTeTSQKy5k5i18k-qerFN8JJVIjNEQyMI3U&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=093a087278#Telegram: @HedwigV2ray
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?path=/?ed=#Telegram: @HedwigV2ray
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&type=ws&sni=kawaiifreevpn.pages.dev#Telegram: @HedwigV2ray
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.169.132:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?path=%2F&security=&encryption=none&type=ws#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuIHwgVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsImFkZCI6IjgwNzcwOTJjLXN6bmxzMC10MHdwcWQtNGN3Zy43Ny5pd3Nrd2FpLmNvbSIsInBvcnQiOjM2ODcsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiIwM2MxZDUwMy00ODAzLTExZWYtOGYzZC1mMjNjOTMxM2IxNzcifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsImFkZCI6IjEyNy4xLjEuMTI3IiwicG9ydCI6IjgwIiwiaWQiOiI2MDI3MzZlNC1hMmU4LTRlYjMtOWZjOS03YzcwODI5MjUzNjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsImFkZCI6IjgwNzcwOTJjLXN6bmxzMC10MHdwcWQtNGN3Zy43Ny5pd3Nrd2FpLmNvbSIsInBvcnQiOiIzNjg3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjAzYzFkNTAzLTQ4MDMtMTFlZi04ZjNkLWYyM2M5MzEzYjE3NyIsInNuaSI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDMzIiwiaWQiOiJGcmVlIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjYifQ==
 vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjowLCJob3N0IjoiNTEuNzkuMTAyLjI1MyIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0Ijo4MCwicHMiOiLwn4eo8J+HpiBDYW5hZGEgfCBUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vmess://eyJhZGQiOiI1NDEwMjkzNi1zd2toczAtc3h3c29zLWczYjMuaGsucDVwdi5jb20iLCJhaWQiOjIsImhvc3QiOiI1NDEwMjkzNi1zd2toczAtc3h3c29zLWczYjMuaGsucDVwdi5jb20iLCJpZCI6IjlhZDA1ODcwLWQ4YzUtMTFlZi05ZjFjLWYyM2M5MTNjOGQyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiLwn4et8J+HsCBIb25nIEtvbmcgfCBUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
 vmess://eyJhZGQiOiI3NmQ5ZGJmOS1zdmE3NDAtc3plZ29lLTEyaGo4LmhrMy5wNXB2LmNvbSIsImFpZCI6MiwiaG9zdCI6Ijc2ZDlkYmY5LXN2YTc0MC1zemVnb2UtMTJoajguaGszLnA1cHYuY29tIiwiaWQiOiI1YWNjN2E3Yy1kN2VhLTExZWItODY3My1mMjNjOTE2NGNhNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nIHwgVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
@@ -459,4 +458,4 @@ vmess://eyJhZGQiOiJoeXR0dHRlc2d2dnhiMi5qa2hrZ2oueHl6IiwiYWlkIjowLCJob3N0IjoiZmls
 vmess://eyJhZGQiOiJoeXR0dHRlc2d2dnhiMi5qa2hrZ2oueHl6IiwiYWlkIjowLCJob3N0IjoiZmlsZS5kaW5ndGFsay5jb20iLCJpZCI6ImUxNWFjM2NlLTZhMWEtNDEyYS1hYTA3LTRiYzUyZGFhNTkzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9tYXJrZXQvc2c/ZWQ9NTEyIiwicG9ydCI6ODAsInBzIjoi8J+HufCfh7wgVGFpd2FuIHwgVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJhZGQiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiYWlkIjowLCJob3N0Ijoib3J2cHMyLmhvcnNlbm1hLm5ldCIsImlkIjoiNTdlNTk1ZTYtZWY1NC00ZTBkLWI4ZGYtZTk2ZGI5NjEyYjk5IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hvcnNlbiIsInBvcnQiOjg0NDMsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJhZGQiOiJzc3Nzc3Nzc3ZhZTIuamtoa2dqLnh5eiIsImFpZCI6MCwiaG9zdCI6InNzc3Nzc3NzdmFlMi5qa2hrZ2oueHl6IiwiaWQiOiJlMTVhYzNjZS02YTFhLTQxMmEtYWEwNy00YmM1MmRhYTU5MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFya2V0L3NnP2VkPTUxMiIsInBvcnQiOjgwLCJwcyI6IvCfh7nwn4e8IFRhaXdhbiB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-# Last updated: 2025-07-21 03:30:25
+# Last updated: 2025-07-21 04:30:21
