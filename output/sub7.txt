@@ -24,6 +24,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:803#🇸�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:810#🇸🇬 Singapore | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:805#🇸🇬 Singapore | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:803#🇸🇬 Singapore | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:806#🇸🇬 Singapore | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:800#🇸🇬 Singapore | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:805#🇸🇬 Singapore | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:800#🇸🇬 Singapore | Telegram: @HedwigV2ray
@@ -164,7 +165,6 @@ ss://YWVzLTI1Ni1nY206YXRqZ3NKWG1jdg==@103.15.91.171:52327#🇻🇳 Vietnam | Tel
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#🇩🇪 Germany | Telegram: @HedwigV2ray
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#🇺🇸 USA | Telegram: @HedwigV2ray
-vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?flow=&path=/&type=ws#Telegram: @HedwigV2ray
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?flow=&path=/&type=ws#Telegram: @HedwigV2ray
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -257,4 +257,4 @@ vmess://eyJhZGQiOiJ2anAzLjBiYWQuY29tIiwiYWlkIjowLCJob3N0IjoidmpwMy4wYmFkLmNvbSIs
 vmess://eyJhZGQiOiJjYzJkYXNoLjg5MDYwMDA0Lnh5eiIsImFpZCI6MCwiaG9zdCI6ImNjMmRhc2guODkwNjAwMDQueHl6IiwiaWQiOiIyZmMzNzcxMy0zMDE3LTQ5N2UtZmYyZC05NjVmODI2YTE5YTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MjA5NiwicHMiOiJUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiY2MyZDEuODkwNjAwMDQueHl6In0=
 vmess://eyJhZGQiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiYWlkIjowLCJob3N0Ijoib3J2cHMyLmhvcnNlbm1hLm5ldCIsImlkIjoiNTdlNTk1ZTYtZWY1NC00ZTBkLWI4ZGYtZTk2ZGI5NjEyYjk5IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hvcnNlbiIsInBvcnQiOjg0NDMsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJwYXRoIjoiLyIsImFkZCI6Im1vdmFnaGF0MjAuZnVuZmlsLmxpbmsiLCJ0eXBlIjoiaHR0cCIsImlkIjoiMDhhM2JkZDItMjE2Ny00NzYxLWI1NDctZThiZDFiNGE0NGVjIiwiaG9zdCI6InRlbGV3ZWJpb24uY29tIiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsInBvcnQiOiI0ODkxMyIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkifQ==
-# Last updated: 2025-07-20 23:30:28
+# Last updated: 2025-07-21 00:30:24
