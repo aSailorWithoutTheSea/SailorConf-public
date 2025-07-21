@@ -222,6 +222,10 @@ trojan://da631e61-bead-4c9c-8bd7-7bea82f736ae@js-12f83a8c.kaiqsz.com:12221?sni=n
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#Telegram: @HedwigV2ray
 trojan://pChLk4O2J8@91.107.141.97:50255?type=tcp&security=none#Telegram: @HedwigV2ray
 trojan://telegram-id-directvpn@13.36.253.184:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
+trojan://telegram-id-directvpn@13.36.56.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
+trojan://telegram-id-directvpn@13.37.112.18:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
+trojan://telegram-id-directvpn@13.37.140.67:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
+trojan://telegram-id-directvpn@13.37.253.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#Telegram: @HedwigV2ray
 vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?path=%2Fgflzprws&security=tls&encryption=none&host=638879176706376779.amsterdam-prx-dnraaal.info&fp=chrome&type=ws&sni=638879176706376779.amsterdam-prx-dnraaal.info#🇨🇦 Canada | Telegram: @HedwigV2ray
@@ -285,4 +289,4 @@ vmess://eyJhZGQiOiJoeXR0dHRlc2d2dnhiMi5qa2hrZ2oueHl6IiwiYWlkIjowLCJob3N0IjoiZmls
 vmess://eyJhZGQiOiJoeXR0dHRlc2d2dnhiMi5qa2hrZ2oueHl6IiwiYWlkIjowLCJob3N0IjoiZmlsZS5kaW5ndGFsay5jb20iLCJpZCI6ImUxNWFjM2NlLTZhMWEtNDEyYS1hYTA3LTRiYzUyZGFhNTkzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9tYXJrZXQvc2c/ZWQ9NTEyIiwicG9ydCI6ODAsInBzIjoi8J+HufCfh7wgVGFpd2FuIHwgVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJhZGQiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiYWlkIjowLCJob3N0Ijoib3J2cHMyLmhvcnNlbm1hLm5ldCIsImlkIjoiNTdlNTk1ZTYtZWY1NC00ZTBkLWI4ZGYtZTk2ZGI5NjEyYjk5IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hvcnNlbiIsInBvcnQiOjg0NDMsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJhZGQiOiJzc3Nzc3Nzc3ZhZTIuamtoa2dqLnh5eiIsImFpZCI6MCwiaG9zdCI6InNzc3Nzc3NzdmFlMi5qa2hrZ2oueHl6IiwiaWQiOiJlMTVhYzNjZS02YTFhLTQxMmEtYWEwNy00YmM1MmRhYTU5MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFya2V0L3NnP2VkPTUxMiIsInBvcnQiOjgwLCJwcyI6IvCfh7nwn4e8IFRhaXdhbiB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-# Last updated: 2025-07-21 12:30:21
+# Last updated: 2025-07-21 13:30:21

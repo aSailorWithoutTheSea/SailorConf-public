@@ -318,4 +318,4 @@ vless://f50b488a-ddf3-45d5-8521-8b2236ffb656@discord.com:8443?mode=gun&security=
 vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@85.198.8.108:8000?security=none&encryption=none&type=ws#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@bb.iranlit.ir:9520?mode=gun&security=reality&encryption=none&pbk=3EWvgfHUv-7aKL47dJL1WiIHY43aeWo8QUZRjzCw0RI&fp=chrome&type=grpc&serviceName=9520vless&sni=refersion.com&sid=6f84e8adb893b4bd#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@s1t3.kafeistanbul.shop:8000?security=&encryption=none&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-07-21 12:30:21
+# Last updated: 2025-07-21 13:30:21
