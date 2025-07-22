@@ -182,7 +182,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@4.250.57.235:443#Teleg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZ3JoSUY5c2lsUUtNNHk0NUZ2c0Zq@h110vpntr.outlinekeys.net:65262#🇹🇷 Turkey | Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.44.211:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.135.28:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.166.103:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@4.159.35.230:443#🇬🇧 UK | Telegram: @HedwigV2ray
@@ -216,4 +215,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRWd0U2EyOVZ2Umo=@81.177.214.213:443#Telegra
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHT201bzZJaXY2YWVwS0Yz@admin.c4.havij.co:443?type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHa2lSYTZMNFhpOEJjVFM5dEo0WTF5@h110vpnde.outlinekeys.net:21712#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdGtLc1FmaFd1S0lJR3kyemhRMVpy@154.205.147.68:8443#Telegram: @HedwigV2ray
-# Last updated: 2025-07-22 17:30:20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIbklkcVlvNjd1TWRMRm01dDMwUmR6@45.151.74.124:8443#🇩🇪 Germany | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpId2NLQzZQT2hmV3BlbFgxRXBQdkdq@178.209.40.88:8443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpId2NLQzZQT2hmV3BlbFgxRXBQdkdq@178.209.40.88:8443#🇨🇭 Switzerland | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT29nTkk4ZVJ5TlN1Z3BjdVF6Y3l4@h110vpnus.outlinekeys.net:9483#🇺🇸 USA | Telegram: @HedwigV2ray
+# Last updated: 2025-07-22 18:30:22

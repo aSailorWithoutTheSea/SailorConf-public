@@ -47,9 +47,7 @@ vless://7af2ce13-cba4-4169-b5b6-2cafac25c8d3@104.248.194.230:80?mode=auto&path=/
 vless://7af2ce13-cba4-4169-b5b6-2cafac25c8d3@104.248.194.230:80?mode=auto&path=/shahinshams?ed=2560&security=reality&encryption=none&pbk=z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE&host=sha834ydtrfcvshin3877.global.ssl.fastly.ne…#Telegram: @HedwigV2ray
 vless://88d5b659-3c15-47a6-ae3c-b79ed49ef9f3@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://88e51db8-dd45-4fc6-8be9-20b89421841e@t.v2-sajad.xnet.com.de:30001?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
-vless://8ba58b84-3c41-4a94-8bea-dce84b9debdd@157.245.27.216:46192?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.76.167:80?type=ws&path=/?ed=2560#Telegram: @HedwigV2ray
-vless://8c53c45d-2de8-4ce5-94de-ded01114d40a@free-nl.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#Telegram: @HedwigV2ray
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=/telegram@v2ray_alpha/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ggggr.pages.dev&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#Telegram: @HedwigV2ray
 vless://94d71afc-7407-433d-8a64-508d51d5d78d@151.101.130.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws/?ed=2052#Telegram: @HedwigV2ray
 vless://94d71afc-7407-433d-8a64-508d51d5d78d@151.101.2.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws/?ed=2052#Telegram: @HedwigV2ray
@@ -130,4 +128,4 @@ vmess://eyJhZGQiOiJubC5kbnN6b25lLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiJubC5kbnN6b25lLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5YWQzZjBhZi1lMDhmLTQ0MWUtOTgxMC0zZjFmNWQ5N2Y3ZGUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NTAwIiwicHMiOiJUZWxlZ3JhbTogQEhlZHdpZ1YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJwcmltZXIuaWJpbGliaS5saSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibG9raS5vcmFjbGUiLCJpZCI6ImU1ODUyMzkzLWNhNTItNGM5MC1hMjM3LWQ2M2NiYmI1N2YyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9mYXJjcnk/ZWQ9MjU2MCIsInBvcnQiOiI0NDMiLCJwcyI6IlRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJzcjEwLm1pbmhvc3Quc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY3OTNhYzgxLTRhYjItNDU5Yy04MzNiLWU2YTZlMzQ4NzNhMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MiIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-# Last updated: 2025-07-22 17:30:20
+# Last updated: 2025-07-22 18:30:23
