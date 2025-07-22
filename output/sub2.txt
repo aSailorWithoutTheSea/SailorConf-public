@@ -235,4 +235,4 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=/Etb1L6YUdZF
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880?encryption=none&security=none&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/Etb1L6YUdZFZuTOr?ed=2560#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@vizzpn.freenet.channel.vizzfrag.ir:8880?encryption=none&security=none&type=ws&host=vngsupply.ip-ddns.com&path=/fgvtHUpS6R8Rv8s5?ed=2560#Telegram: @HedwigV2ray
-# Last updated: 2025-07-22 00:30:20
+# Last updated: 2025-07-22 01:30:21
