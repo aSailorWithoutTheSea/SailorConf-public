@@ -254,4 +254,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#Telegram: 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakpoWQ==@83.147.18.163:8388#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg==@45.140.167.94:8388#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#Telegram: @HedwigV2ray
-# Last updated: 2025-07-23 12:30:22
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTmNudmMzczFUNnFuekxWQzZ3aEEz@154.205.147.68:8443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZXdQYXNz@185.231.205.247:989#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZXdQYXNzMw@45.144.48.64:57456#Telegram: @HedwigV2ray
+# Last updated: 2025-07-23 13:30:29

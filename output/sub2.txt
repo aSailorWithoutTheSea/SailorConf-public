@@ -1,6 +1,3 @@
-vless://d475df47-2b3b-4488-9c8c-146dabbb7f9e@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#Telegram: @HedwigV2ray
-vless://d475df47-2b3b-4488-9c8c-146dabbb7f9e@91.107.170.231:2053?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
-vless://d4767ec7-db1f-4684-ebda-31dbfcb36761@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#Telegram: @HedwigV2ray
 vless://d499f80c-214c-427b-8b5f-19654932a83f@194.135.46.24:443?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://d4af3edf-0a58-492e-b6c8-b3f3238df7c1@51.222.158.243:8443?path=/proNG1&security=tls&encryption=none&host=/proNG1&fp=chrome&type=ws&sni=ov-canada3.09vpn.com#Telegram: @HedwigV2ray
 vless://d4e16da9-8bbb-473f-abba-5ccfd73f4d51@tunel-finland.katolvpn.sbs:2020?headerType=http&host=fast.com&path=/&security=none&type=tcp#Telegram: @HedwigV2ray
@@ -369,4 +366,6 @@ vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?path=/Barayeiranm
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?path=/Barayeiranmahsang/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed=2560&security=none&encryption=none&host=barayeiranmahsang.juveitaly.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.juveitaly.dpdns.org#Telegram: @HedwigV2ray
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#Telegram: @HedwigV2ray
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-07-23 12:30:22
+vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#Telegram: @HedwigV2ray
+vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#Telegram: @HedwigV2ray
+# Last updated: 2025-07-23 13:30:28
