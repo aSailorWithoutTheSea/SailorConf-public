@@ -1,3 +1,8 @@
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.169.132:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#Telegram: @HedwigV2ray
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#Telegram: @HedwigV2ray
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#🇨🇦 Canada | Telegram: @HedwigV2ray
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#🇮🇷 Iran | Telegram: @HedwigV2ray
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.186:8443?security=tls&sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO&path=/#Telegram: @HedwigV2ray
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=IaErIbZlCb.WaSaBi1.OrG&fp=chrome&type=ws&sni=IaErIbZlCb.WaSaBi1.OrG#Telegram: @HedwigV2ray
 vless://9e89c39f-e835-48a6-a74b-b5e29854de98@198.62.62.4:2096?type=ws&host=638877920252254085.kish-prx-dnraaaf.info&path=/goiotyws&security=tls&sni=638877920252254085.kish-prx-dnraaaf.info&alpn=h3h2#Telegram: @HedwigV2ray
 vless://9e8c0b71-1e9e-4a4d-9e86-4ea9772ef534@mci.dl101movis.ir:80?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false, "xmux": {"maxConcurrency": "16-32", "maxConnections": 0, "cMaxReuseTimes": "64-128", "cMaxLifetimeMs": 0, "hMaxRequestTimes": "800-900", "hKeepAlivePeriod": 0}}&host=sudo2014.ir&type=xhttp#Telegram: @HedwigV2ray
@@ -395,6 +400,4 @@ vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=...?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#Telegram: @HedwigV2ray
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=...?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#Telegram: @HedwigV2ray
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#🇮🇷 Iran | Telegram: @HedwigV2ray
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&encryption=none&host=gGHDFa.pAgeS.Dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#Telegram: @HedwigV2ray
-# Last updated: 2025-07-23 03:30:19
+# Last updated: 2025-07-23 04:30:20
