@@ -378,4 +378,4 @@ vless://a95a388b-2e03-4630-8b1c-6bf3257c2e93@104.31.16.104:2053?path=/&security=
 vless://a9b1ceba-df8c-4791-9b22-f9bcae8d0e45@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#Telegram: @HedwigV2ray
 vless://a9b310d1-0340-4809-ab99-0c7c57f22a4a@85.133.250.161:13971?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#Telegram: @HedwigV2ray
 vless://a9c1e3f5-2a3b-4c5d-6e7f-8a9b0c1d2e3f@185.199.229.122:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#Telegram: @HedwigV2ray
-# Last updated: 2025-07-24 00:30:24
+# Last updated: 2025-07-24 01:30:18
