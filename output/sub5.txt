@@ -409,4 +409,4 @@ vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.66.132.196:443?path=/Tel-@V2ray
 vless://d13b3634-094c-41fd-8154-76a512662dbe@31.44.4.107:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://d15a8968-954d-4315-9ea2-b8147908e688@51.77.40.81:18764?type=tcp&host=telewebion.com&headerType=http#Telegram: @HedwigV2ray
 vless://d16407ba-e859-4a02-a15b-fa88b791ebae@193.5.44.197:2070?security=&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-07-24 02:30:23
+# Last updated: 2025-07-24 03:30:22
