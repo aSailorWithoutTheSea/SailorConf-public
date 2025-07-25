@@ -2,6 +2,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@43.199.75.50:8313#🇧🇷 Brazil | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@54.238.207.188:8313#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@54.238.207.188:8319#🇧🇷 Brazil | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@54.238.207.188:8319#🇮🇷 Iran | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpseVc0THVEV0pnSERBbkMzWkRadHNW@81.19.141.45:443#Telegram: @HedwigV2ray
@@ -100,7 +102,6 @@ vless://0af87088-87c9-403b-9369-70186cb711c3@fran.speedgloobalontop.ir:2053/?mod
 vless://0af87088-87c9-403b-9369-70186cb711c3@fran.speedgloobalontop.ir:2053?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#Telegram: @HedwigV2ray
 vless://0af87088-87c9-403b-9369-70186cb711c3@hibbb.fast.hosting-ip.com:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=sdkdsd2.global.ssl.fastly.net&type=xhttp#Telegram: @HedwigV2ray
 vless://0ee990e4-d854-483f-ac4b-d920d0909601@cellone.learn-new.ir:443?security=reality&alpn=http/1.1&encryption=none&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=khanacademy.org&sid=6acf3ba5790e4324#Telegram: @HedwigV2ray
-vless://106ec985-43f9-4999-b975-adcab5c57b5a@uk-2-rvp.medicaldream.ir:443?security=tls&sni=uk-2-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-2-rvp.medicaldream.ir&encryption=none#Telegram: @HedwigV2ray
 vless://10bf842c-ff96-4460-b18c-55d4c3740fc9@91.98.21.58:18606?type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&authority=&security=reality&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram: @HedwigV2ray
 vless://11270c97-b53d-41af-ad40-25bc1b2713fd@nl1vip.vnetplus.click:20062?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://11270c97-b53d-41af-ad40-25bc1b2713fd@nl1vip.vnetplus.click:20062?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
@@ -462,4 +463,4 @@ vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 vmess://eyJhZGQiOiJubC5kbnN6b25lLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlODFlNzEwNy0xOWI0LTRlODgtODAxNS04MjBkY2JiMGEwNDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NTAwIiwicHMiOiJUZWxlZ3JhbTogQEhlZHdpZ1YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJwcm9tLmxlYXJuLW5ldy5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29mdDk4LmlyIiwiaWQiOiIxOWVmNWZjNC1lZGE0LTQ0ODgtOTA0Yi1lODc0NGIxYjRjMzciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1FVZU1FV3V0WlBZWVZubktqIiwicG9ydCI6IjgwIiwicHMiOiJUZWxlZ3JhbTogQEhlZHdpZ1YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJwcm9tLmxlYXJuLW5ldy5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiJzb2Z0OTguaXIiLCJpZCI6IjBlZTk5MGU0LWQ4NTQtNDgzZi1hYzRiLWQ5MjBkMDkwOTYwMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvUVVlTUVXdXRaUFlZVm5uS2oiLCJwb3J0IjoiODAiLCJwcyI6IlRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoic29mdDk4LmlyIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-# Last updated: 2025-07-25 05:30:18
+# Last updated: 2025-07-25 06:30:20
