@@ -1,3 +1,9 @@
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#Telegram: @HedwigV2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=&type=ws&path=/1ycR2zb3KeELWRha?ed=2560&host=VngSuPpLY.IP-Ddns.com&encryption=none#🇹🇷 Turkey | Telegram: @HedwigV2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=none&encryption=none&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/1ycR2zb3KeELWRha?ed=2560#Telegram: @HedwigV2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=none&encryption=none&type=ws&host=VngSuPpLY.IP-Ddns.com&path=/1ycR2zb3KeELWRha?ed=2560#Telegram: @HedwigV2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=none&encryption=none&type=ws&host=VngSuPpLY.IP-Ddns.com&path=/1ycR2zb3KeELWRhaKING_V2RAAY?ed=2560#Telegram: @HedwigV2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=none&type=ws&path=/1ycR2zb3KeELWRha?ed=2560&host=VngSuPpLY.IP-DdnS.com&packetEncoding=xudp&encryption=none#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=none&type=ws&path=/1ycR2zb3KeELWRha?ed=2560&host=VngSuPpLY.IP-Ddns.com&packetEncoding=xudp&encryption=none#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&host=VngSuPpLY.IP-Ddns.com&path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560&host=VngSuPpLY.IP-Ddns.com#🇺🇸 USA | Telegram: @HedwigV2ray
@@ -118,6 +124,7 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&host=Vng
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560&host=VngSuPpLY.IP-DdnS.com#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560&host=VngSuPpLY.IP-Ddns.com#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560&host=VngSuPpLY.IP-Ddns.com#🇨🇦 Canada | Telegram: @HedwigV2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?path=/Etb1L6YUdZFZuTOr?ed&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇷🇺 Russia | Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?encryption=none&security=none&type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed=2560#Telegram: @HedwigV2ray
@@ -295,7 +302,4 @@ vless://efb59a75-a74d-4770-acc2-03a581b04f0c@gr.dnszone.top:45500?security=none&
 vless://efd33b7c-41cc-4139-b40e-f7472f32de3a@91.107.244.159:8080?security=none&encryption=none&host=drive.google.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://efe56d18-ea0c-4ff5-b8a5-9baa93fe70f2@91.107.130.202:2006?security=reality&encryption=none&pbk=RBZ8svckpp9tsX5QA8akGRx5fIKuCYk_diZhOHiHMGs&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=69#Telegram: @HedwigV2ray
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=/dy26vBaDi5RTblzP?ed=#Telegram: @HedwigV2ray
-vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=/dy26vBaDi5RTblzP?ed=#🇨🇦 Canada | Telegram: @HedwigV2ray
-vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=/dy26vBaDi5RTblzP?ed=2560&security=tls&encryption=none&host=net-aCcOUNt02.Pages.DEv&fp=chrome&type=ws&sni=net-aCcOUNt02.Pages.DEv#Telegram: @HedwigV2ray
-vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=/dy26vBaDi5RTblzP?ed=2560&security=tls&encryption=none&host=net-aCcOUNt02.Pages.DEv&fp=chrome&type=ws&sni=net-aCcOUNt02.Pages.DEv#🇨🇦 Canada | Telegram: @HedwigV2ray
-# Last updated: 2025-07-26 11:30:22
+# Last updated: 2025-07-26 12:30:22
