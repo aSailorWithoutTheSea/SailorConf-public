@@ -1,3 +1,4 @@
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=/34COh9NCiin5SJMk?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?security=none&type=ws&path=/34COh9NCiin5SJMk?ed=2560&host=VngSuPpLY.IP-DdnS.com&packetEncoding=xudp&encryption=none#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?type=ws&security=none&path=/34COh9NCiin5SJMk?ed=2560&host=VngSuPpLY.IP-DdnS.com#🇵🇭 Philippines | Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880#Telegram: @HedwigV2ray
@@ -293,4 +294,4 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?security=reali
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?sni=sourceforge.net&sid=26a52325&security=reality&encryption=none&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&fp=chrome&type=grpc&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&spx=/#Telegram: @HedwigV2ray
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11746?mode=gun&security=reality&encryption=none&pbk=PY9ZPXQhuNSjQAaiSl5GL9-TiXHnILEcNeYEAejv7jw&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c0f6f8b4#Telegram: @HedwigV2ray
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11746?mode=gun&security=reality&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&pbk=PY9ZPXQhuNSjQAaiSl5GL9-TiXHnILEcNeYEAejv7jw&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c0f6f8b4#Telegram: @HedwigV2ray
-# Last updated: 2025-07-26 09:30:21
+# Last updated: 2025-07-26 10:30:21
