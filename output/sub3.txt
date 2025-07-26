@@ -297,4 +297,4 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/vpnowl-vpnow
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#Telegram: @HedwigV2ray
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-07-26 15:30:20
+# Last updated: 2025-07-26 16:30:20
