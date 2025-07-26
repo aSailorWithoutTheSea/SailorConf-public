@@ -69,7 +69,6 @@ vless://affd5a9a-22fa-11ee-be56-0242ac120002@104.19.4.191:443?security=tls&alpn=
 vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&encryption=none&type=tcp&headerType=none#Telegram: @HedwigV2ray
-vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&type=tcp&packetEncoding=xudp&encryption=none#Telegram: @HedwigV2ray
 vless://b00dec1d-4a32-4554-8fae-0f368028cb0b@speedtest.net:80?security=none&encryption=none&type=xhttp&path=/fardin?ed=2048&mode=auto#Telegram: @HedwigV2ray
 vless://b00fb164-0491-432a-baf0-c904d1953425@speedtest.net:80?path=/ed=2560&security=none&encryption=none&host=speedtest.net.km&type=ws#Telegram: @HedwigV2ray
 vless://b0195ead-b808-44d9-babf-825483a2adb4@all97-vip.f-sub.com:1517?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -88,7 +87,6 @@ vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&en
 vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://b09886e7-85e9-401c-9da7-562864f32cbc@65.109.185.33:2052?security=none&type=tcp&packetEncoding=xudp&encryption=none#Telegram: @HedwigV2ray
 vless://b09c332f-7ca8-4e9a-a87c-6cec90a2d28c@172.236.195.11:443?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#Telegram: @HedwigV2ray
-vless://b09c332f-7ca8-4e9a-a87c-6cec90a2d28c@172.236.195.11:443?security=none&type=tcp&path=/&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#Telegram: @HedwigV2ray
 vless://b0c6d7bd-a10c-44ce-b651-8a245cac2f4e@103.21.244.221:80?encryption=none&security=none&type=ws&host=cool-sun-e406-ppal03.lafota3425.workers.dev&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://b0c6d7bd-a10c-44ce-b651-8a245cac2f4e@104.16.251.142:80?encryption=none&security=none&type=ws&host=cool-sun-e406-ppal03.lafota3425.workers.dev&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://b0dc0687-a93b-48e0-b80c-e7604d3a3f05@CoNFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=&encryption=none&host=antifilter.io&type=xhttp#Telegram: @HedwigV2ray
@@ -375,4 +373,11 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&p
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-# Last updated: 2025-07-26 06:30:22
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&mode=auto&path=/xhttp?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&mode=auto&path=/xhttp?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.222.180:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.80.215:8443?flow=&type=xhttp&host=&path=/xhttp&mode=stream-one&security=none#Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.80.215:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.80.215:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇮🇷 Iran | Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+# Last updated: 2025-07-26 07:30:21
