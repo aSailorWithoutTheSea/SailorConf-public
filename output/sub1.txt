@@ -361,4 +361,5 @@ vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?type=tcp&headerTy
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&type=tcp&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#Telegram: @HedwigV2ray
-# Last updated: 2025-07-27 04:30:20
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
+# Last updated: 2025-07-27 05:30:19

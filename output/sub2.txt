@@ -1,5 +1,3 @@
-vless://a304825c-4654-41ed-aac5-c41aaaaa1a2b@nl.dnszone.top:45600?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 France | Telegram: @HedwigV2ray
-vless://a3131986-6e64-403e-ad90-b6f964960976@confir.ananasv2.xyz:2086?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://a32dc633-f289-4510-8daa-b3f62b97b395@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://a333acaf-2817-4bf9-9221-c1a63bb80de8@216.128.141.124:443?mode=stream-one&path=/sdfghj&security=none&encryption=none&type=xhttp#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://a333acaf-2817-4bf9-9221-c1a63bb80de8@45.76.226.77:443?mode=stream-one&path=/sdfghj&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
@@ -369,4 +367,7 @@ vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=/?ed&security=
 vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?security=none&encryption=none&type=ws&host=aKmDuHdNrOjhEjGs13.FligHtbEaN24.Com&path=/?ed#Telegram: @HedwigV2ray
 vless://b24d897d-90cf-43a8-a301-0ae1165a63fb@all97-vip.f-sub.com:1517?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://b24d897d-90cf-43a8-a301-0ae1165a63fb@all97-vip.f-sub.com:1517?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#🇺🇸 USA | Telegram: @HedwigV2ray
-# Last updated: 2025-07-27 04:30:20
+vless://b2518d34-ff38-42f3-8570-6be5d02bb705@173.245.59.132:8080?path=/@MaHDiSeRVeR-@MaHDiSeRVeR-@MaHDiSeRVeR-@MaHDiSeRVeR-@MaHDiSeRVeR-@MaHDiSeRVeR?ed=2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://b26e6aca-66c8-491f-8389-b33ac192ffe8@speedtest.net:80?type=ws&host=foffmelo.com&path=/olem/ws?ed=1024/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://b26e6aca-66c8-491f-8389-b33ac192ffe8@zmaoz.faculty.ucdavis.edu:80?type=ws&host=foffmelo.com&path=/olem/ws?ed=1024/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
+# Last updated: 2025-07-27 05:30:19

@@ -269,4 +269,7 @@ vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-Ki
 vless://ecb7debe-7f59-47d1-8d6f-9cba9db57cc5@webshecan.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sid=53242a95#Telegram: @HedwigV2ray
 vless://ecd114aa-73a1-4868-b2fe-4436c985ac1d@webshecanbot.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sid=53242a95#Telegram: @HedwigV2ray
 vless://ed090d8f-07b2-40d8-936b-a8895f50e835@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-07-27 04:30:20
+vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&type=grpc&encryption=none#Telegram: @HedwigV2ray
+vless://ed4e3737-8340-4167-b6f3-201b4f8cbe60@91.99.168.24:2000?mode=auto&path=/&security=reality&encryption=none&pbk=qJrOyMGdEAv2yiAjr3KXtBse0kCSf3GNLeOvfoX2DHY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=233b77#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://ed4e6954-22ee-4417-bfb3-63c9e26eb1bc@65.109.207.127:33810?security=none&encryption=none&host=bmw.com/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&type=tcp#Telegram: @HedwigV2ray
+# Last updated: 2025-07-27 05:30:19
