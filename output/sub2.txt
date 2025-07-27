@@ -384,4 +384,4 @@ vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80/?type=
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://b0646bdd-2755-4abe-afb3-1fa5697e57ca@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Telegram: @HedwigV2ray
 vless://b087edf1-4da7-4379-9485-352f483be71f@104.17.147.22:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#Telegram: @HedwigV2ray
-# Last updated: 2025-07-27 00:30:19
+# Last updated: 2025-07-27 01:30:21
