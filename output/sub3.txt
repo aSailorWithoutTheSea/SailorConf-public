@@ -298,4 +298,4 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/JOKERRVPN_B
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/Tel-@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#Telegram: @HedwigV2ray
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/vpn?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#Telegram: @HedwigV2ray
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/vpn?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-07-28 01:30:21
+# Last updated: 2025-07-28 02:30:19
