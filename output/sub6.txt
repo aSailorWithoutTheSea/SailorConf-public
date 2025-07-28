@@ -1,3 +1,8 @@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?type=grpc&mode=gun&serviceName=&authority=#🇺🇸 USA | Telegram: @HedwigV2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#Telegram: @HedwigV2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&encryption=none&type=grpc#Telegram: @HedwigV2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#Telegram: @HedwigV2ray
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?security=&encryption=none&type=grpc#Telegram: @HedwigV2ray
@@ -354,8 +359,4 @@ vless://febf7810-0d6d-4f39-878c-8a2da6fdbcde@157.173.127.240:443?security=realit
 vless://fee90487-c949-456c-bd6f-71e5abd54a5c@45.252.182.107:8443?mode=multi&security=&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://fee90487-c949-456c-bd6f-71e5abd54a5c@45.252.182.107:8443?mode=multi&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://feea904b-d443-43e1-beaa-621ef7a3de3f@65.109.203.70:2096?security=&encryption=none&host=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&headerType=none&type=tcp#Telegram: @HedwigV2ray
-vless://feea904b-d443-43e1-beaa-621ef7a3de3f@65.109.203.70:2096?security=none&encryption=none&host=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&headerType=none&type=tcp#Telegram: @HedwigV2ray
-vless://feea904b-d443-43e1-beaa-621ef7a3de3f@activeservice.mispd.ir:2096?security=none&encryption=none&host=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&headerType=none&type=tcp#Telegram: @HedwigV2ray
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.17.247.117:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#Telegram: @HedwigV2ray
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.111:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#Telegram: @HedwigV2ray
-# Last updated: 2025-07-28 04:30:21
+# Last updated: 2025-07-28 05:30:19
