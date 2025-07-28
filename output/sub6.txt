@@ -1,3 +1,14 @@
+vless://bf989dce-7af7-423b-a499-71da71cdcef1@de6rt.samsungmarketshop.ir:2083?mode=auto&path=/apps/Android/?ed=80&security=reality&encryption=none&pbk=53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk&fp=chrome&spx=/&type=xhttp&sni=refersion.com&sid=aeba#Telegram: @HedwigV2ray
+vless://bfac9eb0-2f36-4eb3-a252-15d936bd849b@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#Telegram: @HedwigV2ray
+vless://bfc04e96-d4d4-43c3-8b39-30d2793e9de5@de.chatoochak.com:443?type=ws&security=none&host=&path=/#Telegram: @HedwigV2ray
+vless://bfff033b-6f6b-4c24-fd6c-5b7d6cf9b3cd@45.133.36.230:443?security=reality&encryption=none&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8&headerType=none=#Telegram: @HedwigV2ray
+vless://c0191385-e1b2-4039-96d0-59fd94897b6e@104.18.26.90:8880?path=/Nama?ed=2048&security=none&encryption=none&host=www.speedtest.net.wedbaz.germany.iranshopering.IR.&type=ws#Telegram: @HedwigV2ray
+vless://c03d1bce-e54c-4cc0-a0fa-d83e22f15620@104.21.76.21:443/?type=grpc&encryption=none&flow=&serviceName=Rlwi0HmjSrgeQVQvjIFm02G&security=tls&sni=RrrrRRrr5.00890604.XYz&alpn=h2&fp=chrome&packetEncoding=xudp#Telegram: @HedwigV2ray
+vless://c0750377-2942-4f06-a4ec-0cde8e272ac6@ipe3.alighan.ir:8443?path=/&security=tls&alpn=http/1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#Telegram: @HedwigV2ray
+vless://c082b973-bf76-4138-9b6f-e91a001c11e8@balanced-de.irancdngame.com:2012?security=reality&encryption=none&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&headerType=none&fp=chrome&type=tcp&sni=www.pcmag.com#Telegram: @HedwigV2ray
+vless://c082b973-bf76-4138-9b6f-e91a001c11e8@cdn.irancdngame.com:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=host-eagle-win.global.ssl.fastlg.net&type=xhttp#Telegram: @HedwigV2ray
+vless://c082b973-bf76-4138-9b6f-e91a001c11e8@cdn.irancdngame.com:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=online1.gamenet1.site&type=xhttp#Telegram: @HedwigV2ray
+vless://c082b973-bf76-4138-9b6f-e91a001c11e8@cdn.irancdngame.com:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=seriessubth.com&type=xhttp#Telegram: @HedwigV2ray
 vless://c082b973-bf76-4138-9b6f-e91a001c11e8@cdn.irancdngame.com:80?path=/?ed=2052&security=none&encryption=none&host=mail-clone.darooasdche.com&type=ws#Telegram: @HedwigV2ray
 vless://c082b973-bf76-4138-9b6f-e91a001c11e8@cdn.irancdngame.com:80?path=/?ed=2052&security=none&encryption=none&host=thisisafineddomain.com&type=ws#Telegram: @HedwigV2ray
 vless://c082b973-bf76-4138-9b6f-e91a001c11e8@iwillconectyou.to.usa.irancdngame.com:2012?security=reality&encryption=none&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&headerType=none&fp=chrome&type=tcp&sni=www.pcmag.com#Telegram: @HedwigV2ray
@@ -122,6 +133,7 @@ vless://cd103e93-b10c-4300-da0e-22128f74ae9c@104.18.26.90:2052?path=/@XpnTeam/@X
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?encryption=none&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&sid=1f949997214a59&type=grpc&authority=&serviceName=sorkhi&mode=gun#Telegram: @HedwigV2ray
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?m#Telegram: @HedwigV2ray
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security=reality&encryption=none&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&fp=chrome&type=grpc&serviceName=sorkhi&sni=journalofbigdata.springeropen.com&sid=1f949997214a59#Telegram: @HedwigV2ray
+vless://cd953572-9127-4887-894a-4a6a6601fd60@91.107.163.43:42370/?type=grpc&serviceName=@ZedBaz_vpn&authority=&security=reality&pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&fp=chrome&sni=yahoo.com&sid=479f4834&spx=/#Telegram: @HedwigV2ray
 vless://cd953572-9127-4887-894a-4a6a6601fd60@91.107.163.43:42370?mode=gun&security=reality&encryption=none&pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&fp=chrome&spx=/&type=grpc&serviceName=@ZedBaz_vpn&sni=yahoo.com&sid=479f4834#Telegram: @HedwigV2ray
 vless://cdb36871-809b-461e-8908-b6e08a28f112@194.59.214.101:1001?security=&encryption=none&host=myket.ir&headerType=&type=tcp#Telegram: @HedwigV2ray
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?path=/?ed=2560&security=none&encryption=none&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&type=ws#Telegram: @HedwigV2ray
@@ -345,15 +357,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc https://t.me/confing_chanel#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&mode=gun&serviceName=&authority=#🇫🇷 France | Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?encryption=none&security=none&sni=TABRIZ.NET&alpn=h2,http/1.1&fp=chrome&type=grpc#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=&encryption=none&type=grpc#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 France | Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=&type=grpc&encryption=none#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?encryption=none&security=none&type=grpc#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&mode=gun#Telegram: @HedwigV2ray
-vless://dfb0cdb6-27b8-45ed-e1ad-16af6985bb90@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#Telegram: @HedwigV2ray
-# Last updated: 2025-07-28 08:30:20
+# Last updated: 2025-07-28 09:30:21

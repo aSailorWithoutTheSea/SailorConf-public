@@ -1,10 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇷 Iran | Telegram: @HedwigV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&mode=gun&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=none#Telegram: @HedwigV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Telegram: @HedwigV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#🇺🇸 USA | Telegram: @HedwigV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&type=grpc#Telegram: @HedwigV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&authority=/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Telegram: @HedwigV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&authority=/BIA_TELEGRAM@PRUOXYI_BIA_CHANEL_PRUOXYI&type=grpc#Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -230,7 +223,6 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&enc
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&encryption=none&type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM/KING_V2RAAY?ed=2560#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&encryption=none&type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed=2560#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed=2560&security=none#Telegram: @HedwigV2ray
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?encryption=none&security=none&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/1ycR2zb3KeELWRha?ed=2560#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?flow=&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/1ycR2zb3KeELWRha?ed=2560&security=none#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram: @HedwigV2ray
@@ -244,4 +236,7 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeE
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=non=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGOe&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=non=e&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-07-28 08:30:20
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇨🇦 Canada | Telegram: @HedwigV2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇮🇷 Iran | Telegram: @HedwigV2ray
+# Last updated: 2025-07-28 09:30:21
