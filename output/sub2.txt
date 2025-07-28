@@ -75,7 +75,6 @@ vless://ad7a2657-d45e-49f6-b206-72d402200b72@gr.dnszone.top:45500?security=none&
 vless://ad87c8ac-09e8-4b52-89a8-0bcda34990f1@5.75.193.253:443?security=reality&encryption=none&pbk=CMB9AENkMsO9qHpxrdodZurjDEW4-l9ruDjsyZYzvVQ&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&sid=f6#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://addbd8bc-dcf1-4a24-9eef-25639a32b47b@104.18.26.90:2053?path=/latest?ed=2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=lexi.ai351.com&fp=chrome&type=ws&sni=lexi.ai351.com#Telegram: @HedwigV2ray
 vless://adf0bd1b-ed5e-497f-b877-987fa9c430c2@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Telegram: @HedwigV2ray
-vless://adfd1c1f-536d-4906-ba2f-50fc577c910d@uk.shokolatroshd.xyz:18907?type=tcp&path=/&host=fast.com&headerType=http&security=none#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://adff06be-5a8e-4870-84ef-d8e5c8a6644f@151.101.3.8:80?path=ws/?ed=2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#Telegram: @HedwigV2ray
 vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?security=reality&encryption=none&pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&headerType=none&fp=chrome&type=tcp&sni=ftp.debian.org&sid=10f1#Telegram: @HedwigV2ray
@@ -362,4 +361,7 @@ vless://b9a1b3ec-9815-410c-ac6b-14b4cd41f188@2.56.173.140:16040?type=grpc&mode=g
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?security=tls&encryption=none&type=ws&host=3k.pureboy.eu.org&path=TELEGRAM...PROXY_MTM?ed=2048&sni=3k.pureboy.eu.org&fp=chrome&alpn=http/1.1#Telegram: @HedwigV2ray
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?security=tls&encryption=none&type=ws&host=3k.pureboy.eu.org&path=/?ed=2048&sni=3k.pureboy.eu.org&fp=chrome#Telegram: @HedwigV2ray
 vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.96.11:443?path=/ixjnwid2al1nz6mt?ed=2560&security=tls&encryption=none&host=XLz767V2RAY.Pages.deV&type=ws&sni=XLz767V2RAY.Pages.deV#Telegram: @HedwigV2ray
-# Last updated: 2025-07-28 02:30:19
+vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.97.11:2087?path=/bethzrzkz5ljs32v?ed=2560&security=tls&encryption=none&host=Xlz767V2Ray.PAGEs.DEv&fp=chrome&type=ws&sni=Xlz767V2Ray.PAGEs.DEv#Telegram: @HedwigV2ray
+vless://b9dad5ed-74da-4a43-8145-90d06df1f890@219.76.13.186:443?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=/?ed=2560&fp=chrome&alpn=http/1.1#Telegram: @HedwigV2ray
+vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=/yayPR7DCW3dDdcCPPcNB6&security=tls&encryption=none&host=bluegp.nl&fp=chrome&type=ws&sni=bluegp.nl#Telegram: @HedwigV2ray
+# Last updated: 2025-07-28 03:30:18
