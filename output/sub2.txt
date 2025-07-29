@@ -64,7 +64,6 @@ vless://b009f000-37a3-4a56-846f-1c338ccd1b05@91.107.155.129:26348?security=none&
 vless://b00dec1d-4a32-4554-8fae-0f368028cb0b@speedtest.net:80?security=none&encryption=none&type=xhttp&path=/fardin?ed=2048&mode=auto#Telegram: @HedwigV2ray
 vless://b00fb164-0491-432a-baf0-c904d1953425@speedtest.net:80?path=/ed=2560&security=none&encryption=none&host=speedtest.net.km&type=ws#Telegram: @HedwigV2ray
 vless://b01537ce-8cab-43c1-80e6-4ef9319f6e6d@victor2.nepton5050.tech:32950?note=Telegram———@NetifyVPN———|Telegram———@NetifyVPN———|Telegram———@NetifyVPN———|Telegram———@NetifyVPN———&type=ws#Telegram: @HedwigV2ray
-vless://b01537ce-8cab-43c1-80e6-4ef9319f6e6d@victor2.nepton5050.tech:32950?security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://b01537ce-8cab-43c1-80e6-4ef9319f6e6d@victor2.nepton5050.tech:32950?type=ws#Telegram: @HedwigV2ray
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#Telegram: @HedwigV2ray
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@wWw.SpeedTest.Net:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#Telegram: @HedwigV2ray
@@ -378,4 +377,4 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&p
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-# Last updated: 2025-07-29 15:30:19
+# Last updated: 2025-07-29 16:30:20

@@ -1,3 +1,4 @@
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?security=none&encryption=none&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/Etb1L6YUdZFZuTOr?ed=2560#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&host=VngSuPpLY.IP-DdnS.com&path=/Etb1L6YUdZFZuTOr?ed=2560&security=none#Telegram: @HedwigV2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&host=VngSuPpLY.IP-DdnS.com&path=/Etb1L6YUdZFZuTOr?ed=2560&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -329,7 +330,4 @@ vless://f4ff3635-b7f6-4827-8c52-ecec712aaa24@151.101.3.8:80?type=ws&host=befreew
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@FergalVpnMod&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=cloudflare.com&type=ws#Telegram: @HedwigV2ray
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@FergalVpnMod&security=none&encryption=none&host=cloudflare.com&type=ws#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@freeconfig.fergalvpnmod.com:12765?path=/telegram@FergalVpnMod&security=&encryption=none&host=cloudflare.com&type=ws#Telegram: @HedwigV2ray
-vless://f503c72d-485e-4091-9d0c-9ad34d61c914@freeconfig.fergalvpnmod.com:12765?path=/telegram@FergalVpnMod&security=none&encryption=none&host=cloudflare.com&type=ws#Telegram: @HedwigV2ray
-vless://f5060a9c-3bc0-3564-2dc6-f6f81e71d879@mlifehazarat.darkping.net:31458?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&sid=d6d54c08fbbf895f#Telegram: @HedwigV2ray
-vless://f5237fcf-d238-44bc-8ff2-4f449344394c@172.233.161.133:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#🇹🇷 Turkey | Telegram: @HedwigV2ray
-# Last updated: 2025-07-29 15:30:19
+# Last updated: 2025-07-29 16:30:20
