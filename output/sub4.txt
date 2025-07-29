@@ -190,7 +190,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3V2hjUUtQU1IzM0JFRVRiN1JLbWdO@h110vpnde.outl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3b2hvQkxvNDZVaHZLMWhFcHd5VEJi@95.81.106.78:8443#🇷🇺 Russia | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173:35333#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OVhFS2VsZ1B6ZWV5ekw3Z3o1UzhC@h110vpnus.outlinekeys.net:9483#🇺🇸 USA | Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QUNiRkQ3U1dtYlY3b0tYMGRqTXJa@77.83.246.74:443#🇵🇱 Poland | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aFprRlJBNFY0MEtLMGpTbFBTUWUy@2.56.207.119:8443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aHBkSmhzUUZ3TFZleUNOZ2VDTGlDcFlXQmRid1lrVUozR0JKaUs2VXVFa3FNUXBFOHJ3clRaTGhUTE11c2dzOVF4TEx3SHhHMXpmVjFTWmlLRnFYdzZKS0dUY0E1UUM=@host.phonygilson.icu:49072#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#Telegram: @HedwigV2ray
@@ -205,8 +204,20 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMml5UXVsUXBVUllPVzY4SUtCd1Bo@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWVYU2ZVMDJyRW1XRlNGdXNSd3Qy@h110vpnnl.outlinekeys.net:52571#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@4.250.57.235:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#Telegram: @HedwigV2ray
-vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsImFkZCI6IjE0Ni41OS41NS41MCIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJvLm1ldHVqaS5jb20iLCJwYXRoIjoiL2xpbmt2d3MifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsImFkZCI6IjU3LjEyOS4yNS4yNSIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJmLmtoaWxlaS5jb20iLCJwYXRoIjoiL2xpbmt2d3MifQ==
-vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjAiLCJhaWQiOjEsImhvc3QiOiI1Ny4xMjkuMjUuMjAiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vmess://eyJhZGQiOiIxNS4yMzUuNTAuMTcyIiwiYWlkIjowLCJob3N0IjoiYmFyYWRpaGEuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiLwn4eo8J+HpiBDYW5hZGEgfCBUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-# Last updated: 2025-07-29 13:30:24
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBa2k4VzFqcm5IcW1HUm1lV29sN0NZ@89.185.84.185:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCSjVuRFpUdWxtWXpuSHZIWGhTNloz@83.147.216.70:64519#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZ3JoSUY5c2lsUUtNNHk0NUZ2c0Zq@h110vpntr.outlinekeys.net:65262#🇹🇷 Turkey | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.135.28:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.166.103:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@4.159.35.230:443#🇬🇧 UK | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@74.177.119.255:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🇬🇧 UK | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.ir:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#🇬🇧 UK | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443?type=tcp#Telegram: @HedwigV2ray
+# Last updated: 2025-07-29 14:30:21
