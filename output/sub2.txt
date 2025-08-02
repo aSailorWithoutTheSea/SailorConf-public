@@ -1,3 +1,6 @@
+vless://ad87c8ac-09e8-4b52-89a8-0bcda34990f1@5.75.193.253:443?security=reality&encryption=none&pbk=CMB9AENkMsO9qHpxrdodZurjDEW4-l9ruDjsyZYzvVQ&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=journalofbigdata.springeropen.com&sid=f6#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://ad959c13-7111-4474-8102-5e2b496585fd@5.75.203.17:33217?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
+vless://addbd8bc-dcf1-4a24-9eef-25639a32b47b@104.18.26.90:2053?path=/latest?ed=2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=lexi.ai351.com&fp=chrome&type=ws&sni=lexi.ai351.com#Telegram: @HedwigV2ray
 vless://adf0bd1b-ed5e-497f-b877-987fa9c430c2@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Telegram: @HedwigV2ray
 vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://ae1980f1-ff66-4761-bb2f-12dd54c57c48@91.107.166.105:26929?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
@@ -354,6 +357,4 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.80.215:8443?mode=stream-one&p
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#🇮🇷 Iran | Telegram: @HedwigV2ray
-vless://bb961a77-8562-4fd9-97ac-049fc8c53026@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-08-02 12:30:20
+# Last updated: 2025-08-02 13:30:22
