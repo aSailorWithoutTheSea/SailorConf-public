@@ -374,4 +374,4 @@ vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?security=&encr
 vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?security=none&encryption=none&host=q6.19kalA.co&type=ws#Telegram: @HedwigV2ray
 vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#Telegram: @HedwigV2ray
 vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=#Telegram: @HedwigV2ray
-# Last updated: 2025-08-02 02:30:20
+# Last updated: 2025-08-02 03:30:18
