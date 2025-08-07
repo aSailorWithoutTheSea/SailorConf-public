@@ -342,7 +342,6 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.223.115:8443?mode=auto&path=/
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.223.115:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN&mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.80.215:8443?flow=&type=xhttp&host=&path=/xhttp&mode=stream-one&security=none#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
@@ -356,4 +355,4 @@ vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560/?JOK
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=/BaRAyeIran?ed=2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#Telegram: @HedwigV2ray
 vless://bbe40614-335f-47ea-9bf4-1ebb7eb29477@erfwp.fast.hosting-ip.com:80?type=xhttp&path=/erfwp?ed=2048&host=erfwp.com&mode=auto&security=none#Telegram: @HedwigV2ray
 vless://bbe59f7a-e4c1-4a1d-cbbf-67d44c7d7733@104.21.112.1:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=&encryption=none&host=join-to-Vmessorg.sabadyt.ir&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-08-07 06:30:19
+# Last updated: 2025-08-07 07:30:20
