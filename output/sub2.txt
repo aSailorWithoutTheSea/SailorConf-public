@@ -375,4 +375,4 @@ vless://b89de7eb-eecf-421b-80bf-0063eedfb863@151.101.3.8:80?type=ws&host=befreew
 vless://b8b27d0e-b084-4d7a-94e7-b6a548466a6f@www.speedtest.net:8080?path=/V_2raYngVpn?ed=8080&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#Telegram: @HedwigV2ray
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?path=/BaRAyeIran?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#Telegram: @HedwigV2ray
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.212.226:80?path=/?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&fp=chrome&type=ws&sni=br.presskiwi.dpdns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-08-07 00:30:21
+# Last updated: 2025-08-07 01:30:21
