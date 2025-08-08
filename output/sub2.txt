@@ -357,4 +357,4 @@ vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encry
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&type=tcp&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#Telegram: @HedwigV2ray
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-08-07 23:30:22
+# Last updated: 2025-08-08 00:30:18
