@@ -352,4 +352,4 @@ vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@37.202.237.244:55094?security=none&
 vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#🇹🇷 Turkey | Telegram: @HedwigV2ray
 vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@87.248.129.96:55093?security=none&type=tcp&headerType=none&path=&host=#🇦🇪 UAE | Telegram: @HedwigV2ray
 vless://9abe19f4-a3ea-4a00-bb52-121c0da7a33a@azizisearch.com:2095?path=/&security=none&encryption=none&host=de.amirconfigpanelllll.com.&type=httpupgrade#Telegram: @HedwigV2ray
-# Last updated: 2025-08-21 00:30:20
+# Last updated: 2025-08-21 01:30:23
