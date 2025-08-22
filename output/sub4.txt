@@ -227,7 +227,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI@77.83.245.190:443?note=--Te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🇹🇷 Turkey | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTGtDWHo3SHNxdVlwMmQwZWNuMHpD@77.83.246.74:443?note=--Telegram--@NetifyVPN--#🇵🇱 Poland | Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTXNoMHN0c1dCUHlhWmNFVVpiTkdK@77.105.166.12:8594#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqWm9aWnFPUXZWUGRtREZ5OUR5VjZZ@94.159.96.245:11902#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqWm9aWnFPUXZWUGRtREZ5OUR5VjZZ@94.159.96.245:11902#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqY1Y3eTREZ0h4dEQ3cUJ5U29NTm9v@159.223.135.183:48512#Telegram: @HedwigV2ray
@@ -253,6 +252,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3l
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#🇫🇷 France | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.135.246.95:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.135.246.95:443#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.171.101.87:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.177.32.75:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.162.130:443#Telegram: @HedwigV2ray
@@ -261,4 +262,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Telegram: @HedwigV2ray
-# Last updated: 2025-08-22 02:30:22
+# Last updated: 2025-08-22 03:30:23
