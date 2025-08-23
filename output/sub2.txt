@@ -72,7 +72,6 @@ vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?security=realit
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=FREEV2RNG&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@mtn.ivy-net.ir:80?path=/?ed&security=&alpn=h2,http/1.1&encryption=none&host=feArLESS-cHANge.oNEEat.CO.&type=ws#Telegram: @HedwigV2ray
 vless://b059c282-ea15-458a-bf72-08296d9f95fe@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#Telegram: @HedwigV2ray
 vless://b059c282-ea15-458a-bf72-08296d9f95fe@172.66.40.99:80?serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#Telegram: @HedwigV2ray
@@ -223,7 +222,6 @@ vless://b6bae6ff-4e6b-40ad-8277-43ae2d71cde8@172.66.47.197:443?path=/OHs6g3YZDV8
 vless://b6bae6ff-4e6b-40ad-8277-43ae2d71cde8@www.speedtest.net:443?path=/tCeQCC3wk1L9eIak/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==&security=tls&alpn=http/1.1&encryption=none&host=gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev&fp=chrome&type=ws&sni=gkH7iMomi--3t3XCStzt8pP4dLZUeskN.PagEs.Dev#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://b6c7d8e9-f0a1-6789-2345-56789abcdef0@162.161.155.5:8443?type=ws&encryption=none&host=vpn.aslivpn.ir&path=/Telegram@V2rayNG&security=tls&sni=vpn.aslivpn.ir&fp=chrome#Telegram: @HedwigV2ray
 vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@109.237.99.132:443?security=tls&sni=de04.abvpn.ru&type=ws&path=/websocket#Telegram: @HedwigV2ray
-vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@109.237.99.132:443?security=tls&sni=de04.abvpn.ru&type=ws&path=/websocket#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=/websocket&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#Telegram: @HedwigV2ray
 vless://b6e8ccd3-aa5d-4a7a-98ec-79d2938ebf16@172.236.241.237:2321?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@Iran.v2sub.online:80?mode=auto&path=/&security=none&encryption=none&host=portalo.com&type=xhttp#Telegram: @HedwigV2ray
@@ -329,6 +327,7 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.153.233:8443?mode=auto&path=/
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?security=none&encryption=none&type=xhttp&path=/xhttp&mode=stream-one#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?type=xhttp&mode=stream-one&path=/xhttp&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
@@ -341,4 +340,7 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&p
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&mode=stream-one&path=/xhttp&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-# Last updated: 2025-08-23 07:30:20
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&mode=auto&path=/xhttp?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+# Last updated: 2025-08-23 08:30:22
