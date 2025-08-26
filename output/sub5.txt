@@ -1,3 +1,7 @@
+vless://7b6ef73c-44c4-4592-b20e-73d3f277b2af@104.16.53.11:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#🇺🇸 USA | Telegram: @HedwigV2ray
+vless://7babd487-be4a-4392-b28e-0bbed53c82cd@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
+vless://7babd487-be4a-4392-b28e-0bbed53c82cd@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷 Turkey | Telegram: @HedwigV2ray
+vless://7bb05ded-66a4-4388-acdd-462ab7f549f1@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://7bc12c11-d666-4d73-a086-f77a425d2ef0@104.17.147.22:2095?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=ww.irAnsheep.wEb.tr.&type=httpupgrade#Telegram: @HedwigV2ray
 vless://7bc12c11-d666-4d73-a086-f77a425d2ef0@www.speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.wEb.tr.&security=none#Telegram: @HedwigV2ray
 vless://7bcb1c0c-4134-46f2-a010-13f60dab1649@speedtest.net:80?mode=auto&path=/ipcf?ed=2048&security=&encryption=none&host=ukboss.global.ssl.fastly.net&type=xhttp#Telegram: @HedwigV2ray
@@ -119,7 +123,6 @@ vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@108.162.198.136:443?security=tls&sn
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@108.162.198.203:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.113.9:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.114.192:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.114.235:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.114.39:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.115.110:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.115.228:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
@@ -135,16 +138,15 @@ vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.163:443?security=tls&sni
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.190:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.196:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.208:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.99:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.37:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.37:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.97.108:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.97.132:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.97.210:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.97.236:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.97.49:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.98.102:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.98.239:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.99.185:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.16:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.184:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.210:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.245:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
@@ -155,7 +157,6 @@ vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.137:2053?security=tls&sn
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.179:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.188:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.212:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.58:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.247.208:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@198.41.199.36:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@198.41.200.12:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=/?ed=2560#Telegram: @HedwigV2ray
@@ -299,7 +300,6 @@ vless://8918d0d6-b266-4f71-9aaf-4160265537e6@speedtest.net:80?mode=auto&path=/?@
 vless://8918d0d6-b266-4f71-9aaf-4160265537e6@speedtest.net:80?mode=auto&path=/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2048&security=none&encryption=none&host=p30download.ir&type=xhttp#Telegram: @HedwigV2ray
 vless://8938d63f-7dda-43be-9a1e-819adac28297@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=smiTs.joOjehtor.it.cOm&fp=chrome&type=ws&sni=smiTs.joOjehtor.it.cOm#Telegram: @HedwigV2ray
 vless://89543041-c4e3-4213-8842-7e2db8327295@63.141.128.2:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#Telegram: @HedwigV2ray
-vless://895d72ac-0298-43e4-b564-bf7dafad5e02@63.141.128.7:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://89938a70-b39b-4255-b436-17e703cf5460@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#Telegram: @HedwigV2ray
 vless://899843a6-a746-49f1-c4bb-f8a6fd0db9a2@91.99.236.124:51479?mode=gun&security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram: @HedwigV2ray
 vless://899843a6-a746-49f1-c4bb-f8a6fd0db9a2@91.99.236.124:51479?security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -315,7 +315,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.61.23.77:443?security=tls&sni=B
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.145.94.80:443?security=tls&sni=BPb-4jH.PaGEs.dev&type=ws&host=bpb-4jH.PaGeS.DEV&path=/aIa8EGozH9v6A091?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@138.2.51.87:443?security=tls&sni=BPb-4jH.PaGEs.dev&type=ws&host=bpb-4jH.PaGeS.DEV&path=/aIa8EGozH9v6A091?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.238.18.74:443?security=tls&sni=BPb-4jH.PaGEs.dev&type=ws&host=bpb-4jH.PaGeS.DEV&path=/aIa8EGozH9v6A091?ed=2560#Telegram: @HedwigV2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@143.47.243.144:8443?security=tls&sni=bPB-4JH.PaGes.dEv&type=ws&host=bPb-4jH.pAGeS.DEv&path=/2lFUyhaquvQIEloh?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@144.24.200.164:443?security=tls&sni=Bpb-4jH.PaGEs.DeV&type=ws&host=Bpb-4Jh.paGES.dev&path=/sGZk15Sk2xieVki8?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=/&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&fp=chrome&type=ws#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&fp=chrome&type=ws#Telegram: @HedwigV2ray
@@ -324,7 +323,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.2.165:80?path=/ivtW9Us1ysMo
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@152.67.231.219:443?security=tls&sni=BPb-4jH.PaGEs.dev&type=ws&host=bpb-4jH.PaGeS.DEV&path=/aIa8EGozH9v6A091?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@158.178.238.239:443?security=tls&sni=Bpb-4jH.PaGEs.DeV&type=ws&host=Bpb-4Jh.paGES.dev&path=/sGZk15Sk2xieVki8?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.152.179:443?security=tls&sni=1-79u.pages.dev&type=ws&host=1-79u.pages.dev&path=?ed=2851#Telegram: @HedwigV2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.153.116:443?security=tls&sni=1-79u.pages.dev&type=ws&host=1-79u.pages.dev&path=?ed=2851#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.153.84:443?security=tls&sni=1-79u.pages.dev&type=ws&host=1-79u.pages.dev&path=?ed=2851#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.132.196:8443?encryption=none&security=tls&sni=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz&type=ws&host=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz&path=/#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.111:443?path=/3IEyTMFdChz9DzYe?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=094cb6e9.mhassani.pages.dev&fp=chrome&type=ws&sni=094cB6e9.mhassANi.pagES.DEV#Telegram: @HedwigV2ray
@@ -341,7 +339,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.184:443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.209:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=/p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.244.153:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=/p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.245.56:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=/p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560#Telegram: @HedwigV2ray
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.161:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=/p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@198.41.194.49:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=/p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@198.41.207.70:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=/p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560#Telegram: @HedwigV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@198.41.214.175:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=/p3stxwx49t13atgt/chjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw==?ed=2560#Telegram: @HedwigV2ray
@@ -413,4 +410,4 @@ vless://8b87d56a-7099-4f8e-835c-f30e102cc145@abri.abriabri.ir:2233?security=real
 vless://8b87d56a-7099-4f8e-835c-f30e102cc145@abri.abriabri.ir:2233?security=reality&encryption=none&pbk=XXyGhQ_iIds5fOp-JEq76iPb1heaBCSd7N5cOe9oFlg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.tgju.org&sid=e0#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?security=&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-08-26 17:30:20
+# Last updated: 2025-08-26 18:30:20
