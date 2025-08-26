@@ -377,4 +377,4 @@ vless://4d95d26c-7f45-4011-c168-4d85fc3f22f8@cafearz.com:8080?encryption=none&se
 vless://4d95d26c-7f45-4011-c168-4d85fc3f22f8@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#Telegram: @HedwigV2ray
 vless://4dbe9eda-2bb1-4223-95e1-63cff7459620@secure.soratpardaz.ir:15815?security=reality&encryption=none&pbk=YgXkFfG6tuU_qEYtompAi2LlgLRxobwbo5_1Whir3Ac&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=preview.redd.it&sid=e24f1d72d00da7#Telegram: @HedwigV2ray
 vless://4def9b45-592c-43e5-a62b-987beffa5d33@5.75.192.185:35487?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&sid=0b886008af8942c3&type=tcp&headerType=none#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-08-26 00:30:21
+# Last updated: 2025-08-26 01:30:22
