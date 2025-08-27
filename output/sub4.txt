@@ -394,4 +394,4 @@ vless://59c6474e-a854-4416-96fd-c17c654b2ee2@iran.shatak.top:17337?security=none
 vless://59d9bc03-a747-4521-99a1-3da24a85b051@199.232.208.19:80?mode=auto&path=/&security=none&encryption=none&host=aliirancel12.global.ssl.fastly.net&type=xhttp#Telegram: @HedwigV2ray
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🇳🇱 Netherlands | Telegram: @HedwigV2ray
-# Last updated: 2025-08-27 00:30:23
+# Last updated: 2025-08-27 01:30:20
