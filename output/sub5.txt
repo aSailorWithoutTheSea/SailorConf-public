@@ -366,5 +366,4 @@ vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?note=---Tele
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=none&type=tcp&headerType=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&encryption=none&security=none&type=tcp&headerType=none#Telegram: @HedwigV2ray
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-01 12:30:22
+# Last updated: 2025-09-01 13:30:23
