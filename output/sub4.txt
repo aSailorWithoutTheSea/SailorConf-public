@@ -415,4 +415,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.13.31:80?path=/&security=non
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.198.20:8880?path=/?ed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Telegram: @HedwigV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-01 07:30:26
+# Last updated: 2025-09-01 08:30:21
