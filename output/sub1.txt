@@ -1,3 +1,5 @@
+ss://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2ray_Alpha&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#Telegram: @HedwigV2ray
+ss://868a3ff6-4535-4e8e-9fd9-713b04cea1aa@ttestt.dissertationhelpspecialist.com:5959?security=reality&encryption=none&pbk=C47cFUb_GggbpDAGoYbAnACDIzJqQrnVPt1lmdu3qyI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=b06997ddbe#Telegram: @HedwigV2ray
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080#Telegram: @HedwigV2ray
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 Netherlands | Telegram: @HedwigV2ray
@@ -69,6 +71,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Yk84YWtvUm9NMk0=@83.217.9.120:443#Telegram:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Yk84YWtvUm9NMk0=@83.217.9.120:443#🇹🇷 Turkey | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Yk84YWtvUm9NMk0@83.217.9.120:443?note=--Telegram--@NetifyVPN--#🇹🇷 Turkey | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllMzhkMWQ2ZGIxNGI0@157.173.109.231:11107#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dGFMNENueUczU0g1RUVzN1BFNzVj@190.103.176.123:8443?note=--Telegram--@NetifyVPN--#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4em12QWl5QmhTTHlQUEFQMmh3MXM2@77.83.246.74:443?note=--Telegram--@NetifyVPN--#🇵🇱 Poland | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443#Telegram: @HedwigV2ray
@@ -86,6 +89,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovWVZXT0YrVGlJcmZkUFVyenJ3U2RGazVLRFBTdDJPR3h
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#🇮🇷 Iran | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c@195.35.113.79:443?note=--Telegram--@NetifyVPN--#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUFJpMTF6b2lsM3hEU1lJTkhtbHh0@81.19.141.45:443#Telegram: @HedwigV2ray
@@ -202,6 +206,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#🇸🇪 Sweden | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDelEwSXJrZGQ0V0RVd0JR@admin.c4.havij.co:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZGoyb2VHY3hUR1NGQXRVYTg1eWRV@89.185.84.185:443?note=--Telegram--@NetifyVPN--#🇬🇧 UK | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZGoyb2VHY3hUR1NGQXRVYTg1eWRV@89.185.84.185:443?note=--Telegram--NetifyVPN--#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa0E3T3hTYWJSdHRQSnpPOUNjZjdM@162.243.245.151:31100#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEemdyMXJEaWUxMldId29oQUxra29nKzlCb095ZkIwVHh0MVZHRlY0Vm5ZPQ==@49.12.232.175:8443#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRXNqUUwwclh3UWdKZXozQVNqb09x@91.194.160.151:1235#🇯🇵 Japan | Telegram: @HedwigV2ray
@@ -271,6 +277,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3RLQTRuN0txQUZDSnh6dzhjdU0w@138.68.6.88:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3RLQTRuN0txQUZDSnh6dzhjdU0w@138.68.6.88:443#🇺🇸 USA | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3RLQTRuN0txQUZDSnh6dzhjdU0w@138.68.6.88:443?note=--Telegram--@NetifyVPN--#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#🇮🇳 India | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347?note=--Telegram--@NetifyVPN--#🇮🇳 India | Telegram: @HedwigV2ray
@@ -284,5 +291,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443?type=tcp#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA==@45.84.1.33:8388#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?note=--Telegram--@NetifyVPN--#Telegram: @HedwigV2ray
-# Last updated: 2025-09-01 14:30:20
+# Last updated: 2025-09-01 15:30:20
