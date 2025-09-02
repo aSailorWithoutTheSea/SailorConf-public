@@ -344,4 +344,4 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=&encryp
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://19520834-ea72-480c-b55f-2b14ca19b4c2@almas2.alireza031.shop:29108?encryption=none&security=none&type=ws&host=sSPR2.divarcdn.com,RFT0N.snappfood.ir,ENlKX.yjc.ir,stJEU.digikala.com,emp4W.tic.ir&path=/Almas2#Telegram: @HedwigV2ray
-# Last updated: 2025-09-02 09:30:26
+# Last updated: 2025-09-02 10:30:22
