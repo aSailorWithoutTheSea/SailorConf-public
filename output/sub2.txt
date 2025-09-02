@@ -333,5 +333,4 @@ vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644/?encryption=none
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.114.37:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-02 22:30:23
+# Last updated: 2025-09-02 23:30:22
