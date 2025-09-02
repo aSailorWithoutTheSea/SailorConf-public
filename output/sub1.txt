@@ -136,7 +136,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSTRnbERaV25LSFpTS0hLWVB5VW02@77.83.246.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUG5NMGNEc3FEbXM0QUNZVkUwNFoy@194.87.45.189:443#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:443#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Y1VITEZYY1VuVzVJbER4LWxiV0ZB@91.134.11.136:100#Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bTZDUEpBRmozemxDSGNqNnc3cVNz@45.92.218.83:56275#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bTZDUEpBRmozemxDSGNqNnc3cVNz@45.92.218.83:56275#🇫🇷 France | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm8@pl-1.stunnel.cc:8444#🇵🇱 Poland | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmY2lhbC1ubA==@193.29.181.38:8444#🇳🇱 Netherlands | Telegram: @HedwigV2ray
@@ -251,4 +250,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1k0T0RCbQ==@95.164.36.59:8388#Telegram: @H
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw==@95.164.68.37:8388#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU0=@45.151.62.131:443#Telegram: @HedwigV2ray
-# Last updated: 2025-09-02 13:30:22
+# Last updated: 2025-09-02 14:30:21
