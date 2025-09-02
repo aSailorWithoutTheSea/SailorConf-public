@@ -1,4 +1,3 @@
-vless://0c8c9d22-41e1-4acf-a2a1-666e1737e382@86.106.142.25:443?security=none&encryption=none&host=kalands.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://0c942b51-66f2-4788-98c3-8cf58954421b@91.107.159.32:22?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#Telegram: @HedwigV2ray
 vless://0c942b51-66f2-4788-98c3-8cf58954421c@91.107.159.32:22?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#Telegram: @HedwigV2ray
 vless://0c942b51-66f2-4788-98c3-8cf58954421d@91.107.159.32:22?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#Telegram: @HedwigV2ray
@@ -365,4 +364,5 @@ vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=&encry
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 France | Telegram: @HedwigV2ray
 vless://17319ae5-2ad4-441d-888a-e6de1d3f7542@all3.blackkwolff.com:9435?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-02 15:30:26
+vless://174006ec-4fa9-4efd-a0f2-45ce808fee6a@212.192.23.217:443?security=reality&encryption=none&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=06c6eb7423f24de5#Telegram: @HedwigV2ray
+# Last updated: 2025-09-02 16:30:22
