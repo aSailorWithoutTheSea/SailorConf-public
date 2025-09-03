@@ -1,6 +1,3 @@
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@patient.co.uk:443?path=/@Rayan_Config&security=tls&encryption=none&host=rAyAn-uS-2.MeDiCaLhIsToRy.iR&fp=chrome&type=ws&sni=rAyAn-uS-2.MeDiCaLhIsToRy.iR#Telegram: @HedwigV2ray
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-d08.leila.dpdns.org&fp=chrome&type=ws&sni=rAyAn-d08.lEiLa.dPdNs.oRG#Telegram: @HedwigV2ray
-vless://7ab9707d-0c6f-48d0-9e20-4223d7c6f221@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#Telegram: @HedwigV2ray
 vless://7ac2252d-a966-486a-bca9-fcd148e60078@45.158.127.84:443?security=reality&encryption=none&pbk=W3lJRwhDFMycX3Q056SN4T9v_q_PvjBWEjmDF8Thsyc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=25#Telegram: @HedwigV2ray
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@ShadowProxy66&headerType=http&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
@@ -387,5 +384,7 @@ vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.13.229:2087?path=/?TELEGRAM-
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?flow=&type=ws&host=vl.hongkong6.qzz.io&path=/&security=tls&sni=vl.hongkong6.qzz.io&fp=chrome&allowInsecure=0#Telegram: @HedwigV2ray
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#Telegram: @HedwigV2ray
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=#Telegram: @HedwigV2ray
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#Telegram: @HedwigV2ray
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#🇨🇦 Canada | Telegram: @HedwigV2ray
-# Last updated: 2025-09-03 07:30:25
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#🇩🇪 Germany | Telegram: @HedwigV2ray
+# Last updated: 2025-09-03 08:30:22
