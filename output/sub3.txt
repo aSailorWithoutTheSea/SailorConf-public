@@ -385,4 +385,4 @@ vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@hajimamad.timeclassic.ir:900?type=x
 vless://5a9fa926-1ff7-48fe-e467-5d3e1e3a61b7@Www.speedtest.net:2095?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=www.speednet.teat.iransHeep.Web.tR.&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://5aa20d0b-5570-4262-d5a8-9216c3eab070@99.199.73.53:18716?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://5aa9c9ce-d5b3-40be-8481-fe5ae953e5a9@51.195.101.222:443?path=/ws&security=tls&encryption=none&host=51.195.101.222&fp=chrome&type=ws&sni=zula.ir#Telegram: @HedwigV2ray
-# Last updated: 2025-09-04 00:30:24
+# Last updated: 2025-09-04 01:30:22
