@@ -1,3 +1,4 @@
+vless://Parsashonam-Bot-12@[2a01:4f9:c011:76c2::1]:12060?security=reality&encryption=none&pbk=ns_xXaKpN5PUjM6FuXjnFGVWN4JLiR-K5I6yDWerBlQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=5ecd83e028#Telegram: @HedwigV2ray
 vless://Parsashonam-Bot-13@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Telegram: @HedwigV2ray
 vless://Parsashonam-Bot-13@104.17.147.22:8880?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Telegram: @HedwigV2ray
 vless://Parsashonam-Bot-13@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram: @HedwigV2ray
@@ -412,5 +413,4 @@ vless://a7a6f432-903c-4e92-a107-4b559b8c176b@www.speedtest.net:2086/?type=ws&pat
 vless://a7ba32f6-1861-460d-a237-e30d4ee415d0@188.114.98.68:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://a7bfa412-5216-4903-9996-5b48da092172@f.paliss.ir:2525?security=none&encryption=none&host=f.paliss.ir&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://a7bfa412-5216-4903-9996-5b48da092172@f.paliss.ir:2525?security=none&encryption=none&host=f.paliss.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Telegram: @HedwigV2ray
-vless://a7bfa412-5216-4903-9996-5b48da092172@f.paliss.ir:2525?security=none&type=Tcp&headerType=&path=&host=f.paliss.ir#Telegram: @HedwigV2ray
-# Last updated: 2025-09-04 07:30:22
+# Last updated: 2025-09-04 08:30:24
