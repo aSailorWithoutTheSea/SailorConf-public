@@ -1,3 +1,8 @@
+vless://Parsashonam-Bot-13@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Telegram: @HedwigV2ray
+vless://Parsashonam-Bot-13@104.17.147.22:8880?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Telegram: @HedwigV2ray
+vless://Parsashonam-Bot-13@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram: @HedwigV2ray
+vless://Parsashonam-Bot-13@[2a01:4f8:1c1a:dc2b::1]:4430?security=reality&encryption=none&pbk=5CE4ZpwvR-EmkymzU3V6yeeTcSTCpIBg473J8-6IFnM&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=9aa6af3aa2d41f#Telegram: @HedwigV2ray
+vless://Parsashonam-Bot-17@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram: @HedwigV2ray
 vless://Parsashonam-Bot-19@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Telegram: @HedwigV2ray
 vless://Parsashonam-Bot-19@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Telegram: @HedwigV2ray
 vless://Parsashonam-Bot-19@104.17.147.22:8880?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Telegram: @HedwigV2ray
@@ -408,11 +413,4 @@ vless://a7ba32f6-1861-460d-a237-e30d4ee415d0@188.114.98.68:80?path=/@V2ngFast-@V
 vless://a7bfa412-5216-4903-9996-5b48da092172@f.paliss.ir:2525?security=none&encryption=none&host=f.paliss.ir&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://a7bfa412-5216-4903-9996-5b48da092172@f.paliss.ir:2525?security=none&encryption=none&host=f.paliss.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://a7bfa412-5216-4903-9996-5b48da092172@f.paliss.ir:2525?security=none&type=Tcp&headerType=&path=&host=f.paliss.ir#Telegram: @HedwigV2ray
-vless://a7bfa412-5216-4903-9996-5b48da092172@f.vcheat.ir:2530?security=none&type=Tcp&headerType=&path=&host=f.vcheat.ir#Telegram: @HedwigV2ray
-vless://a7bfa412-5216-4903-9996-5b48da092172@seyed.vcheat.ir:6666?security=none&encryption=none&host=vcheat.ir&headerType=none&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
-vless://a7bfa412-5216-4903-9996-5b48da092172@seyed.vcheat.ir:6666?security=none&type=Tcp&headerType=&path=&host=vcheat.ir#Telegram: @HedwigV2ray
-vless://a7bfa412-5216-4903-9996-5b48da092172@vcheat.seyedshakan.ir:6666?security=none&encryption=none&host=seyedshakan.ir&headerType=none&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
-vless://a7bfa412-5216-4903-9996-5b48da092172@vcheat.seyedshakan.ir:6666?security=none&type=Tcp&headerType=&path=&host=seyedshakan.ir#Telegram: @HedwigV2ray
-vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
-vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-04 06:30:16
+# Last updated: 2025-09-04 07:30:22
