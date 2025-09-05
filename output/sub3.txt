@@ -384,4 +384,4 @@ vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🇷🇺 Russia | Telegram: @HedwigV2ray
 vless://54922e97-046b-40dc-a062-c525eb14540c@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=dash.srv2.quest&type=ws#Telegram: @HedwigV2ray
 vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@ir3.mxspeed8-3.ir:1885?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-05 00:30:24
+# Last updated: 2025-09-05 01:30:24
