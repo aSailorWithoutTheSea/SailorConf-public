@@ -1,5 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
@@ -312,4 +310,6 @@ vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&sec
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.79.170:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram: @HedwigV2ray
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram: @HedwigV2ray
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/?TELEGRAM-JKVPN_JKVPN_JKVPN?ed=512&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-09-06 15:30:26
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram: @HedwigV2ray
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@162.159.253.39:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram: @HedwigV2ray
+# Last updated: 2025-09-06 16:30:23
