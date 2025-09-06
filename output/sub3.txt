@@ -386,4 +386,4 @@ vless://54e38a27-7ee9-4d83-a2de-bdb9dc123a4e@www.speedtest.net:2086?path=/@ZedBa
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=/security=tls&fp=chrome#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?encryption=none&security=tls&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/#Telegram: @HedwigV2ray
 vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-09-06 03:30:22
+# Last updated: 2025-09-06 04:30:22
