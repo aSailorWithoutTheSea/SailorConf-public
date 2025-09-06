@@ -1,3 +1,5 @@
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2048Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
@@ -209,7 +211,6 @@ vless://703056b4-3eed-4f05-8aa7-70432741cafc@game.azadsv.sbs:4918?security=reali
 vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.147.22:2053?encryption=none&security=tls&sni=maHsA2.cFFoRM.sIte&alpn=http/1.1&fp=chrome&type=ws&host=mahsa2.cfform.site&path=/#Telegram: @HedwigV2ray
 vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.147.22:2053?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=mahsa2.cfform.site&fp=chrome&type=ws&sni=maHsA2.cFFoRM.sIte#Telegram: @HedwigV2ray
 vless://704198c4-37b9-473d-a5de-0333276f2f6c@www.speedtest.net:2053?path=/Telegram-V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=mahsa2.cfform.site&fp=chrome&type=ws&sni=maHsA2.cFFoRM.sIte#Telegram: @HedwigV2ray
-vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?encryption=none&type=ws&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&path=/?ed=2087&security=none#Telegram: @HedwigV2ray
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#Telegram: @HedwigV2ray
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087?ed=2048&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#Telegram: @HedwigV2ray
@@ -320,5 +321,4 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss49730.tas-bazi.com:443?mode=stre
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss55501.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss55501.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss55501.tas-bazi.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/xhttp&mode=stream-one#Telegram: @HedwigV2ray
-# Last updated: 2025-09-05 23:30:21
+# Last updated: 2025-09-06 00:30:21

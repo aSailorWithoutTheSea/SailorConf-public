@@ -1,3 +1,4 @@
+vless://9b430ece-d9cb-4e96-b1e9-ba39f593fbfd@77.110.121.191:51430?security=none&seed=RGDhjO2XwS&encryption=none&headerType=wireguard&type=kcp#Telegram: @HedwigV2ray
 vless://9b4b9e13-ff84-4415-8b2b-416b987016b9@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=az209.dr-mojtaba.ir&type=ws#Telegram: @HedwigV2ray
 vless://9b4b9e13-ff84-4415-8b2b-416b987016b9@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=az209.dr-mojtaba.ir&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://9b546843-a984-4a3d-b91d-c360cd6b3a13@83.147.18.179:443?security=reality&encryption=none&pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=snapp.ir&sid=5bef46444e87#Telegram: @HedwigV2ray
@@ -373,5 +374,4 @@ vless://a0c4edae-3fac-456e-8a05-cad8418e6d82@172.66.40.99:8080?type=ws&path=/@Ma
 vless://a0c8a562-12ad-4650-8716-67892a5765bf@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=goldenpeshkel.com&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@15.235.41.93:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
-vless://a0ca6f7f-a18e-41bb-957c-d3e582fd8a34@abolfazl.pviphmd.com:443?security=reality&encryption=none&pbk=78jmchXa0e7mdAI1E-z-ozaXm35LfjSshnzJm5DWN3Y&headerType=none&fp=chrome&spx=/&type=tcp&sni=eset.com&sid=94d0ed#Telegram: @HedwigV2ray
-# Last updated: 2025-09-05 23:30:21
+# Last updated: 2025-09-06 00:30:21

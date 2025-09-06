@@ -1,3 +1,5 @@
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51210.tas-bazi.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -384,6 +386,4 @@ vless://54e38a27-7ee9-4d83-a2de-bdb9dc123a4e@www.speedtest.net:2086?path=/@ZedBa
 vless://54e38a27-7ee9-4d83-a2de-bdb9dc123a4e@www.speedtest.net:2086?path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&security=&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=mahan.mmadvip8563.ir&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=/security=tls&fp=chrome#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?encryption=none&security=tls&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/#Telegram: @HedwigV2ray
-vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#Telegram: @HedwigV2ray
-vless://55143323-5ef4-45c2-b8fb-9f7b987589e6@lwndnnw.js87nlw.iwhwkdh87.owjfj87kdk.theiranoflegends.com:883?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-05 23:30:21
+# Last updated: 2025-09-06 00:30:20
