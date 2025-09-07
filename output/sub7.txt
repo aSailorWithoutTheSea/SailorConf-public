@@ -75,6 +75,7 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&en
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?encryption=none&security=none&type=ws&path=%2Fhttp#🇫🇷 France | Telegram: @HedwigV2ray
 vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=%2F&security=none&encryption=none&host=locationbasedservicesturkeyadakmepfoqmwedoqimweopdim.okatestoka.ir&type=httpupgrade#Telegram: @HedwigV2ray
+vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=%2F&security=none&encryption=none&host=xonlineshoappdownloadus01.okatestoka.ir&type=httpupgrade#Telegram: @HedwigV2ray
 vless://1ab44c12-1462-422e-aeab-aaa025636f61@103.249.133.69:443?security=reality&encryption=none&pbk=eAKw1k-H2cuw0AsjNH-3RG2RBHOZCPz8qQp-i5W-Zkk&headerType=none&fp=chrome&spx=%2FBjbMH0KJ2gNtut1&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=f73895c725c3#🇫🇷 France | Telegram: @HedwigV2ray
 vless://1ab44c12-1462-422e-aeab-aaa025636f61@217.198.12.224:443?security=reality&encryption=none&pbk=cBJsDdArckzyAvjzcqF_cK9Rpts2Lxq1oqj-b9_HeQ8&headerType=none&fp=chrome&spx=%2Fy3vtypp2mJH2n5t&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=46fe77b51a66#🇷🇺 Russia | Telegram: @HedwigV2ray
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#Telegram: @HedwigV2ray
@@ -88,7 +89,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=%40foxnim&sni=dd.foxnim.info#Telegram: @HedwigV2ray
 vless://2179abfc-2435-4b64-8c96-cb39184a4348@german.vp22ray.site:2087?security=reality&encryption=none&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&headerType=http&fp=firefox&spx=%2F&type=tcp&sni=Ftp.debian.org&sid=32c43ca1#Telegram: @HedwigV2ray
-vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&sid=f430927d&type=tcp&headerType=none#Telegram: @HedwigV2ray
 vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&sid=f430927d&type=tcp&headerType=none#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://2688e821-1600-488d-a49a-e8a9956e96ee@zula.ir:2095?type=httpupgrade&path=%2F%3Fed%3D2048&host=ShAhEd2.NovInTeCc.OrG.&security=none#Telegram: @HedwigV2ray
 vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?path=%2F%40iSpeedTopVPN%3Fed%3D80&security=&encryption=none&host=shole.zarghamportal.ir&type=ws#Telegram: @HedwigV2ray
@@ -472,4 +472,4 @@ vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6
 vmess://eyJhZGQiOiJwYW5lbDEuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwMWQxM2M0LTRjYWEtNGJiNy05MzNmLWUwYmViNmQ4NzJjOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI0NzAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFRlbGVncmFtOiBASGVkd2lnVjJyYXkifQ==
 vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6IvCfh6/wn4e1IEphcGFuIHwgVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJpZCI6ImM2MmQ1NjRlLWRlMzAtNGZkMi04ZTJmLTVjZTU0NGMwNjQ2NSIsIm5ldCI6IndzIiwicG9ydCI6ODAsImFpZCI6IjAiLCJhZGQiOiJqb2luLWJlZGUudm1lc3NvcmcuZnVuIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJwcyI6IlRlbGVncmFtOiBASGVkd2lnVjJyYXkifQ==
-# Last updated: 2025-09-06 23:30:23
+# Last updated: 2025-09-07 00:30:24
