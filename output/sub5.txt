@@ -415,4 +415,4 @@ vless://af1c70ed-15cb-4f03-95eb-44383d227631@172.66.132.196:443?path=/wss&securi
 vless://af38c6b0-8a1b-407d-9617-f178ac20752e@188.114.98.68:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-09-08 17:30:19
+# Last updated: 2025-09-08 18:30:22

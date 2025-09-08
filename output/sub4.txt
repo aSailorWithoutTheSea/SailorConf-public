@@ -387,4 +387,4 @@ vless://7e91c270-c067-4c9c-9231-9208471487ce@www.speedtest.net:8880?path=/@V2RAY
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Telegram: @HedwigV2ray
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🇨🇦 Canada | Telegram: @HedwigV2ray
-# Last updated: 2025-09-08 17:30:19
+# Last updated: 2025-09-08 18:30:22
