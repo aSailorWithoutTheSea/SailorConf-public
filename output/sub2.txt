@@ -383,4 +383,4 @@ vless://30e26402-b8aa-4ab6-a8a0-47ecee2b52ee@65.109.199.159:443?security=reality
 vless://30e8edb6-5b90-48f1-95a8-19612b12916f@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=romanfn.lemoex.ir&type=ws#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=h2,http/1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=/proxyip=zani.yaemiko.ggff.net/@CodeClubiR#Telegram: @HedwigV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-09-08 00:30:18
+# Last updated: 2025-09-08 01:30:17
