@@ -416,4 +416,4 @@ vless://b68ae076-1268-45f0-b82a-813732495724@104.16.150.135:80?path=/?ed=2048@Hi
 vless://b68ae076-1268-45f0-b82a-813732495724@104.16.150.135:80?path=/?ed=2048@v2ray_configs_pools&security=none&encryption=none&host=baryeiran.sarina.ip-ddns.com&fp=chrome&type=ws#Telegram: @HedwigV2ray
 vless://b68c2950-560d-4f52-8efb-33e3224c9d87@172.66.40.99:8880?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=www.dollardoon.com&type=httpupgrade#Telegram: @HedwigV2ray
 vless://b68c9fdd-7f7d-4068-974a-fe29c52da217@135.181.201.193:56521?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-09 00:30:20
+# Last updated: 2025-09-09 01:30:23
