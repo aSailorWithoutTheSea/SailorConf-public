@@ -1,4 +1,3 @@
-vless://504a66e9-9192-482d-9b91-962a4c8e391c@149.28.117.46:443?mode=stream-one&path=/rtgyhjk&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://5050e255-4919-4d7f-96c8-30b13d06fdf6@188.114.96.7:443?path=/nXWz3i2XoxHvOGI4?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&type=ws&sni=1mCijea74uYkCcQ2mZrX-MNGHduCyF0B.DAMav48375.wORKErs.DeV#Telegram: @HedwigV2ray
 vless://50565b3d-4cdf-46c4-8902-23b67dcb5ab3@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://50626ca4-ecd4-491e-b8b1-6f92420e67cc@45.94.215.252:1001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
@@ -385,4 +384,4 @@ vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?path=/pfrlouws?e
 vless://6035325d-399a-5148-9126-29cedfd5966a@147.45.51.67:443?security=reality&encryption=none&pbk=zr1YTtXSRwdO8o5podr88Cz28vQpJGzuTJM9mpMp1AA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=df5e9592#Telegram: @HedwigV2ray
 vless://6035325d-399a-5148-9126-29cedfd5966a@147.45.51.67:443?security=reality&encryption=none&pbk=zr1YTtXSRwdO8o5podr88Cz28vQpJGzuTJM9mpMp1AA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=df5e9592#Telegram: @HedwigV2ray
 vless://6035325d-399a-5148-9126-29cedfd5966a@178.17.58.126:443?security=reality&encryption=none&pbk=GyivnLvG6JEO7xV9PI12Z0XTLZJGClBHOcpHwSfrsj4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=e3015cd4#Telegram: @HedwigV2ray
-# Last updated: 2025-09-09 03:30:24
+# Last updated: 2025-09-09 04:30:26

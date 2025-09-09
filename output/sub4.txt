@@ -76,7 +76,6 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss49730.tas-bazi.com:443?mode=stre
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss55501.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss55501.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss72303.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss72303.tas-bazi.com:443?note=-----------Confvip-----------&mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss72303.tas-bazi.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/xhttp&mode=stream-one#Telegram: @HedwigV2ray
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -404,4 +403,5 @@ vless://84aa3429-f49a-4fa4-9fc5-621569975120@91.99.175.173:1001?security=reality
 vless://84b048c1-897f-4d8a-91e6-cde35a1b8108@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://84b048c1-897f-4d8a-91e6-cde35a1b8108@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=/v2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#Telegram: @HedwigV2ray
-# Last updated: 2025-09-09 03:30:24
+vless://8523c3f2-d5c7-4cce-9342-5c48a1afb3b9@m59a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
+# Last updated: 2025-09-09 04:30:26
