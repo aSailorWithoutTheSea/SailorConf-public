@@ -1,4 +1,3 @@
-vless://4cb12ac3-f4fa-47bc-a009-14b5b7d83510@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://4cb539cb-7e01-4c00-90a1-b89b66881e73@172.245.33.163:10088?security=reality&encryption=none&pbk=CWO043TqIdMiwVVNBydNwdVuzKz3K8p9IIEynpR_dFs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=20182bcc0f3415d9#Telegram: @HedwigV2ray
 vless://4cca4383-cd45-496d-989c-a0cb6a1ed93a@45.63.64.149:443?mode=stream-one&path=/rfht&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://4ce4cefa-0d4d-4088-bdf5-1cad6de8c86d@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#Telegram: @HedwigV2ray
@@ -51,7 +50,6 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=t
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d23.AlanhIahO.cOm&type=ws&sni=d23.AlanhIahO.cOm#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=D2.ALaNhIAhO.CoM#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#Telegram: @HedwigV2ray
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?security=tls&encryption=none&type=ws&host=d13.aLANHIaho.Com&path=/&sni=d13.aLANHIaho.Com&fp=chrome#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f10.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f4.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f5.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
@@ -383,4 +381,5 @@ vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@jquery.com:443?path=/@Rayan_Config&
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@jquery.com:443?path=/@i10VPN&security=tls&encryption=none&host=rayan-config-05.rayan-ii.dns-dynamic.net&fp=chrome&type=ws&sni=rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT#Telegram: @HedwigV2ray
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@parspack.com:443?path=/?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&host=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome&type=ws&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT#Telegram: @HedwigV2ray
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome&type=ws&host=rayan-config-04.rayan-ii.dns-dynamic.net&path=/#Telegram: @HedwigV2ray
-# Last updated: 2025-09-09 11:30:23
+vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?path=/&security=tls&encryption=none&host=rayan-config-04.rayan-ii.dns-dynamic.net&fp=chrome&type=ws&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT#Telegram: @HedwigV2ray
+# Last updated: 2025-09-09 12:30:18

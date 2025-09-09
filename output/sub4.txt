@@ -1,4 +1,3 @@
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#Telegram: @HedwigV2ray
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=#Telegram: @HedwigV2ray
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#Telegram: @HedwigV2ray
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560/&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#Telegram: @HedwigV2ray
@@ -383,4 +382,5 @@ vless://7ef5c831-cea3-447c-99ea-fa997a71961f@zula-game.karaj-game-farsi.ir:443?t
 vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?security=tls&encryption=none&type=ws&host=mSDONOr.Pages.dEv&path=/TELEGRAM-MARAMBASHI-MARAMBASHI/?ed=2048&sni=MSdOnoR.pagEs.dEV&fp=chrome&alpn=h2,http/1.1#Telegram: @HedwigV2ray
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?security=tls&encryption=none&type=ws&host=turkmenistan.armanibash.Shop.&path=/?ed=2048&sni=turkmenistan.armanibash.Shop.&fp=chrome#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://7f93cf7e-a9bb-4b7b-bf00-87cc5aba33ae@subtick.ticklitickli.ir:2087?path=/ed=2048&security=tls&alpn=h2&encryption=none&host=brand.tickyou.ir&type=ws&sni=brand.tickyou.ir#Telegram: @HedwigV2ray
-# Last updated: 2025-09-09 11:30:23
+vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=86#Telegram: @HedwigV2ray
+# Last updated: 2025-09-09 12:30:18
