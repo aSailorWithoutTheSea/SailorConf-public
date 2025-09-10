@@ -412,4 +412,4 @@ vless://b41e1631-ceb3-47c9-ba87-c65a46f2f5a8@www.speedtest.net:2096?security=tls
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#Telegram: @HedwigV2ray
 vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=&encryption=none&host=zhaket.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-09-10 00:30:20
+# Last updated: 2025-09-10 01:30:27

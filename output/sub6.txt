@@ -373,4 +373,4 @@ vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?security=tls&alp
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#Telegram: @HedwigV2ray
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#Telegram: @HedwigV2ray
 vless://fa72a38c-56bf-4f3b-9735``-e96e9840ae54@app.chandplus.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#Telegram: @HedwigV2ray
-# Last updated: 2025-09-10 00:30:20
+# Last updated: 2025-09-10 01:30:27
