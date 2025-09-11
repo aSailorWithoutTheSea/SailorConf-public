@@ -371,4 +371,4 @@ vless://-----v2ray_fark-----@103.160.204.92:2053?type=grpc&serviceName=@v2ray_fa
 vless://-----v2ray_fark-----@103.160.204.92:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://-----v2ray_fark-----@103.160.204.92:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://-----v2ray_fark-----@104.16.199.186:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-09-11 13:05:24
+# Last updated: 2025-09-11 13:30:25
