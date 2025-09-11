@@ -409,4 +409,4 @@ vless://bc3120d9-8b56-4caa-b868-a110fbdbbfeb@172.66.40.99:2052?type=ws&path=/@Ma
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.216.235:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-11 00:30:26
+# Last updated: 2025-09-11 01:30:24
