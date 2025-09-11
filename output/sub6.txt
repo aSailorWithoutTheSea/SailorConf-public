@@ -338,6 +338,7 @@ vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=&enc
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://2e18f22d-db34-4ac2-b190-47849c185ac5@fr.aerogd.org:443?security=reality&encryption=none&pbk=OMjorrdIZKdYHwNtHQKQCaJFNLsHumS1IdhZnioDeBk&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zjvjk4.workspacefiles.com&sid=aaca94aa121ab49d#Telegram: @HedwigV2ray
 vless://2e1ed3b2-b431-4480-c1eb-076731360266@speed.sarazirsina.site:43890?type=tcp&security=tls&fp=&alpn=h2,http/1.1&sni=speed.sarazirsina.site#Telegram: @HedwigV2ray
+vless://2e205c90-8975-40a9-adaa-9b28b9e85dc9@209.38.42.122:2027?type=tcp&security=none#Telegram: @HedwigV2ray
 vless://2e428d06-68f7-42e7-a5ba-909b7c08b211@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#Telegram: @HedwigV2ray
 vless://2e700ecb-c913-4711-8078-2d50344a1559@93.115.240.74:15600?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://2ea68c62-18b4-4951-a027-d988a2d7be68@11.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
@@ -396,5 +397,4 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://2ec46576-4c69-44f2-9704-030fdc691e68@m66a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://2ec8a6f9-8173-4573-905a-511441373cb0@188.245.39.111:248?type=tcp&headerType=http&host=speedtest.net&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
-vless://2ec8a6f9-8173-4573-905a-511441373cb0@allll.primenet3.shop:28157?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=4c14#Telegram: @HedwigV2ray
-# Last updated: 2025-09-11 21:30:27
+# Last updated: 2025-09-11 22:30:19
