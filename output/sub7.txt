@@ -205,8 +205,6 @@ vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?note=---Telegram
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&sid=d5bfd6c4&type=tcp&headerType=none#Telegram: @HedwigV2ray
 vless://93491e84-f8ec-463b-a43a-e5465f3fe056@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://c2c5b83f-4892-c49f-b9d1-7af232611820@206.81.6.239:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=androidcentral.com&sid=6ea3daaac3d6bede#Telegram: @HedwigV2ray
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.66:27774?security=&fp=chrome&type=tcp&encryption=none#Telegram: @HedwigV2ray
-vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.68:27774?security=&fp=chrome&type=tcp&encryption=none#Telegram: @HedwigV2ray
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=&fp=chrome&type=tcp&encryption=none#Telegram: @HedwigV2ray
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.72:27774?security=&fp=chrome&type=tcp&encryption=none#Telegram: @HedwigV2ray
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@daniel-garoosis.rest:27774?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
@@ -366,4 +364,4 @@ vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoxLCJob3N0IjoiZmFwZW5nLm9yZyIsImlkIjoi
 vmess://eyJhZGQiOiJoa3QuZ290b2NoaW5hdG93bi5uZXQiLCJhaWQiOjIsImhvc3QiOiJoa3QuZ290b2NoaW5hdG93bi5uZXQiLCJpZCI6IjkzZmI2OWZjLTc3Y2YtMTFlZS04NWVlLWYyM2M5MTM2OWYyZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiLwn4et8J+HsCBIb25nIEtvbmcgfCBUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vmess://eyJhZGQiOiJsYW1tYWxhbmQub3JnIiwiYWlkIjoxLCJob3N0IjoibGFtbWFsYW5kLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiLwn4ep8J+HqiBHZXJtYW55IHwgVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImxhbW1hbGFuZC5vcmcifQ==
 vmess://eyJhZGQiOiJvdi1nZXJtYW55Ny4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im92LWdlcm1hbnk3LjA5dnBuLmNvbSIsImlkIjoiOGI3ZWM5OGQtYzI5MS00MDM0LTk3MTktZTZkNjIwNTE2MzZhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4NDQzIiwicHMiOiLwn4e18J+HsSBQb2xhbmQgfCBUZWxlZ3JhbTogQEhlZHdpZ1YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-# Last updated: 2025-09-11 07:30:30
+# Last updated: 2025-09-11 08:30:27
