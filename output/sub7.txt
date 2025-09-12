@@ -1,3 +1,4 @@
+vless://7edc9161-fa59-45ae-b9e9-80ef4bceb68e@85.9.203.125:36563?security=reality&encryption=none&pbk=tPpkzwOVa4li8CurZc07pnxl8ytBUm9x4b9TBP99h00&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=expedia.com&sid=c294d6ba98e6a7#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://7ef5c831-cea3-447c-99ea-fa997a71961f@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?security=tls&encryption=none&type=ws&host=mSDONOr.Pages.dEv&path=/TELEGRAM-MARAMBASHI-MARAMBASHI/?ed=2048&sni=MSdOnoR.pagEs.dEV&fp=chrome&alpn=h2,http/1.1#Telegram: @HedwigV2ray
 vless://7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8@104.21.36.57:443?path=/wsv/7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8&security=tls&encryption=none&host=avtice.fullmargintraders.com&fp=chrome&type=ws&sni=avtice.fullmargintraders.com#🇨🇦 Canada | Telegram: @HedwigV2ray
@@ -437,4 +438,4 @@ vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram: @HedwigV2ray
 vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRA&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://Parsashonam-298@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-12 18:30:23
+# Last updated: 2025-09-12 19:30:23
