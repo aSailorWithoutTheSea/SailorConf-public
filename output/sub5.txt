@@ -447,4 +447,4 @@ vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@172.66.40.99:80?path=/?ed=2048JOIN-
 vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@172.66.40.99:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#Telegram: @HedwigV2ray
 vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#Telegram: @HedwigV2ray
 vless://3b638479-b5b0-46b8-88a0-afbbf306e1f9@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.Lat.#Telegram: @HedwigV2ray
-# Last updated: 2025-09-12 17:30:25
+# Last updated: 2025-09-12 18:30:22
