@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.217.73.31:443#Telegram: @HedwigV2ray
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.218.228.243:443#Telegram: @HedwigV2ray
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.168.96:443#Telegram: @HedwigV2ray
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.251.195:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.190.1.125:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#Telegram: @HedwigV2ray
@@ -421,8 +425,4 @@ vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encr
 vless://10b1f4a3-63a7-46b4-f05a-023542f0dc11@87.107.144.71:54465?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://11095ae0-328d-4cff-bbb6-edebffb1cdf2@172.104.241.197:443?mode=auto&path=/xhttp&security=reality&encryption=none&pbk=qVBHkOW1vDofQ0IjHz7kBvg2TSuGJqQAhdNH_4NyuQ8&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=38e40d5b#Telegram: @HedwigV2ray
 vless://110ac6e9-f62b-5bd3-9d74-adbb4ec62f65@95.215.8.25:443?path=/vless&security=tls&encryption=none&host=95.215.8.25&fp=chrome&type=ws&sni=zula.ir#Telegram: @HedwigV2ray
-vless://1113a576-d328-447a-99a7-6fe72aac9596@172.67.210.173:443?path=/-iTHd_IhWEGiFXyL?ed=2048?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&alpn=http/1.1&encryption=none&host=htTpSTMeyuSHIkVPn.wI1KED9-2222.workeRS.DEV&fp=chrome&type=ws&sni=HTTPSTMeYushIkvpn.wI1KEd9-2222.WorkERs.deV#Telegram: @HedwigV2ray
-vless://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#Telegram: @HedwigV2ray
-vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp#Telegram: @HedwigV2ray
-vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-14 01:30:18
+# Last updated: 2025-09-14 02:30:20

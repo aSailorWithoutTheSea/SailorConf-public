@@ -1,3 +1,7 @@
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#Telegram: @HedwigV2ray
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Telegram: @HedwigV2ray
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zul/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHIa.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#Telegram: @HedwigV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
@@ -349,7 +353,6 @@ vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&securit
 vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Telegram: @HedwigV2ray
 vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&security=none&encryption=none&type=ws#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://3ec5186b-d636-48b0-9a0a-30d824f63078@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=asebeeme.global.ssl.fastly.net&type=xhttp#Telegram: @HedwigV2ray
-vless://3ec7a6b6-6176-4691-ff7c-3616aae9396b@www.speedtest.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=none&encryption=none&host=www.speedtest-iran.ir&type=httpupgrade#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Op.mciickoir.ir:9620?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://3eda67be-be15-4d61-9943-85772cf664b7@104.24.40.146:443?path=/index.html?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#Telegram: @HedwigV2ray
@@ -416,7 +419,4 @@ vless://41032e76-519f-43d4-8768-603fc7afbb40@Evay_vpn.heloisfood.ir:1530?type=xh
 vless://41032e76-519f-43d4-8768-603fc7afbb40@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=Evay_vpn.heloisfood.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048&security=none#Telegram: @HedwigV2ray
 vless://410615dc-8a83-e7ca-6d1e-52bddd8d3c23@143.244.56.54:80?mode=auto&path=/&security=none&encryption=none&host=fastspeed.b-cdn.net&type=xhttp#Telegram: @HedwigV2ray
 vless://413008af-9dea-4cfc-b21c-dcf2a1a3ddb8@162.243.29.50:443?mode=auto&path=/bfsf3&security=reality&encryption=none&pbk=vqG3LKhczhCYrah0ClGd0XFrYGWCvBrpp_EChAw0k0A&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5df40b#Telegram: @HedwigV2ray
-vless://413008af-9dea-4cfc-b21c-dcf2a1a3ddb8@162.243.29.50:443?mode=auto&path=/bfsf3&security=reality&encryption=none&pbk=vqG3LKhczhCYrah0ClGd0XFrYGWCvBrpp_EChAw0k0A&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5df40b#🇺🇸 USA | Telegram: @HedwigV2ray
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2052?security=none&encryption=none&type=ws&host=RrGbFqCn2.IuBcInScKkSdNoI1.nEt&path=/#Telegram: @HedwigV2ray
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?security=none&encryption=none&type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=/#Telegram: @HedwigV2ray
-# Last updated: 2025-09-14 01:30:19
+# Last updated: 2025-09-14 02:30:20
