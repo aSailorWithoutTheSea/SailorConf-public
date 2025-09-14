@@ -419,4 +419,5 @@ vless://41032e76-519f-43d4-8768-603fc7afbb40@Evay_vpn.heloisfood.ir:1530?type=xh
 vless://41032e76-519f-43d4-8768-603fc7afbb40@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=Evay_vpn.heloisfood.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048&security=none#Telegram: @HedwigV2ray
 vless://410615dc-8a83-e7ca-6d1e-52bddd8d3c23@143.244.56.54:80?mode=auto&path=/&security=none&encryption=none&host=fastspeed.b-cdn.net&type=xhttp#Telegram: @HedwigV2ray
 vless://413008af-9dea-4cfc-b21c-dcf2a1a3ddb8@162.243.29.50:443?mode=auto&path=/bfsf3&security=reality&encryption=none&pbk=vqG3LKhczhCYrah0ClGd0XFrYGWCvBrpp_EChAw0k0A&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5df40b#Telegram: @HedwigV2ray
-# Last updated: 2025-09-14 03:30:21
+vless://413008af-9dea-4cfc-b21c-dcf2a1a3ddb8@162.243.29.50:443?mode=auto&path=/bfsf3&security=reality&encryption=none&pbk=vqG3LKhczhCYrah0ClGd0XFrYGWCvBrpp_EChAw0k0A&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5df40b#🇺🇸 USA | Telegram: @HedwigV2ray
+# Last updated: 2025-09-14 04:30:24

@@ -425,4 +425,4 @@ vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encr
 vless://10b1f4a3-63a7-46b4-f05a-023542f0dc11@87.107.144.71:54465?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://11095ae0-328d-4cff-bbb6-edebffb1cdf2@172.104.241.197:443?mode=auto&path=/xhttp&security=reality&encryption=none&pbk=qVBHkOW1vDofQ0IjHz7kBvg2TSuGJqQAhdNH_4NyuQ8&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=38e40d5b#Telegram: @HedwigV2ray
 vless://110ac6e9-f62b-5bd3-9d74-adbb4ec62f65@95.215.8.25:443?path=/vless&security=tls&encryption=none&host=95.215.8.25&fp=chrome&type=ws&sni=zula.ir#Telegram: @HedwigV2ray
-# Last updated: 2025-09-14 03:30:20
+# Last updated: 2025-09-14 04:30:24
