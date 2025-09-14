@@ -1,3 +1,4 @@
+vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.147.163:443?mode=stream-one&path=/d&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.216.213:443?mode=stream-one&path=/d&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://82b252cf-e2e9-48f8-864b-4b5efe1c3367@91.236.168.126:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://82c51f47-3c1f-4d82-ad48-1e372eea1f12@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=sOp.IsVcLoD.cOm&fp=chrome&type=ws&sni=sOp.IsVcLoD.cOm#Telegram: @HedwigV2ray
@@ -431,5 +432,4 @@ vless://Parsashonam-308@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 vless://Parsashonam-Bot-17@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram: @HedwigV2ray
 vless://Parsashonam-Bot-19@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Telegram: @HedwigV2ray
 vless://Parsashonam-Bot-19@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Telegram: @HedwigV2ray
-vless://Parsashonam-Bot-20@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#🇮🇷 Iran | Telegram: @HedwigV2ray
-# Last updated: 2025-09-14 11:30:22
+# Last updated: 2025-09-14 12:30:21

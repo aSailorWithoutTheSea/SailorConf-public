@@ -397,4 +397,4 @@ vless://5050e255-4919-4d7f-96c8-30b13d06fdf6@188.114.96.7:443?path=/nXWz3i2XoxHv
 vless://50565b3d-4cdf-46c4-8902-23b67dcb5ab3@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://50626ca4-ecd4-491e-b8b1-6f92420e67cc@45.94.215.252:1001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://50744585-10a7-4808-bc13-8947c02bd955@104.18.15.19:2086?path=/?ed=2560&security=none&encryption=none&host=0122.xz9a1kdw.workers.dev&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-14 11:30:22
+# Last updated: 2025-09-14 12:30:21
