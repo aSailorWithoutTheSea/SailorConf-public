@@ -442,4 +442,4 @@ vless://3d54f7bc-64c0-4547-989b-96f2f1aa4d09@172.66.40.99:8080?encryption=none&s
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=/sg3/?-JKVPN_TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=/sg3/?TELEGRAM---JKVPN---JKVPN---JKVPN---JKVPN---JKVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=/sg3/?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
-# Last updated: 2025-09-14 07:30:17
+# Last updated: 2025-09-14 08:30:23
