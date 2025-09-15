@@ -427,4 +427,4 @@ vless://2e1ed3b2-b431-4480-c1eb-076731360266@speed.sarazirsina.site:43890?type=t
 vless://2e428d06-68f7-42e7-a5ba-909b7c08b211@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#Telegram: @HedwigV2ray
 vless://2ea68c62-18b4-4951-a027-d988a2d7be68@11.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#Telegram: @HedwigV2ray
-# Last updated: 2025-09-15 00:30:23
+# Last updated: 2025-09-15 01:30:18
