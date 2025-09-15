@@ -437,4 +437,4 @@ vless://b4ea0215-c87b-4664-a355-cdf55a994f46@speedtestcustom.com:80?path=/-LiV2r
 vless://b53db615-5eb7-4d77-84dd-6c401b1a61a8@www.speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.wEb.tr.&security=none#Telegram: @HedwigV2ray
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#Telegram: @HedwigV2ray
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=/?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#Telegram: @HedwigV2ray
-# Last updated: 2025-09-15 04:30:22
+# Last updated: 2025-09-15 05:30:24
