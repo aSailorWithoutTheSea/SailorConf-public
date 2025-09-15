@@ -409,5 +409,4 @@ vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.
 vless://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80?security=none&encryption=none&fp=chrome&type=ws#Telegram: @HedwigV2ray
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?path=/?Join------Join---?ed=2560&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
-vless://71162137-8946-4b03-8f57-f56902da0e84@65.109.204.158:59542/?type=grpc&serviceName=@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP&authority=&security=reality&pbk=-0l8tuY5WxV9SLCKC5lRdz2k3aoqpM0SeZTwKu4pqxU&fp=chrome&sni=google.com&sid=3a8329&spx=/#Telegram: @HedwigV2ray
-# Last updated: 2025-09-15 21:30:21
+# Last updated: 2025-09-15 22:30:17
