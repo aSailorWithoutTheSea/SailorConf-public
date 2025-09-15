@@ -1,3 +1,4 @@
+vless://a6c64faf-33da-4cd4-b851-29a755e3698a@www.speedtest.net:2086?path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&security=&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=mahan.mmadvip8563.ir&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://a7343619-6181-4e26-b31b-6bcf21b9e0be@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#Telegram: @HedwigV2ray
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=/Tel-@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan .changli.ddns-ip.net#Telegram: @HedwigV2ray
 vless://a7a6f432-903c-4e92-a107-4b559b8c176b@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#Telegram: @HedwigV2ray
@@ -424,5 +425,4 @@ vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.213.128:443?mode=stream-one&p
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.213.128:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.217.44:443?mode=stream-one&path=/rf&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.217.44:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.7.237:443?mode=stream-one&path=/rf&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-15 09:30:19
+# Last updated: 2025-09-15 10:30:17
