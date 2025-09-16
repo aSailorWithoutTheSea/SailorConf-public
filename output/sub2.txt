@@ -371,4 +371,4 @@ trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gs
 trojan://SSFUUBnxFFpCthyduC2PTw@5.181.3.169:2057?security=tls&headerType=none&type=tcp&sni=usa.linegroups.ru#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://XWnVX2ASHl@5.255.103.217:37757?path=/moshaliplus&security=tls&alpn=http/1.1&host=moshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=moshali.arshiacomplus.dpdns.org#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 trojan://bb0471a3-7d50-40c5-ad2f-1d452434d0ac@jp.111143.xyz:19528?path=/bb0471a3-7d50-40c5-ad2f-1d452434d0ac&security=tls&host=jp.111143.xyz&type=ws#🇯🇵 Japan | Telegram: @HedwigV2ray
-# Last updated: 2025-09-16 02:30:21
+# Last updated: 2025-09-16 03:30:22
