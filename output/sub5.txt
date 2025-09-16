@@ -425,4 +425,4 @@ vless://50190347-9a85-4386-bd33-98bc5bc238cd@zzzzz.zz.z.zz.zzzzzzz.mizbandana.or
 vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?flow=&type=ws&host=&path=/&security=tls&sni=D10.ALanHIAHo.cOm&fp=chrome&allowInsecure=0#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=D10.ALanHIAHo.cOm#Telegram: @HedwigV2ray
-# Last updated: 2025-09-16 07:30:23
+# Last updated: 2025-09-16 08:30:22

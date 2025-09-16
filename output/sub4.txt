@@ -440,4 +440,4 @@ vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws?e
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?security=&type=tcp&encryption=none#Telegram: @HedwigV2ray
 vless://3601ddaf-6623-4d16-88c9-fbf8ad4f8a86@116.203.152.240:2565?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-09-16 07:30:23
+# Last updated: 2025-09-16 08:30:22
