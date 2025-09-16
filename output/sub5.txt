@@ -423,4 +423,4 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=t
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d11.AlanHIAhO.cOM&type=ws&sni=d11.AlanHIAhO.cOM#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d13.aLANHIaho.Com&fp=chrome&type=ws&sni=d13.aLANHIaho.Com#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d13.aLANHIaho.Com&type=ws&sni=d13.aLANHIaho.Com#Telegram: @HedwigV2ray
-# Last updated: 2025-09-16 11:30:20
+# Last updated: 2025-09-16 12:30:23
