@@ -371,4 +371,4 @@ trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wm
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#Telegram: @HedwigV2ray
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#Telegram: @HedwigV2ray
 trojan://trojan@104.24.57.5:443?path=/?ed&security=tls&host=azadnet2-dl4.pages.dev&fp=chrome&type=ws&sni=azadnet2-dl4.pages.dev#Telegram: @HedwigV2ray
-# Last updated: 2025-09-16 10:30:23
+# Last updated: 2025-09-16 11:30:20
