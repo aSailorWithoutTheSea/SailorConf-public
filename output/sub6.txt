@@ -1,4 +1,3 @@
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f5.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f9.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=DfN09.alANHiAhO.Com#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=DfN09.alANHiAhO.Com#🇨🇦 Canada | Telegram: @HedwigV2ray
@@ -415,4 +414,5 @@ vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443
 vless://6ccabe6f-e504-4730-9b50-f3b8e5db28a7@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#Telegram: @HedwigV2ray
 vless://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?security=reality&encryption=none&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&headerType=none&fp=chrome&spx=/&type=tcp&sni=zula.ir&sid=08d8a4e0#Telegram: @HedwigV2ray
 vless://6d2ffe72-f10f-4351-ad1b-f7489c7f2ed8@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷 Iran | Telegram: @HedwigV2ray
-# Last updated: 2025-09-17 05:30:20
+vless://6d4a7d95-1a7c-4b3f-827f-a7f2b94bfbd5@172.66.40.99:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=www.speednet.teat.iransHeep.Web.tR.&type=httpupgrade#Telegram: @HedwigV2ray
+# Last updated: 2025-09-17 06:30:22
