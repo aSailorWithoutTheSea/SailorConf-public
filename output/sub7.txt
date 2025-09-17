@@ -435,4 +435,4 @@ vless://c016605b-dd24-4aa0-8f44-369d93b084ac@www.speedtest.net:2095?type=ws&host
 vless://c0adb6b8-4fb7-4b18-887b-6aecb80334b1@135.181.201.193:53546?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://c0bec1db-8577-46cf-aad1-a107e1c866a1@undl.doctorrezaaeissite.ir:80?security=reality&encryption=none&pbk=-3T3wKBehm_NOsTnrZfWIKklAe3sTXhlAS_9rjdQMTw&headerType=none&fp=chrome&spx=/&type=tcp&sni=maps.google.com&sid=9b806ce1#Telegram: @HedwigV2ray
 vless://c0e0f2b4-0550-49b2-8231-efde819bd8e1@178.128.138.210:443?mode=auto&path=/&security=reality&encryption=none&pbk=9ikzRJ5rL2e3cErzU03KCM8BkRpgSaWX6bwh9YMCmFY&fp=chrome&spx=/&type=xhttp&sni=google.com&sid=a00a4ad4de#Telegram: @HedwigV2ray
-# Last updated: 2025-09-17 06:30:22
+# Last updated: 2025-09-17 07:30:22
