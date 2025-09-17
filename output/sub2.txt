@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#Telegram: @HedwigV2ray
@@ -295,8 +294,6 @@ trojan://----telegram--ISVvpn----@mashti.isvcloud2.ir:1010?security=none&headerT
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
 trojan://19ZDV7mNAW@91.107.177.122:443?type=tcp&path=/@ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#Telegram: @HedwigV2ray
-trojan://1sbtkLK7F3@195.22.157.104:37085?path=/moshali2plus&security=tls&alpn=http/1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#🇬🇧 UK | Telegram: @HedwigV2ray
-trojan://1sbtkLK7F3@195.22.157.104:55700?path=/moshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http/1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=joon.arshiacomplus.dpdns.org#🇬🇧 UK | Telegram: @HedwigV2ray
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?security=tls&headerType=&type=tcp&sni=23.45.86.28#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:316?security=tls&headerType=&type=tcp&sni=23.45.86.28#🇯🇵 Japan | Telegram: @HedwigV2ray
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3957?security=tls&headerType=&type=tcp&sni=23.45.86.28#🇸🇬 Singapore | Telegram: @HedwigV2ray
@@ -320,9 +317,7 @@ trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=none&type=
 trojan://NeA9Y8cXve@flopr.isvcloud2.ir:36022?security=none&headerType=&type=tcp#Telegram: @HedwigV2ray
 trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#Telegram: @HedwigV2ray
 trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
-trojan://SSFUUBnxFFpCthyduC2PTw@5.181.3.169:2057?security=tls&headerType=none&type=tcp&sni=usa.linegroups.ru#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://XWnVX2ASHl@5.255.103.217:37757?path=/moshaliplus&security=tls&alpn=http/1.1&host=moshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=moshali.arshiacomplus.dpdns.org#🇳🇱 Netherlands | Telegram: @HedwigV2ray
-trojan://bb0471a3-7d50-40c5-ad2f-1d452434d0ac@jp.111143.xyz:19528?path=/bb0471a3-7d50-40c5-ad2f-1d452434d0ac&security=tls&host=jp.111143.xyz&type=ws#🇯🇵 Japan | Telegram: @HedwigV2ray
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#Telegram: @HedwigV2ray
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#Telegram: @HedwigV2ray
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#Telegram: @HedwigV2ray
@@ -374,7 +369,6 @@ trojan://tunnel-astrovpn_pt@pt-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN
 trojan://tunnel-astrovpnofficial-8@57.129.15.177:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=57.129.15.177#🇩🇪 Germany | Telegram: @HedwigV2ray
 trojan://tunnel-astrovpnofficial1828@213.108.198.158:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=213.108.198.158#🇩🇪 Germany | Telegram: @HedwigV2ray
 trojan://tunnel-astrovpnvpn_official@fr-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=fr-1.stunnel.cc#🇫🇷 France | Telegram: @HedwigV2ray
-trojan://zL78LA0D5P@5.255.103.217:58194?mode=stream-one&path=/moshali33&security=tls&alpn=h3&host=moshali.arshiacomplus.dpdns.org&fp=chrome&type=xhttp&sni=moshali.arshiacomplus.dpdns.org.cer#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 trojan://🤠JKVPN_JKVPN🤠@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=GeIm.IsVcLOd.CoM&fp=chrome&type=ws&sni=GeIm.IsVcLOd.CoM#Telegram: @HedwigV2ray
 vless://----telegram--ISVvpn----@91.107.142.109:443?security=reality&encryption=none&pbk=G-H9diIumZJioVE2Hhd4zlcawyEqTSQE5QCKycg-6Ec&headerType=none&fp=chrome&type=tcp&sni=varzesh3.com#Telegram: @HedwigV2ray
@@ -383,8 +377,15 @@ vless://----telegram-id-ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-teleg
 vless://000aab6e-553b-4de8-93ef-cca2878f7cec@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#Telegram: @HedwigV2ray
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=&encryption=none&host=Join---PLANB-PROXY&type=xhttp#Telegram: @HedwigV2ray
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=JOIN---PLANB_PROXY&type=xhttp#Telegram: @HedwigV2ray
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=Join---PLANB-PROXY&type=xhttp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-17 21:30:20
+vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=xhttp#Telegram: @HedwigV2ray
+vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+vless://005b0edd-ff5e-423e-9cc2-c2bf89a97b1c@www.speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.wEb.tr.&security=none#Telegram: @HedwigV2ray
+vless://00651706-0d2d-448b-80f2-7678f3e5187c@93.185.158.14:443?path=/bing&security=tls&encryption=none&host=uk.rtot.me&fp=chrome&type=ws&sni=uk.rtot.me#Telegram: @HedwigV2ray
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+# Last updated: 2025-09-17 22:30:24
