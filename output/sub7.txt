@@ -1,3 +1,5 @@
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://bbb1ce8e-684b-427f-89a0-42b8980f85f3@164.92.157.143:37677?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#Telegram: @HedwigV2ray
 vless://bbd32725-822d-430f-b2b1-de06a72f7333@parsvds.com.ir-outline.click:443?security=reality&encryption=none&pbk=4MdpN5vUjbOa5FwB6j9hyvii52ndc8Wq_NAg0iuuMnQ&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=zhaket.com&sid=66fff32920#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -423,6 +425,4 @@ vless://ddc25bf8-aac7-4eec-a69b-ba468c249728@167.172.99.53:29434?security=&encry
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://dde87267-da95-4a6b-9891-0c864a3e9be8@51.38.168.151:8080?path=/wslinka?ed&security=none&encryption=none&host=wWw.SpeEDTeSt.nEt&type=ws#Telegram: @HedwigV2ray
 vless://de07386a-4a4f-466a-be58-44b37b4e1a98@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#Telegram: @HedwigV2ray
-vless://de5b602d-caba-47d2-a5ee-9acfb43ff5a8@91.107.250.50:8080?note=JOIN----@AZADIV2RAYY----JOIN----@AZADIV2RAYY----JOIN---@AZADIV2RAYY-‐-JOIN---@AZADIV2RAYY-----bia-‐--@AZADIV2RAYY---Bia---@AZADIV2RAYY&security=reality&encryption=none&pbk=W0UG0rGAgz7UfAoT6s4v-qRWukTNK8yahSmzXOFJaQs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net&sid=2034cb#🇩🇪 Germany | Telegram: @HedwigV2ray
-vless://de7e69b8-c4e7-4461-f061-12f42115b51b@104.16.1.106:80?path=/&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-18 22:30:22
+# Last updated: 2025-09-18 23:30:23
