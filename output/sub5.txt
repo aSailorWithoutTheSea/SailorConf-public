@@ -413,4 +413,4 @@ vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&secur
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ftm2.gerlemondns.info&fp=chrome&type=ws&sni=ftm2.gerlemondns.info#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=o6.gerlemondns.info&fp=chrome&type=ws&sni=o6.gerlemondns.info#Telegram: @HedwigV2ray
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=smn2.gerlemondns.info&type=ws&sni=smn2.gerlemondns.info#Telegram: @HedwigV2ray
-# Last updated: 2025-09-18 07:30:22
+# Last updated: 2025-09-18 08:30:20

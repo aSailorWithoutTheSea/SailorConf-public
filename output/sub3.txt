@@ -425,4 +425,4 @@ vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2,http/1.1&encryption=none&host=/?BIA_PLANB_PROXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#Telegram: @HedwigV2ray
 vless://200fa9ac-dc45-48c3-a278-94cdc18e008e@47.239.5.71:36944?security=none&encryption=none&headerType=none&type=tcp#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-18 07:30:21
+# Last updated: 2025-09-18 08:30:20

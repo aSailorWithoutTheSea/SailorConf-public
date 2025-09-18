@@ -446,4 +446,4 @@ vless://3d9018af-6dd7-45f8-f54c-df419b50c4a8@Zula.ir:8880?type=ws&path=/telegram
 vless://3e11c334-1a82-4988-8dcc-b8bac99bab18@138.197.44.159:8585?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323/?type=tcp&encryption=none&flow=#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=noneWiFi-@IRAN_V2RAY1&headerType=none&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-18 07:30:22
+# Last updated: 2025-09-18 08:30:20
