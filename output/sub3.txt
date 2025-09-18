@@ -424,4 +424,4 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://206b6081-24e9-4516-aa1c-90fc57614f9a@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://206b6081-24e9-4516-aa1c-90fc57614f9a@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-09-18 09:30:24
+# Last updated: 2025-09-18 10:30:21
