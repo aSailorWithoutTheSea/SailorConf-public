@@ -445,4 +445,4 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:44
 vless://3d9018af-6dd7-45f8-f54c-df419b50c4a8@Zula.ir:8880?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.Web.tr.&security=none#Telegram: @HedwigV2ray
 vless://3e11c334-1a82-4988-8dcc-b8bac99bab18@138.197.44.159:8585?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323/?type=tcp&encryption=none&flow=#🇳🇱 Netherlands | Telegram: @HedwigV2ray
-# Last updated: 2025-09-18 04:30:23
+# Last updated: 2025-09-18 05:30:22
