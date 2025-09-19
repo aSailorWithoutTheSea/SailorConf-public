@@ -439,4 +439,4 @@ vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?security=none&encryption=none&fp=chrome&type=ws#Telegram: @HedwigV2ray
 vless://82e684ea-ff0f-4d4e-bd09-9dffe5466bcd@top.fxgoldensignals.com:8443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://83062a6e-615a-41a9-bc24-1b49d246515c@speedtestcustom.com:80?path=-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-19 12:30:22
+# Last updated: 2025-09-19 13:30:23
