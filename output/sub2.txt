@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBnQDQ1Ljg3LjE3NS4xNzg6ODA4MA==#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.162.130:443#Telegram: @HedwigV2ray
@@ -276,6 +280,7 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#Telegram: @Hedwi
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#Telegram: @HedwigV2ray
 trojan://----telegram--ISVvpn----@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#Telegram: @HedwigV2ray
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
+trojan://0rw5Ua7wh5@91.107.252.182:26805?type=tcp&security=none#Telegram: @HedwigV2ray
 trojan://19ZDV7mNAW@91.107.177.122:443?type=tcp&path=/@ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#Telegram: @HedwigV2ray
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?security=tls&headerType=&type=tcp&sni=23.45.86.28#🇺🇸 USA | Telegram: @HedwigV2ray
@@ -388,11 +393,4 @@ vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@api.chandplus.com:443?security=tls&
 vless://01e6edb4-245b-4a3f-8617-c288c5d2a4cc@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#Telegram: @HedwigV2ray
 vless://01fcdf58-f26d-40d1-bb80-6b75e5f3d254@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
-vless://02151ca0-a1d5-437c-d818-ffa739176fab@cumhuriyet.com.tr:8080?type=ws&host=Unlimiteddev-join.paradoxone.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#Telegram: @HedwigV2ray
-vless://02151ca0-a1d5-437c-d818-ffa739176fab@www.speedtest.net:8080?type=ws&host=Unlimiteddev-join.paradoxone.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#Telegram: @HedwigV2ray
-vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@a-l0.suupermeat.ir:8080?path=/de?ed=1048/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=none&encryption=none&type=httpupgrade#Telegram: @HedwigV2ray
-vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&host=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&headerType=none&type=tcp#Telegram: @HedwigV2ray
-vless://024f9b24-42c3-4c32-ba0a-3d7b5a6de162@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#Telegram: @HedwigV2ray
-vless://024f9b24-42c3-4c32-ba0a-3d7b5a6de162@63.141.128.14:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-19 08:30:21
+# Last updated: 2025-09-19 09:30:23
