@@ -172,7 +172,6 @@ vless://d1a91d64-beaf-42f9-9b11-9829d4a277bf@138.199.239.38:58320?security=none&
 vless://d1a94626-e2d7-4377-8410-a67d91d400b1@cdn.azkhaktakhane.ir:2070?security=&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#Telegram: @HedwigV2ray
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
-vless://d25456d9-eaad-4546-96a3-288410d2a09f@ru-0017.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#Telegram: @HedwigV2ray
 vless://d281e7fb-4c25-4ed1-82a3-13f2b61958c7@146.190.16.205:16301?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#Telegram: @HedwigV2ray
 vless://d2c4aef4-b125-4bab-8ce8-35879f613ab8@deu461.unboundworld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de#Telegram: @HedwigV2ray
@@ -413,4 +412,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931077057619102.hamedan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=gun&security=none&encryption=none&type=grpc#🇫🇷 France | Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931501605817853.lahijan-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
-# Last updated: 2025-09-19 21:30:22
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207611953.kish-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456112171.qazvin-drc-tusabw.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
+# Last updated: 2025-09-19 22:30:22
