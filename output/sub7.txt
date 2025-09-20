@@ -1,3 +1,5 @@
+vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Telegram: @HedwigV2ray
+vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Telegram: @HedwigV2ray
 vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Telegram: @HedwigV2ray
 vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Telegram: @HedwigV2ray
 vless://c358c324-68eb-41f9-a2a4-3f95fd0d2a61@104.21.43.168:8080?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&security=none#Telegram: @HedwigV2ray
@@ -409,6 +411,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931501605817853.lahijan-drc-dcra
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207611953.kish-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456112171.qazvin-drc-tusabw.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456112171.qazvin-drc-tusabw.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 France | Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
-# Last updated: 2025-09-20 09:30:24
+# Last updated: 2025-09-20 10:30:12
