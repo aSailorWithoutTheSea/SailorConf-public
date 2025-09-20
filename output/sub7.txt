@@ -28,6 +28,7 @@ vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/mu
 vless://c358c324-68eb-41f9-a2a4-3f95fd0d2a61@104.21.43.168:8080?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&security=none#Telegram: @HedwigV2ray
 vless://c358c324-68eb-41f9-a2a4-3f95fd0d2a61@172.66.40.99:8080?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&security=none#Telegram: @HedwigV2ray
 vless://c36a585a-7b5e-4967-8eea-4c327540e39e@www.speedtest.net:8880?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=www.dollardoon.com&type=httpupgrade#Telegram: @HedwigV2ray
+vless://c372b7b3-f0b9-4769-fef8-f2a1e3f293c3@171.22.173.206:28931?type=tcp&security=none#Telegram: @HedwigV2ray
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://c3d4e5f6-a7b8-3456-9012-cdef01234567@185.115.36.248:8443?type=ws&encryption=none&host=vpn.aslivpn.ir&path=/@Filter_breaker&security=tls&sni=vpn.aslivpn.ir&fp=chrome#Telegram: @HedwigV2ray
 vless://c40254de-15d8-44e8-8442-c159ab9e23f7@172.66.40.99:8880?type=ws&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.carwash-vip.xyz.&security=none#Telegram: @HedwigV2ray
@@ -410,6 +411,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638925841028493287.berlin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638925841028493287.berlin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 France | Telegram: @HedwigV2ray
-# Last updated: 2025-09-20 06:30:22
+# Last updated: 2025-09-20 07:30:24
