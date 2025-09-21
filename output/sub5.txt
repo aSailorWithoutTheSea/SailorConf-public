@@ -410,4 +410,4 @@ vless://60071f13-91ee-4592-fc98-4e6f539f394e@cumhuriyet.com.tr:80?flow=&type=ws&
 vless://60071f13-91ee-4592-fc98-4e6f539f394e@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=none&encryption=none&host=netgoris.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-21 00:30:17
+# Last updated: 2025-09-21 01:30:19
