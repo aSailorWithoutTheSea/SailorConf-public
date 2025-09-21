@@ -440,4 +440,4 @@ vless://876f998c-603e-419e-b8cc-e263dc9ba6e4@172.66.40.99:80?path=/telegram-CONF
 vless://87a8ee8f-99f3-4b8b-8c11-9cac2b9e7205@91.186.219.19:21831?security=reality&encryption=none&pbk=OPh080QaUKJrCC9YBHfRvDGeO_nqRgvFFx2u48lVj34&headerType=none&fp=chrome&spx=/@cconfig_v2ray&type=tcp&sni=tgju.org&sid=db0e034b0edb#Telegram: @HedwigV2ray
 vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&path=/vless#Telegram: @HedwigV2ray
 vless://881043ca-4194-439b-ffad-c7bb552b3edb@171.22.173.206:28931?type=tcp&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-09-21 03:30:28
+# Last updated: 2025-09-21 04:30:23
