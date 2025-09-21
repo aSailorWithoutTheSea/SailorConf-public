@@ -446,4 +446,4 @@ vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#Telegram: @HedwigV2ray
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#Telegram: @HedwigV2ray
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?path=/&security=none&encryption=none&host=tgju.org&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-20 23:30:22
+# Last updated: 2025-09-21 00:30:17
