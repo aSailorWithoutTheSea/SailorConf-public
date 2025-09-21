@@ -437,4 +437,4 @@ vless://8b1c4ba6-1997-4f1a-9a01-c68205d83321@136.244.95.145:80?type=xhttp&path=/
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=/de?ed=1048&security=none&encryption=none&host=Afkarnews.com&type=ws#Telegram: @HedwigV2ray
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=/de?ed=1048&security=none&encryption=none&host=Shuposipet.com&type=ws#Telegram: @HedwigV2ray
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=/de?ed=1048&security=none&encryption=none&host=Shupyghb.com&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-21 19:30:21
+# Last updated: 2025-09-21 20:30:21
