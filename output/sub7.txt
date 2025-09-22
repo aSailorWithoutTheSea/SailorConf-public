@@ -366,4 +366,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&authority=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&type=grpc#Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
-# Last updated: 2025-09-22 01:30:20
+# Last updated: 2025-09-22 02:30:20
