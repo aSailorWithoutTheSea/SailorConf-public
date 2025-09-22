@@ -1,4 +1,3 @@
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#Telegram: @HedwigV2ray
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#Telegram: @HedwigV2ray
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?path=/&security=none&encryption=none&host=tgju.org&type=ws#Telegram: @HedwigV2ray
 vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?security=tls&sni=us.cishanjichang.me&fp=chrome&type=ws&path=/swordnewnewnew&host=us.cishanjichang.me&encryption=none#Telegram: @HedwigV2ray
@@ -406,4 +405,6 @@ vless://5fe4abb7-92e6-4390-a17c-fd887f2f1c93@www.speedtest.net:2096?path=/@V2RAY
 vless://60071f13-91ee-4592-fc98-4e6f539f394e@104.26.11.194:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://60071f13-91ee-4592-fc98-4e6f539f394e@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#Telegram: @HedwigV2ray
 vless://60071f13-91ee-4592-fc98-4e6f539f394e@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-09-22 06:30:22
+vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=none&encryption=none&host=netgoris.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
+vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram: @HedwigV2ray
+# Last updated: 2025-09-22 07:30:21
