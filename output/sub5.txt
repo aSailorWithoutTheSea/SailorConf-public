@@ -413,4 +413,4 @@ vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/?TELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk-09.allhubb.info&fp=chrome&type=xhttp&sni=uk-09.allhubb.info#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://65951889-54af-453f-a7a1-55b91e5a5ad5@46.101.199.91:8080/?encryption=none&host=zula.ir&type=tcp&headerType=http#Telegram: @HedwigV2ray
 vless://65951889-54af-453f-a7a1-55b91e5a5ad5@46.101.199.91:8080?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-22 20:30:24
+# Last updated: 2025-09-22 21:30:19

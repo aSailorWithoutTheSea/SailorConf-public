@@ -448,4 +448,4 @@ vless://8e4e7c87-1dff-4e53-b198-e23102446dcc@83.136.254.131:443?mode=gun&securit
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server28.coin.name.ng&type=ws&sni=server28.coin.name.ng#Telegram: @HedwigV2ray
 vless://8e68e16a-096e-4485-9efb-21cb2989c296@104.16.104.151:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&encryption=none&host=Kk40.motorphrotan.ir&fp=chrome&type=ws&sni=Kk40.motorphrotan.ir#Telegram: @HedwigV2ray
 vless://8e68e16a-096e-4485-9efb-21cb2989c296@185.207.198.254:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&encryption=none&host=Kk40.motorphrotan.ir&fp=chrome&type=ws&sni=Kk40.motorphrotan.ir#Telegram: @HedwigV2ray
-# Last updated: 2025-09-22 20:30:24
+# Last updated: 2025-09-22 21:30:19
