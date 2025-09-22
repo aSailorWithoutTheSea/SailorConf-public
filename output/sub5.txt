@@ -413,4 +413,4 @@ vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=/
 vless://65951889-54af-453f-a7a1-55b91e5a5ad5@46.101.199.91:8080/?encryption=none&host=zula.ir&type=tcp&headerType=http#Telegram: @HedwigV2ray
 vless://65951889-54af-453f-a7a1-55b91e5a5ad5@46.101.199.91:8080?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=/sg3?ed=2560/?ed=2048&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
-# Last updated: 2025-09-22 22:30:19
+# Last updated: 2025-09-22 23:30:21
