@@ -382,4 +382,4 @@ vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.143.107:2096?path=/proxyip=r
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=/BIA_CHANEL@JKVPN&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#Telegram: @HedwigV2ray
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#Telegram: @HedwigV2ray
 vless://ec89ba73-c0d2-4a87-a417-68dadf141dff@46.62.175.157:56974?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-23 15:30:26
+# Last updated: 2025-09-23 16:30:21
