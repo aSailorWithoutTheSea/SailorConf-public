@@ -25,8 +25,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDQ1Ljg3LjE3NS4xNTc6ODA4MA==#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDQ1Ljg3LjE3NS4xOTk6ODA4MA==#Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDJmMTc4OS1iNzllLTQ5NzYtOTkyNy05NzY2ODRmZDBjMmU=@118.170.206.50:10005#🇹🇼 Taiwan | Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTc3ZGUxYS1hZWZmLTQzZjEtOTNhNi03ZGQwOGEyZmRjNDE=@uk.fastsoonlink.com:40008#🇨🇳 China | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#🇺🇸 USA | Telegram: @HedwigV2ray
@@ -163,6 +161,7 @@ vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?path=%2Flinkw
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?encryption=none&security=tls&sni=privasi.turah.my.id&fp=chrome&type=ws&host=privasi.turah.my.id&path=%2FFree-CF-Proxy-AD192.3.113.4-19318#Telegram: @HedwigV2ray
 vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#Telegram: @HedwigV2ray
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram: @HedwigV2ray
+vless://24244970-2b14-47%656-b0c1-95c%65cc9bcc3c@141.227.174.30:32657?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Telegram: @HedwigV2ray
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&encryption=none&host=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&sni=JuOf8QfKy3.VpBeThOrVp002.InFo#Telegram: @HedwigV2ray
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#Telegram: @HedwigV2ray
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#Telegram: @HedwigV2ray
@@ -232,6 +231,7 @@ vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.16.108.84:443?encryption=none&s
 vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#Telegram: @HedwigV2ray
 vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#Telegram: @HedwigV2ray
 vless://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@vp.helsvptun.m2ring.sbs:6666?security=&encryption=none&host=cloudflare.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
+vless://b%611fc4f%65-c5%615-4%61d3-b4%652-f02%65cffd992%65@141.227.176.48:10227?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Telegram: @HedwigV2ray
 vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info#Telegram: @HedwigV2ray
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@104.24.34.94:443?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=tls&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&fp=random&type=ws&sni=kssepa.sabzipolobamahi.dpdns.org#Telegram: @HedwigV2ray
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#Telegram: @HedwigV2ray
@@ -392,4 +392,5 @@ vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInYiOiIyIiwicHMiOiJUZWxlZ3JhbTogQEhlZHdp
 vmess://eyJhZGQiOiJ2MTAuaGVkdWlhbi5saW5rIiwiYWlkIjoyLCJob3N0IjoidjEwLmhlZHVpYW4ubGluayIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwibmV0Ijoid3MiLCJwYXRoIjoiL29vb28iLCJwb3J0IjozMDgwNywicHMiOiLwn4et8J+HsCBIb25nIEtvbmcgfCBUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYmFpZHUuY29tIn0=
 vmess://eyJhZGQiOiJ2Yy5mbHkuZGV2IiwiYWlkIjozMiwiaG9zdCI6InZjLmZseS5kZXYiLCJpZCI6IjM1Mzc5MjE5LTY1MzUtNGYyZS1hNGZlLTNlNDRmNjFlMGVlZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92YyIsInBvcnQiOjQ0MywicHMiOiLwn4e68J+HuCBVU0EgfCBUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoidmMuZmx5LmRldiJ9
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoiVGVsZWdyYW06IEBIZWR3aWdWMnJheSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-# Last updated: 2025-09-23 19:30:19
+vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiLwn4ep8J+HqiBHZXJtYW55IHwgVGVsZWdyYW06IEBIZWR3aWdWMnJheSJ9
+# Last updated: 2025-09-23 20:30:18

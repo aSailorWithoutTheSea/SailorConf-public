@@ -1,3 +1,5 @@
+vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
+vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?path=/54567/mvfkvk&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://44d6d9ef-c842-4a52-a180-530200ac258a@www.speedtest.net:2052?type=ws&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&host=MdVpnSec-devops-iran.devgroup.fun.&security=none#Telegram: @HedwigV2ray
 vless://44fc47c2-87cb-4819-94ef-19cc2a934f96@azadnett1.set7.site:35420?type=tcp&security=none#Telegram: @HedwigV2ray
@@ -430,5 +432,4 @@ vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=/id5?ed=2560
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=/id5?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/@Selinc?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=#Telegram: @HedwigV2ray
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
-# Last updated: 2025-09-23 19:30:20
+# Last updated: 2025-09-23 20:30:19
