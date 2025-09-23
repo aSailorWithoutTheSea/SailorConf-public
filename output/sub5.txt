@@ -434,4 +434,5 @@ vless://68963438-da5b-4ce1-a51f-04e75724e249@www.speedtest.net:443?security=tls&
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096&type=tcp&headerType=none#Telegram: @HedwigV2ray
 vless://6899393a-9311-45f3-b657-ffd1689bb725@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Telegram: @HedwigV2ray
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-09-23 11:30:23
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=/?ed=2570&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#Telegram: @HedwigV2ray
+# Last updated: 2025-09-23 12:30:18
