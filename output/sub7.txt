@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?security=&encryption=none&type=grpc#🇫🇷 France | Telegram: @HedwigV2ray
@@ -379,5 +380,4 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.110:443?path=/?ed=2560&T
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@duke.ns.cloudflare.com:443?path=/?ed=2560&proxyip=ts.hpc.tw#Telegram: @HedwigV2ray
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.13.148:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.215.74:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.215.74:443?mode=stream-one&path=/rty/&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-23 22:30:23
+# Last updated: 2025-09-23 23:30:23
