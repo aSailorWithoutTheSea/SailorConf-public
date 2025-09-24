@@ -453,4 +453,4 @@ vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=/ecY3gziM8W6ud5
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Telegram: @HedwigV2ray
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Telegram: @HedwigV2ray
 vless://965416e8-326c-49a5-94d9-f99daed20455@46.101.127.35:17168?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-24 14:30:25
+# Last updated: 2025-09-24 15:30:25
