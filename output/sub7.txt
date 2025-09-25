@@ -1,3 +1,4 @@
+vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.200.119:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.228.94:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.228.94:443?type=xhttp&mode=auto&path=/xhttp?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2085?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#Telegram: @HedwigV2ray
@@ -355,5 +356,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc&sni=pqh25v7.vetrkot.com#Telegram: @HedwigV2ray
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @HedwigV2ray
-# Last updated: 2025-09-25 19:30:23
+# Last updated: 2025-09-25 20:30:24
