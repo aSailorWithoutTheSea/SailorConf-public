@@ -439,4 +439,4 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=/?ed=443&s
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?path=/?ed=443&security=tls&encryption=none&host=aiomovie.ir.wnticaceninl10.mahanmapcdn.com&fp=chrome&type=ws&sni=aiomovie.ir#Telegram: @HedwigV2ray
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?path=/?ed=443&security=tls&encryption=none&host=cafeamiran.com.bugtr15sv.mapircdn.com&fp=chrome&type=ws&sni=cafeamiran.com#Telegram: @HedwigV2ray
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=1001co.com.wnticacenich1.mapircdn.com&fp=chrome&type=ws&sni=1001co.com#Telegram: @HedwigV2ray
-# Last updated: 2025-09-25 00:30:22
+# Last updated: 2025-09-25 01:30:23
