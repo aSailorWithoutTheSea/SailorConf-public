@@ -453,4 +453,4 @@ vless://417dab4b-f2e0-4baf-94d0-6bfbcb1e43a8@51.91.139.99:34309?mode=gun&securit
 vless://417dab4b-f2e0-4baf-94d0-6bfbcb1e43a8@51.91.139.99:34309?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram: @HedwigV2ray
 vless://417dab4b-f2e0-4baf-94d0-6bfbcb1e43a8@51.91.139.99:34309?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram: @HedwigV2ray
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#Telegram: @HedwigV2ray
-# Last updated: 2025-09-25 12:30:22
+# Last updated: 2025-09-25 13:30:22
