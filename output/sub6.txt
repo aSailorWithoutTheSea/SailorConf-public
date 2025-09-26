@@ -452,4 +452,4 @@ vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhv
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Telegram: @HedwigV2ray
 vless://965416e8-326c-49a5-94d9-f99daed20455@46.101.127.35:17168?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://9662e996-a765-45d8-dbdd-b95560d29f7d@188.114.97.1:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=speeeDeio.xpnvip.ir.&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-26 11:30:24
+# Last updated: 2025-09-26 12:30:24
