@@ -1,3 +1,4 @@
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=1001co.com.wnticacenich1.mapircdn.com&fp=chrome&type=ws&sni=1001co.com#Telegram: @HedwigV2ray
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.mahanmapcdn.com&fp=chrome&type=ws&sni=alef.ir#Telegram: @HedwigV2ray
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=ikco.ir.oadeflantrogmnl1.mahanmapcdn.com&fp=chrome&type=ws&sni=ikco.ir#Telegram: @HedwigV2ray
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=myrightelapp.ir.wnticacenide9.abrirmahan.com&fp=chrome&type=ws&sni=myrightelapp.ir#Telegram: @HedwigV2ray
@@ -436,5 +437,4 @@ vless://6a184842-872c-4ba9-818b-b5b526a4a255@151.101.3.8:80?type=xhttp&path=/@Xp
 vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?encryption=none&security=none&type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/#Telegram: @HedwigV2ray
 vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://6a2e5e47-7ca3-4217-9e09-b31688e234ef@206.189.124.177:36063?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Telegram: @HedwigV2ray
-vless://6a488250-3c23-681c-1d7a-0b4ed4f5dc16@5.10.248.60:2390?security=none&encryption=none&host=avashop10.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-26 15:30:20
+# Last updated: 2025-09-26 16:30:24
