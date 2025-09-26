@@ -445,4 +445,4 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&s
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=bluemoive.ir.oadeflantrogmtr7.iranaircdn.com&fp=chrome&type=ws&sni=bluemoive.ir#Telegram: @HedwigV2ray
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=core.pod.ir.oadeflantrogmuk4.iranaircdn.com&fp=chrome&type=ws&sni=core.pod.ir#Telegram: @HedwigV2ray
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=seedleech.ir.oadeflantrogmnl2.airasiadl.com&fp=chrome&type=ws&sni=seedleech.ir#Telegram: @HedwigV2ray
-# Last updated: 2025-09-26 10:30:19
+# Last updated: 2025-09-26 11:30:23
