@@ -434,4 +434,4 @@ vless://536b4499-005d-4b60-a268-d487babb5424@Sd.mciickoir.ir:9620?security=none&
 vless://537fd084-1078-4fc6-bec6-dad70fc96297@178.162.244.178:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://5392b778-68af-483c-9540-81a4a1ab6d3d@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://539bccb6-2a84-4464-b99e-ea781f2fdaa6@tgju.org:80?path=/olem/ws?ed=1024/?Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=none&encryption=none&host=de.channel.digicyber.click&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-09-27 05:30:20
+# Last updated: 2025-09-27 06:30:20
