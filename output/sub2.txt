@@ -389,4 +389,4 @@ trojan://tunnel-astrovpn_official-gb@gb-1.stunnel.cc:8441?security=tls&sni=zula.
 trojan://tunnel-astrovpn_official-nl@nl-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=nl-1.stunnel.cc#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 trojan://tunnel-astrovpn_official-tr@tr-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=tr-1.stunnel.cc#🇹🇷 Turkey | Telegram: @HedwigV2ray
 trojan://tunnel-astrovpn_official-us@us-3.stunnel.cc:8441?security=tls&alpn=http/1.1&host=us-3.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#Telegram: @HedwigV2ray
-# Last updated: 2025-09-27 00:30:21
+# Last updated: 2025-09-27 01:30:16
