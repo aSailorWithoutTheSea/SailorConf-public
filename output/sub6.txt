@@ -425,4 +425,4 @@ vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none
 vless://74e7c336-abf1-44ea-bffa-8a419224ee7a@91.107.245.212:33140?security=reality&encryption=none&pbk=BTsXykRA0mUv-PP6ncIQqjBMz_HRueLob9CNHT9QpGM&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=addons.mozilla.org&sid=53#Telegram: @HedwigV2ray
 vless://74e96ccd-d0c2-45f9-8dd4-486b6a93fa5b@91.107.170.231:2053?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://7582fcae-775d-48bf-8f71-b733c98d5a97@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-09-27 14:30:18
+# Last updated: 2025-09-27 15:30:24
