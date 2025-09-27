@@ -384,4 +384,4 @@ trojan://tunnel-v2ray_configs_pools_official-us@us-3.stunnel.cc:8441?security=tl
 trojan://tunnel-v2ray_configs_pools_official-us@us-4.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=us-4.stunnel.cc#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://tunnel-v2ray_configs_pools_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#🇦🇪 UAE | Telegram: @HedwigV2ray
 trojan://x0plLSzZZI@91.107.252.182:26805?type=tcp&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-09-27 22:30:18
+# Last updated: 2025-09-27 23:30:22

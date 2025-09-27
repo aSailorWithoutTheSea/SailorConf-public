@@ -428,4 +428,4 @@ vless://d5c9fe25-d8a1-4678-96e4-b0b3bda9dd48@142.132.161.197:443?type=tcp&encryp
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&path=/gftrdd?ed=2560&host=take5.global.ssl.fastly.net&mode=auto&security=none#Telegram: @HedwigV2ray
 vless://d643b9ca-57b7-4cd5-84b8-a77f26b6346e@162.159.1.33:443?path=/?ed=#Telegram: @HedwigV2ray
 vless://d643b9ca-57b7-4cd5-84b8-a77f26b6346e@162.159.1.33:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-fg-1.narges.filegear-sg.me&fp=chrome&type=ws&sni=rayan-fg-1.narges.filegear-sg.me#Telegram: @HedwigV2ray
-# Last updated: 2025-09-27 22:30:19
+# Last updated: 2025-09-27 23:30:23
