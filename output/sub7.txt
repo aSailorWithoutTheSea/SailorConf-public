@@ -432,4 +432,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?security=&type=ws&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?path=/?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=none&encryption=none&host=hello.96xckkzx.workers.dev&fp=chrome&type=ws&sni=hello.96xckkzx.workers.dev#Telegram: @HedwigV2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.40.214.227:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome#Telegram: @HedwigV2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-09-28 06:30:22
+# Last updated: 2025-09-28 07:30:20
