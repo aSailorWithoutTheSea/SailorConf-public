@@ -1,3 +1,4 @@
+vless://b07eb1ae-cffb-495f-9469-0963ada74d0f@141.227.162.200:51222?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram: @HedwigV2ray
 vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?path=/Telegram-v2ray_configs_pools---Telegram-v2ray_configs_pools---Telegram-v2ray_configs_pools?ed=2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#Telegram: @HedwigV2ray
 vless://b0e55a84-681e-4bf8-96be-a7f617dd5afc@152.89.12.77:443?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?security=&encryption=none&host=q6.19kalA.co&type=ws#Telegram: @HedwigV2ray
@@ -432,4 +433,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?security=&type=ws&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?path=/?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=none&encryption=none&host=hello.96xckkzx.workers.dev&fp=chrome&type=ws&sni=hello.96xckkzx.workers.dev#Telegram: @HedwigV2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.40.214.227:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=/?ed=2560fp=chrome#Telegram: @HedwigV2ray
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-09-28 07:30:20
+# Last updated: 2025-09-28 08:30:20

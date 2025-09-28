@@ -1,3 +1,4 @@
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&type=ws&sni=cfn09.aLAnHIAHo.com#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&host=Cfn01.aLanHiAHo.CoM&type=ws&sni=Cfn01.aLanHiAHo.CoM#Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&host=Cfn13.aLAnhIahO.COM&type=ws&sni=Cfn13.aLAnhIahO.COM#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&host=gFN06.alanHiAho.Com&type=ws&sni=gFN06.alanHiAho.Com#Telegram: @HedwigV2ray
@@ -422,5 +423,4 @@ vless://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram: @HedwigV2ray
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram: @HedwigV2ray
 vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@arv.vipmehspd.ir:981?encryption=none&security=none&type=tcp&headerType=none#Telegram: @HedwigV2ray
-vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?path=/ajnexnws&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-28 07:30:20
+# Last updated: 2025-09-28 08:30:20
