@@ -429,4 +429,4 @@ vless://c4ecddcf-d850-44a0-a868-fb43069b46c5@150.241.108.219:46089?type=grpc&ser
 vless://c54ba325-c1be-4845-a2e7-922b5cd211c3@104.16.157.108:8080?path=/@v2ray_configs_pools-@-v2ray_configs_pools@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools?ed=2048&security=&encryption=none&host=ma.nanvrfood.ir.&type=httpupgrade#Telegram: @HedwigV2ray
 vless://c54eb229-81d0-45bf-8564-ba5363cdffd1@188.114.97.3:80?security=none&encryption=none&type=ws&host=No1.vless.site.&path=/vless#Telegram: @HedwigV2ray
 vless://c5bcf3fb-eb77-4472-8750-55b56efef262@92.223.2.119:59594?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYYJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-28 11:30:24
+# Last updated: 2025-09-28 12:30:20
