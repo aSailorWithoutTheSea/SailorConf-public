@@ -416,4 +416,5 @@ vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.70.156:443?note=---Telegram--
 vless://662dc9c9-ee34-46af-bc2e-3a39daf199f0@NuFiLteR.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=abazsargozashteh.com&type=xhttp#Telegram: @HedwigV2ray
 vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638895562760153914.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638895562760153914.amsterdam-prx-dnraaal.info&path=/dahstrws#Telegram: @HedwigV2ray
 vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638899136128783410.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638899136128783410.amsterdam-prx-dnraaal.info&path=/dahstrws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-28 09:30:24
+vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/dahstrws#Telegram: @HedwigV2ray
+# Last updated: 2025-09-28 10:30:25
