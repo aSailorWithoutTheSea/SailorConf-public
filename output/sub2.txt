@@ -372,4 +372,4 @@ trojan://n611CzPX8k@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gs
 trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#Telegram: @HedwigV2ray
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#Telegram: @HedwigV2ray
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-09-28 03:30:23
+# Last updated: 2025-09-28 04:30:22

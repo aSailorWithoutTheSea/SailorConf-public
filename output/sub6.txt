@@ -425,4 +425,4 @@ vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.147.22:2053?path=/Telegram@V
 vless://704198c4-37b9-473d-a5de-0333276f2f6c@www.speedtest.net:2053?path=/Telegram-V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=mahsa2.cfform.site&fp=chrome&type=ws&sni=maHsA2.cFFoRM.sIte#Telegram: @HedwigV2ray
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.16.3.5:8880?path=/?ed=2087&security=none&encryption=none&host=472cbdadc2dce946-472cbdadc2dce946472cbdadc2dce946.mObIlEGgaTTe.Ir&type=ws#Telegram: @HedwigV2ray
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.26.6.89:2095?path=/?ed=2095&security=none&encryption=none&host=ns.teHRantOlIdI.Ir&type=httpupgrade#🇨🇦 Canada | Telegram: @HedwigV2ray
-# Last updated: 2025-09-28 03:30:24
+# Last updated: 2025-09-28 04:30:23
