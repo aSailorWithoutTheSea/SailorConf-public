@@ -1,3 +1,5 @@
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://15449e06-b519-414a-9e0d-fbb4a0fd2780@speedtest.net.zula.ir.nobitex.ir.shakhle.ir:39001?mode=stream-up&path=/?ed=80@v2ray_configs_pools----@v2ray_configs_pools----@v2ray_configs_pools&security=reality&encryption=none&pbk=7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o&fp=chrome&spx=/&type=xhttp&sni=stackoverflow.com&sid=f23547#Telegram: @HedwigV2ray
@@ -445,5 +447,4 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko.ggff.net/?TELEGRAM-v2ray_configs_pools?ed=512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko.ggff.net/@V2rayBaaz---@v2ray_configs_pools---@v2ray_configs_pools?ed=512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2v2ray_configs_pools=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-09-29 10:30:23
+# Last updated: 2025-09-29 11:30:17
