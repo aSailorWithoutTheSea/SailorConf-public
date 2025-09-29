@@ -1,4 +1,3 @@
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#Telegram: @HedwigV2ray
@@ -447,4 +446,5 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko.ggff.net/?TELEGRAM-v2ray_configs_pools?ed=512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko.ggff.net/@V2rayBaaz---@v2ray_configs_pools---@v2ray_configs_pools?ed=512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2v2ray_configs_pools=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-09-29 12:30:17
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
+# Last updated: 2025-09-29 13:30:15

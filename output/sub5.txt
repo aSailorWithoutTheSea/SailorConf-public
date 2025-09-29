@@ -432,4 +432,5 @@ vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encry
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=/?---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-29 12:30:18
+vless://4a25f831-2343-436a-f0a1-039ffd3611c9@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
+# Last updated: 2025-09-29 13:30:15
