@@ -433,4 +433,5 @@ vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&e
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=/?---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://4a25f831-2343-436a-f0a1-039ffd3611c9@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-09-29 13:30:15
+vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#🇫🇷 France | Telegram: @HedwigV2ray
+# Last updated: 2025-09-29 14:30:22
