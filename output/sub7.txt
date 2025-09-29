@@ -431,4 +431,4 @@ vless://c04fd5a9-1add-4fbf-ab6b-343b435c9ee5@test.fast.hosting-ip.com:80?mode=au
 vless://c06343b1-2249-4651-ab58-8d03c4a37e56@alexde.hpcdn.info:80?path=/24390/wsMMad&security=none&encryption=none&host=alexde.hpcdn.info&type=ws#Telegram: @HedwigV2ray
 vless://c0adb6b8-4fb7-4b18-887b-6aecb80334b1@135.181.201.193:53546?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://c0bec1db-8577-46cf-aad1-a107e1c866a1@undl.doctorrezaaeissite.ir:80?security=reality&encryption=none&pbk=-3T3wKBehm_NOsTnrZfWIKklAe3sTXhlAS_9rjdQMTw&headerType=none&fp=chrome&spx=/&type=tcp&sni=maps.google.com&sid=9b806ce1#Telegram: @HedwigV2ray
-# Last updated: 2025-09-29 06:30:18
+# Last updated: 2025-09-29 07:30:20
