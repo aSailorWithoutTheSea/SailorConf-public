@@ -416,4 +416,5 @@ vless://66138dd4-6d20-4d44-8eaa-5583ec4d7bda@5.196.223.72:25978?mode=gun&securit
 vless://66138dd4-6d20-4d44-8eaa-5583ec4d7bda@5.196.223.72:25978?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram: @HedwigV2ray
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-09-29 03:30:21
+vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.64.81:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
+# Last updated: 2025-09-29 04:30:21
