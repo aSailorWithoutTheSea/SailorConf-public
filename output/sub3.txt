@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206Z21Qc1BtMHZDUg@13.51.116.59:8080?note=--Telegram--@NetifyVPN--#🇸🇪 Sweden | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.159:2376#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#Telegram: @HedwigV2ray
@@ -434,4 +433,6 @@ vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?flow=&type=tc
 vless://116d3496-149b-42e1-99af-db294fe5c584@51.178.42.187:443?path=/ws&security=tls&encryption=none&fp=chrome&type=ws&sni=zula.ir#Telegram: @HedwigV2ray
 vless://116d3496-149b-42e1-99af-db294fe5c584@51.178.42.187:443?path=/ws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws&sni=zula.ir#Telegram: @HedwigV2ray
 vless://118abd6f-d32b-450b-84a7-326805d58e42@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-09-30 03:30:21
+vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@152.53.142.189:20558?security=reality&encryption=none&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=03e60665#Telegram: @HedwigV2ray
+vless://12345678-1234-1234-1234-123456789123@170.114.45.44:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#Telegram: @HedwigV2ray
+# Last updated: 2025-09-30 04:30:19
