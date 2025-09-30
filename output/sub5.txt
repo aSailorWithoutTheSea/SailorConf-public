@@ -1,3 +1,4 @@
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/?TELEGRAM-v2ray_configs_pools?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/@Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/@v2ray_configs_pools---@v2ray_configs_pools---@v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/@v2ray_configs_pools---@v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram: @HedwigV2ray
@@ -426,5 +427,4 @@ vless://47994c30-bd6e-4045-9e1c-1841a4acab30@85.9.214.105:80?type=tcp&path=/&hos
 vless://47c2e5af-b5d3-4291-9e5c-18b43bbaa65d@hub2.lalash.ir:56063?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.131.95.183:59483?encryption=none&security=none&type=grpc#Telegram: @HedwigV2ray
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.93.149:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#Telegram: @HedwigV2ray
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.52.237:59483?encryption=none&security=none&type=grpc#Telegram: @HedwigV2ray
-# Last updated: 2025-09-30 05:30:20
+# Last updated: 2025-09-30 06:30:20
