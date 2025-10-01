@@ -1,3 +1,4 @@
+trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
 trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#Telegram: @HedwigV2ray
 trojan://VPNCSTOMIZE@104.18.218.118:8443?security=tls&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#Telegram: @HedwigV2ray
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧 UK | Telegram: @HedwigV2ray
@@ -436,4 +437,4 @@ vless://158dd22f-e10e-4905-930a-6d32a133c2dc@test.fast.hosting-ip.com:80?mode=au
 vless://1591f266-42a1-4d5a-b725-00c1151dfd70@150.241.108.219:46089?type=grpc&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&authority=&security=reality&pbk=xKbFr-SVOYz1Bgdkb4e3zPjZ7wGURx11ouN3Hoy29VQ&fp=chrome&sni=tgju.org&sid=3736e4ab65378d5c&spx=/#Telegram: @HedwigV2ray
 vless://15a86ece-b6d4-4ef4-e104-53a2dba15650@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://160cc7e0-1e01-44e8-71fd-b162fbb1c83e@record.persianmizban.com:443?path=/&security=tls&encryption=none&host=lgoin.persianmizban.com&type=ws&sni=lgoin.persianmizban.com#Telegram: @HedwigV2ray
-# Last updated: 2025-10-01 14:30:25
+# Last updated: 2025-10-01 15:30:24

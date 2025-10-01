@@ -369,4 +369,4 @@ trojan://NISHIKUITAN222@190.93.244.113:443?#Telegram: @HedwigV2ray
 trojan://NeA9Y8cXve@flopr.isvcloud2.ir:36022?security=none&headerType=&type=tcp#Telegram: @HedwigV2ray
 trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#Telegram: @HedwigV2ray
 trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-10-01 14:30:25
+# Last updated: 2025-10-01 15:30:24
