@@ -419,4 +419,4 @@ vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=#Tele
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=2560/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#Telegram: @HedwigV2ray
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?path=/id5?ed=#Telegram: @HedwigV2ray
-# Last updated: 2025-10-01 00:30:21
+# Last updated: 2025-10-01 01:30:20

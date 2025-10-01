@@ -378,4 +378,4 @@ trojan://telegram-id-privatevpns@54.75.119.94:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-privatevpns@63.178.137.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Telegram: @HedwigV2ray
 trojan://tg-dns68@162.159.153.84:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#Telegram: @HedwigV2ray
 trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#Telegram: @HedwigV2ray
-# Last updated: 2025-10-01 00:30:19
+# Last updated: 2025-10-01 01:30:19
