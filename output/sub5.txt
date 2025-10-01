@@ -428,4 +428,4 @@ vless://45f3a819-4e30-41bd-9782-e0f0d5e332e7@172.66.40.99:8080?path=/Join-ZEDMOD
 vless://460a171e-88be-4842-8be1-97298b206d75@151.101.3.8:80?encryption=none&security=none&type=ws&host=welcomtofreeboarders.com&path=ws/?ed=2048#Telegram: @HedwigV2ray
 vless://460a171e-88be-4842-8be1-97298b206d75@151.101.3.8:80?path=ws/?ed=2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#Telegram: @HedwigV2ray
 vless://462a4922-c80a-4347-a7b5-446cfcb08806@172.66.40.99:443?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#Telegram: @HedwigV2ray
-# Last updated: 2025-10-01 17:30:23
+# Last updated: 2025-10-01 18:30:21
