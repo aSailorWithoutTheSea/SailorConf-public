@@ -369,4 +369,4 @@ trojan://KANAL--JKVPN--JKVPN@www.speedtest.net:8880?type=ws&path=/TELEGRAM-KANAL
 trojan://NISHIKUITAN222@188.114.97.126:443?#Telegram: @HedwigV2ray
 trojan://NISHIKUITAN222@190.93.244.113:443?#Telegram: @HedwigV2ray
 trojan://NeA9Y8cXve@flopr.isvcloud2.ir:36022?security=none&headerType=&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-10-01 09:30:33
+# Last updated: 2025-10-01 10:30:20
