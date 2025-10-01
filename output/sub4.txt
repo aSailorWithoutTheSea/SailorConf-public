@@ -1,3 +1,4 @@
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.8.198:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram: @HedwigV2ray
 vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram: @HedwigV2ray
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram: @HedwigV2ray
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram: @HedwigV2ray
@@ -449,6 +450,4 @@ vless://33fbcb16-883c-4e91-cd01-be60b6b8ecbf@151.101.3.8:80?type=xhttp&path=/@Xp
 vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434/?type=grpc&encryption=none&serviceName=cactusservice&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=qlXAzsjjzUjqcfuZcd-oUlLLIFVEVqs454P_F3BvQwI&sid=f10dcd45#Telegram: @HedwigV2ray
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
-vless://3498b967-319f-436a-9edd-12f6ede84572@kraken.com:443?encryption=none&security=tls&sni=rAyAn-cOnFiG-02.rAyAn.dNs-dYnAmIc.nEt&fp=chrome&allowInsecure=1&type=ws&host=rayan-config-02.rayan.dns-dynamic.net&path=/@Rayan_Config#Telegram: @HedwigV2ray
-vless://3498b967-319f-436a-9edd-12f6ede84572@sourceforge.net:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&host=rayan-config-03.rayan.dns-dynamic.net&fp=chrome&type=ws&sni=rAyAn-cOnFiG-03.rAyAn.dNs-dYnAmIc.nEt#Telegram: @HedwigV2ray
-# Last updated: 2025-10-01 05:30:18
+# Last updated: 2025-10-01 06:30:21
