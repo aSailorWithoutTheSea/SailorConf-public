@@ -419,4 +419,4 @@ vless://6977b1bd-b5b3-40d1-884a-4e6b02cf568b@172.66.40.99:8880?type=ws&path=/@Md
 vless://697eabfd-653c-4da2-8b3f-b4806e0b60aa@139.162.145.100:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://69c6a83a-659b-4416-8e35-fa861a1fe39c@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#Telegram: @HedwigV2ray
 vless://69de815f-ef95-4e7c-d5da-6c52babfba8b@171.22.173.206:28931?type=tcp&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-10-01 04:30:24
+# Last updated: 2025-10-01 05:30:18
