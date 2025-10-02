@@ -424,4 +424,4 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?security=tls&sni=5
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@94.131.111.175:8080?security=&encryption=none&headerType=none&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@94.131.111.175:8080?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ali2.gerlemondns.info&fp=chrome&type=ws&sni=ali2.gerlemondns.info#🇺🇸 USA | Telegram: @HedwigV2ray
-# Last updated: 2025-10-02 17:30:20
+# Last updated: 2025-10-02 18:30:23
