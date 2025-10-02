@@ -1,3 +1,6 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#Telegram: @HedwigV2ray
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧 UK | Telegram: @HedwigV2ray
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇦🇺 Australia | Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#Telegram: @HedwigV2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#🇬🇧 UK | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#Telegram: @HedwigV2ray
@@ -437,7 +440,4 @@ vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=/ds
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&mode=auto&path=/ds?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?type=xhttp&path=/ds&host=&mode=auto&security=none#Telegram: @HedwigV2ray
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.89.156:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-# Last updated: 2025-10-02 02:30:19
+# Last updated: 2025-10-02 03:30:23
