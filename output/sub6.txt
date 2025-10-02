@@ -423,4 +423,4 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?encryption=none
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@92.53.190.177:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#Telegram: @HedwigV2ray
 vless://584bb6f2-aaf3-48a6-b154-b03238bb1e07@v2hich.fast.hosting-ip.com:80?path=/@SvnProBot?ed=2560&security=none&encryption=none&host=shad.ir&type=ws#Telegram: @HedwigV2ray
 vless://586bb25e-30e7-4163-9d1b-79ffb263e090@167.71.137.233:80?path=/zmnnzws&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-10-02 15:30:26
+# Last updated: 2025-10-02 16:30:22
