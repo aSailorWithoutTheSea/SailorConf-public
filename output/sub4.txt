@@ -1,3 +1,4 @@
+vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?type=xhttp&path=/ds&host=&mode=auto&security=none#Telegram: @HedwigV2ray
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.89.156:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
@@ -451,6 +452,4 @@ vless://2aca286e-768e-47de-9e8c-67aac8057219@103.249.133.79:8443?encryption=none
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=/#Telegram: @HedwigV2ray
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://2aeaa2b8-ddaf-4898-a6f9-08e08386e5d2@172.235.154.239:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#Telegram: @HedwigV2ray
-vless://2b2219ab-707a-4773-af6c-539de4a76c89@217.144.186.49:38231?security=none&encryption=none&host=nature.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 Turkey | Telegram: @HedwigV2ray
-# Last updated: 2025-10-02 03:30:23
+# Last updated: 2025-10-02 04:30:32
