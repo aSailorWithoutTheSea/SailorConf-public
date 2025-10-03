@@ -420,4 +420,4 @@ vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server79787566814164569.tas-bazi.co
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇹🇷 Turkey | Telegram: @HedwigV2ray
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&type=ws#🇹🇷 Turkey | Telegram: @HedwigV2ray
-# Last updated: 2025-10-03 22:30:18
+# Last updated: 2025-10-03 23:30:21
