@@ -1,4 +1,3 @@
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@104.26.1.108:443?path=/id5?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5/?-Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5/?-Tel---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5?ed=2048@&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
@@ -419,4 +418,5 @@ vless://58186ddc-be2e-4148-a680-ccd546994988@cumhuriyet.com.tr:80?flow=&type=ws&
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@130.250.137.177:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#Telegram: @HedwigV2ray
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.188:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#Telegram: @HedwigV2ray
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@66.235.200.188:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#Telegram: @HedwigV2ray
-# Last updated: 2025-10-03 06:30:21
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#Telegram: @HedwigV2ray
+# Last updated: 2025-10-03 07:30:25
