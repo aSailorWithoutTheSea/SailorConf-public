@@ -422,4 +422,4 @@ vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/&security=non
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.taraneh.dpdns.org#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Telegram: @HedwigV2ray
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=/?ed=2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=chrome&type=ws&sni=abcd.taraneh.dpdns.org#Telegram: @HedwigV2ray
-# Last updated: 2025-10-03 15:30:19
+# Last updated: 2025-10-03 16:30:19
