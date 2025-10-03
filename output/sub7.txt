@@ -1,3 +1,4 @@
+vless://8bf5c07a-acd3-4360-b940-62d6b77699af@104.16.53.11:8080?path=/&security=none&encryption=none&host=xokaminew3aclskmd23eor2enwr.okatestoka.ir&type=httpupgrade#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://8bf5c07a-acd3-4360-b940-62d6b77699af@104.16.53.11:8080?path=/&security=none&encryption=none&host=xonlineshoappdownloadus01.okatestoka.ir&type=httpupgrade#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://8bf5c07a-acd3-4360-b940-62d6b77699af@51.75.162.3:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=370dd394052f2386#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://8c05a86f-7966-418b-92f8-0967ab60424c@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 Germany | Telegram: @HedwigV2ray
@@ -438,5 +439,4 @@ vless://a2e4d2b9-a4e6-4d54-f320-1a8f3f8ab1a8@159.69.101.178:38141?encryption=non
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@0lan.amazon-osishop.ir:8880?security=&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@37.27.178.186:8880/?encryption=none&host=eN.TwiTtER.cOM.:8880&type=tcp&headerType=http#Telegram: @HedwigV2ray
 vless://a31a0b9e-8d0b-48d8-a570-de051fb0a657@test.fast.hosting-ip.com:80?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=configlinechannel2.com&type=xhttp#🇺🇸 USA | Telegram: @HedwigV2ray
-vless://a31a0b9e-8d0b-48d8-a570-de051fb0a657@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=configlinechannel2.com&type=xhttp#Telegram: @HedwigV2ray
-# Last updated: 2025-10-03 21:30:18
+# Last updated: 2025-10-03 22:30:18
