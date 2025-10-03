@@ -444,4 +444,4 @@ vless://11086b74-6c98-4c8a-e240-99ea34f7404a@151.101.3.8:80?type=xhttp&path=/@Xp
 vless://110ac6e9-f62b-5bd3-9d74-adbb4ec62f65@95.215.8.25:443?path=/vless&security=tls&encryption=none&host=95.215.8.25&fp=chrome&type=ws&sni=zula.ir#Telegram: @HedwigV2ray
 vless://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#Telegram: @HedwigV2ray
 vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=194.147.34.72&fp=chrome&type=ws&sni=zula.ir#🇵🇱 Poland | Telegram: @HedwigV2ray
-# Last updated: 2025-10-03 07:30:25
+# Last updated: 2025-10-03 08:30:19
