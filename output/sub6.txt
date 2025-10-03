@@ -419,4 +419,4 @@ vless://58186ddc-be2e-4148-a680-ccd546994988@cumhuriyet.com.tr:80?flow=&type=ws&
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@130.250.137.177:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#Telegram: @HedwigV2ray
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.188:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#Telegram: @HedwigV2ray
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@66.235.200.188:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#Telegram: @HedwigV2ray
-# Last updated: 2025-10-03 05:30:18
+# Last updated: 2025-10-03 06:30:21
