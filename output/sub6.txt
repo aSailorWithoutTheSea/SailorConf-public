@@ -423,4 +423,4 @@ vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=&encryptio
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Telegram: @HedwigV2ray
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=/?ed=2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=chrome&type=ws&sni=abcd.taraneh.dpdns.org#Telegram: @HedwigV2ray
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ru.sfasti.ru&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d#Telegram: @HedwigV2ray
-# Last updated: 2025-10-04 10:30:17
+# Last updated: 2025-10-04 11:30:21
