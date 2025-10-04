@@ -1,4 +1,3 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#Telegram: @HedwigV2ray
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#Telegram: @HedwigV2ray
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#Telegram: @HedwigV2ray
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#Telegram: @HedwigV2ray
@@ -424,4 +423,6 @@ vless://5426ffe6-5cee-4f25-b491-edde32aef7d7@151.101.3.8:80?type=xhttp&path=/@Xp
 vless://54527318-eef2-45b1-905a-23986c7d342a@62.60.231.215:8880?encryption=none&type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=zhaket.com&pbk=gTzHMDNdl149mB6DKGPnbiVFID8x_7X5THJIXlpNWFc&sid=50d72d59cbec63&spx=/#Telegram: @HedwigV2ray
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-10-04 04:30:20
+vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcprt#Telegram: @HedwigV2ray
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Telegram: @HedwigV2ray
+# Last updated: 2025-10-04 05:30:17
