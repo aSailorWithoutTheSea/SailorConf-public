@@ -439,4 +439,4 @@ vless://114a977e-78b3-4a25-a05b-8efbeefbafb2@103.249.133.79:8443?mode=gun&securi
 vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#Telegram: @HedwigV2ray
 vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
 vless://116d3496-149b-42e1-99af-db294fe5c584@51.178.42.187:443?path=/ws&security=tls&encryption=none&fp=chrome&type=ws&sni=zula.ir#Telegram: @HedwigV2ray
-# Last updated: 2025-10-04 05:30:16
+# Last updated: 2025-10-04 06:30:23
