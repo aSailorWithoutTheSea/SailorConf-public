@@ -432,4 +432,4 @@ vless://29a83d86-dca3-44f2-9169-42893f55621b@172.66.40.99:8880?type=ws&path=/@V2
 vless://29b27f0b-f8fb-44dd-8766-0ad5f476ca02@test.fast.hosting-ip.com:80?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=configlinechannela.com&type=xhttp#🇺🇸 USA | Telegram: @HedwigV2ray
 vless://29b27f0b-f8fb-44dd-8766-0ad5f476ca02@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=configlinechannela.com&type=xhttp#🇳🇱 Netherlands | Telegram: @HedwigV2ray
 vless://29e233e3-ba0d-43cb-a645-a9550b6111ab@91.107.251.143:6745?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-10-04 06:30:24
+# Last updated: 2025-10-04 07:30:20
