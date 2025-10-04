@@ -363,4 +363,4 @@ ss://YWVzLTI1Ni1nY206YTRWdHFSd2hqNmdXYkh3TDRKdDI2dw==@ss.80808.sbs:20#Telegram: 
 ss://YWVzLTI1Ni1nY206Z21Qc1BtMHZDUg==@13.51.116.59:8080#🇸🇪 Sweden | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.159:2376#🇺🇸 USA | Telegram: @HedwigV2ray
-# Last updated: 2025-10-04 09:30:19
+# Last updated: 2025-10-04 10:30:17
