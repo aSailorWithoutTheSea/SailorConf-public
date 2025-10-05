@@ -1,4 +1,3 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#Telegram: @HedwigV2ray
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#Telegram: @HedwigV2ray
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 UK | Telegram: @HedwigV2ray
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#Telegram: @HedwigV2ray
@@ -422,4 +421,7 @@ vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&se
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&type=ws#🇹🇷 Turkey | Telegram: @HedwigV2ray
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws?--TELEGRAM-v2ray_configs_pools----TELEGRAM-v2ray_configs_pools&security=tls&encryption=none&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-10-05 03:30:17
+vless://52adc6ba-b1c7-4541-a594-08fc698be640@GrOUNdED-brotHER.SeoToolSFOryOu.co.uK:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
+vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
+vless://52c0e96b-b8d7-44a5-a995-bd866bf39ec6@104.21.64.1:443?security=tls&sni=M10EEeeEEeEEeEEeEeeEeeEeeeeeEe.7777128.xYZ&alpn=http/1.1&fp=chrome&type=ws&path=/YzFLmzNIEQsAmceLxv94lPbgMw&host=m10eeeeeeeeeeeeeeeeeeeeeeeeeee.7777128.xyz&encryption=none#Telegram: @HedwigV2ray
+# Last updated: 2025-10-05 04:30:20
