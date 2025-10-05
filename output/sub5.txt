@@ -427,4 +427,4 @@ vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@151.101.66.228:80?security=none&typ
 vless://45c8431a-ed27-4d3c-ba54-b3a1fee40ca0@elipii2.digi-elipii.ir:80?security=tls&encryption=none&host=google.com&headerType=http&type=tcp&sni=digi-elipii.ir#Telegram: @HedwigV2ray
 vless://45cd4cb9-c026-4ab2-814d-090d51f4a59f@103.231.75.23:443?path=/xsgzobws&security=tls&encryption=none&type=ws#🇹🇷 Turkey | Telegram: @HedwigV2ray
 vless://45dc0b5f-143e-4a31-8ed0-49746409a10b@v11.gaterserver.ir:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#Telegram: @HedwigV2ray
-# Last updated: 2025-10-05 17:30:20
+# Last updated: 2025-10-05 18:30:18
