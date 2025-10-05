@@ -382,4 +382,4 @@ trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&t
 trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=www.twitch.tv#Telegram: @HedwigV2ray
 trojan://hNv80y7CWu@91.107.252.182:26805?type=tcp&security=none#Telegram: @HedwigV2ray
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-10-05 19:30:19
+# Last updated: 2025-10-05 20:30:25
