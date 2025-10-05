@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#Telegram: @HedwigV2ray
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#Telegram: @HedwigV2ray
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206YTRWdHFSd2hqNmdXYkh3TDRKdDI2dw==@ss.80808.sbs:20#Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206Z21Qc1BtMHZDUg==@13.51.116.59:8080#🇸🇪 Sweden | Telegram: @HedwigV2ray
@@ -432,7 +435,4 @@ vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?flow=xtls-rprx-v
 vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?flow=xtls-rprx-vision&type=tcp&headerType=none&host=----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=indeed.com&pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE&sid=9f2b1f07#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?security=tls&encryption=none&type=ws&host=hey.bacheBiapAIN.iR&path=/iXNpb8TL5D4uHOQC?ed=2560&sni=heY.bACHeBiapAiN.Ir&fp=chrome&alpn=h2,http/1.1#Telegram: @HedwigV2ray
 vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
-vless://107ed9ef-ac33-4ca2-8b6d-d83d415b27f8@speedtest.net:80?type=xhttp&path=/Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&host=p30download.ir&mode=auto&security=none#Telegram: @HedwigV2ray
-vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Telegram: @HedwigV2ray
-vless://10811461-dd47-46a7-8f6d-c34bbd8f9734@m77a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/&headerType=http&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-10-05 05:30:18
+# Last updated: 2025-10-05 06:30:17
