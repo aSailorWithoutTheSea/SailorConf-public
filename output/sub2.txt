@@ -364,4 +364,4 @@ trojan://----telegram--ISVvpn----@mashti.isvcloud2.ir:1010?security=none&headerT
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#Telegram: @HedwigV2ray
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🇨🇦 Canada | Telegram: @HedwigV2ray
-# Last updated: 2025-10-04 23:30:19
+# Last updated: 2025-10-05 00:30:19
