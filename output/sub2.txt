@@ -368,4 +368,4 @@ trojan://KANAL--JKVPN--BYA-JKVPN@www.speedtest.net:2095?type=ws&path=/TELEGRAM-@
 trojan://NeA9Y8cXve@flopr.isvcloud2.ir:36022?security=none&headerType=&type=tcp#Telegram: @HedwigV2ray
 trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#Telegram: @HedwigV2ray
 trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-10-06 11:30:21
+# Last updated: 2025-10-06 12:30:17
