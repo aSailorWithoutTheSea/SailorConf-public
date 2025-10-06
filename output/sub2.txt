@@ -380,4 +380,4 @@ trojan://de6c7a90-1dc7-43cf-82a1-f4bed3184a3f@pubg.ac:8443?sni=cdn-node-oss-92.p
 trojan://dqLPBI4gsI@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#Telegram: @HedwigV2ray
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#🇨🇦 Canada | Telegram: @HedwigV2ray
-# Last updated: 2025-10-06 14:30:22
+# Last updated: 2025-10-06 15:30:19

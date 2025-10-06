@@ -428,4 +428,4 @@ vless://b8c59cae-73a8-4f44-88f9-4e40a7b94058@104.19.54.50:8080?type=grpc&service
 vless://b8eaa017-ae45-43d4-93ed-5667b7309901@62.60.231.215:8880?encryption=none&type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=zhaket.com&pbk=gTzHMDNdl149mB6DKGPnbiVFID8x_7X5THJIXlpNWFc&sid=50d72d59cbec63&spx=/#Telegram: @HedwigV2ray
 vless://b8ee2e23-b026-4f40-a036-8b67c6e3c145@ab.iranlit.ir:9520?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=gun&security=reality&encryption=none&pbk=3EWvgfHUv-7aKL47dJL1WiIHY43aeWo8QUZRjzCw0RI&fp=chrome&type=grpc&serviceName=9520vless&sni=refersion.com&sid=6f84e8adb893b4bd#Telegram: @HedwigV2ray
 vless://b931afaa-c19a-4274-a508-dd4e7c876ddd@62.60.164.140:4040?security=&encryption=none&headerType=&type=tcp#Telegram: @HedwigV2ray
-# Last updated: 2025-10-06 14:30:23
+# Last updated: 2025-10-06 15:30:20
