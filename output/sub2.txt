@@ -368,4 +368,4 @@ trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#Telegram: @Hedwi
 trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#Telegram: @HedwigV2ray
 trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#Telegram: @HedwigV2ray
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧 UK | Telegram: @HedwigV2ray
-# Last updated: 2025-10-06 03:30:20
+# Last updated: 2025-10-06 04:30:24
