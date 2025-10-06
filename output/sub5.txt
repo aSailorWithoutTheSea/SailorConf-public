@@ -421,4 +421,4 @@ vless://46fc67a5-a457-46cc-8b78-f6253f187962@172.66.40.99:8080?type=ws&path=/@Ma
 vless://47405538-4c58-4a69-994a-ac8d67307ccb@62.60.231.215:8880?encryption=none&type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=zhaket.com&pbk=gTzHMDNdl149mB6DKGPnbiVFID8x_7X5THJIXlpNWFc&sid=50d72d59cbec63&spx=/#Telegram: @HedwigV2ray
 vless://477f4b2e-08ee-4410-9e9c-8a2dfcb295c6@162.159.153.40:8080?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&path=/proxyip=104.16.107.244:80&security=none&encryption=none&host=khomedg3.mobailfarid3.ir&type=ws#Telegram: @HedwigV2ray
 vless://47994c30-bd6e-4045-9e1c-1841a4acab30@85.9.214.105:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Telegram: @HedwigV2ray
-# Last updated: 2025-10-06 18:30:27
+# Last updated: 2025-10-06 19:30:19
