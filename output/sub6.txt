@@ -419,4 +419,4 @@ vless://5efdff80-1165-414c-b784-db12cab0b250@www.speedtest.net:2082?path=/@spike
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&encryption=none&headerType=none&type=tcp#Telegram: @HedwigV2ray
 vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@cc.cybsecguru.com:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=jnir-cdn.javidnaman.com&type=ws&sni=jnir-cdn.javidnaman.com#🇮🇷 Iran | Telegram: @HedwigV2ray
 vless://5f9bc1fe-e19b-4f90-9a91-180a0eb98f31@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-10-06 15:30:20
+# Last updated: 2025-10-06 16:30:19
