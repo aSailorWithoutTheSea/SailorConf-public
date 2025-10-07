@@ -427,4 +427,4 @@ vless://432f95cd-0e8b-449a-b61d-e1d57b15c3b9@141.227.130.32:18885?mode=gun&secur
 vless://4339007f-6132-4276-afd5-828a16a5a79f@46.17.100.153:21929?security=reality&encryption=none&pbk=qAIXS8H9t650DC9msTecxrvhD4myn9wBvcZL4NlLcTQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a6f7a9bc2aabe632#Telegram: @HedwigV2ray
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?path=/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#Telegram: @HedwigV2ray
-# Last updated: 2025-10-07 18:30:22
+# Last updated: 2025-10-07 19:30:25
