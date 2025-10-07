@@ -1,3 +1,4 @@
+vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=&encryption=none&host=---@FREEV2RNG&type=ws#🇫🇷 France | Telegram: @HedwigV2ray
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=none&encryption=none&host=---@ShadowProxy66&type=ws#🇩🇪 Germany | Telegram: @HedwigV2ray
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=none&encryption=none&type=ws#Telegram: @HedwigV2ray
 vless://2aca286e-768e-47de-9e8c-67aac8057219@103.249.133.79:8443?encryption=none&security=reality&sni=ubuntu.com&fp=chrome&pbk=RjMNFvczs_PijF22uARc-WzvtBlbOUKVpYZB0zjbXEA&sid=858ef705a1&spx=/&type=grpc&authority=&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2056&mode=gun#Telegram: @HedwigV2ray
@@ -426,5 +427,4 @@ vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@104.26.1.108:443?path=/id5?ed=2560/
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5/?-Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5/?-Tel---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5?ed=2048@&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram: @HedwigV2ray
-# Last updated: 2025-10-07 21:30:20
+# Last updated: 2025-10-07 22:30:21
