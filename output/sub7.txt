@@ -428,4 +428,4 @@ vless://b1f2c44e-8005-47dc-aee7-fb066994fb49@172.66.40.99:2052?type=ws&path=/@Ma
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @HedwigV2ray
 vless://b2294996-eeba-40d8-af25-119b4c92842f@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#Telegram: @HedwigV2ray
 vless://b24185c0-f815-48c8-b93c-ae82f7c8e493@5.75.204.151:2087?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#🇩🇪 Germany | Telegram: @HedwigV2ray
-# Last updated: 2025-10-07 11:30:18
+# Last updated: 2025-10-07 12:30:23
