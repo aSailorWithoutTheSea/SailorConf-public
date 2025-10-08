@@ -438,4 +438,4 @@ vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@104.21.67.12:443?path=/Free-CF-Prox
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@104.21.67.12:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#Telegram: @HedwigV2ray
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@v2ray_configs_pools&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#Telegram: @HedwigV2ray
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.67.74.133:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@v2ray_configs_pools&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#Telegram: @HedwigV2ray
-# Last updated: 2025-10-08 06:30:25
+# Last updated: 2025-10-08 07:30:21
