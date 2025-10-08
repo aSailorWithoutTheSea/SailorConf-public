@@ -419,4 +419,4 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@[2606:4700:3036::ce:d6ea]:443?path=
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.19.33:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560&fp=chrome#🇨🇦 Canada | Telegram: @HedwigV2ray
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.117:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560&fp=chrome#Telegram: @HedwigV2ray
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.117:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=/freedom-1rj.pages.dev/?ed=2560&fp=chrome#🇨🇦 Canada | Telegram: @HedwigV2ray
-# Last updated: 2025-10-08 11:30:18
+# Last updated: 2025-10-08 12:30:27
