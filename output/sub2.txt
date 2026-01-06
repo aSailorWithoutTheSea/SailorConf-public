@@ -117,15 +117,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmY2lhbC1ubA==@nl-1.s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZGU=@de-1.stunnel.cc:8444#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtc2c=@sg-2.stunnel.cc:8444#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM=@us-4.stunnel.cc:8444#🇺🇸 USA | Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwwMjg=@188.208.110.58:8444#🇦🇪 UAE | Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfYWU=@ae-1.stunnel.cc:8444#🇦🇪 UAE | Telegram: @HedwigV2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmJyb2Y@tr-1.stunnel.cc:8444#🇹🇷 Turkey | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#🇩🇪 Germany | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸 USA | Telegram: @HedwigV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnZuMmZORXZCZ001a25mZnJOOTZx@92.118.112.101:9483#🇺🇸 USA | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇨🇦 Canada | Telegram: @HedwigV2ray
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#🇺🇸 USA | Telegram: @HedwigV2ray
@@ -140,9 +138,11 @@ trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?sni=www.nintendogam
 trojan://501c6f5f-73eb-4a18-9f24-72b67fa65387@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#🇹🇼 Taiwan | Telegram: @HedwigV2ray
 trojan://501c6f5f-73eb-4a18-9f24-72b67fa65387@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#🇹🇼 Taiwan | Telegram: @HedwigV2ray
 trojan://5a2c16f9@104.17.162.3:443?sni=snippets.kkii.eu.org#🇺🇸 USA | Telegram: @HedwigV2ray
+trojan://5a2c16f9@104.17.167.134:443?sni=snippets.kkii.eu.org#🇭🇰 Hong Kong | Telegram: @HedwigV2ray
 trojan://5a2c16f9@104.19.220.22:443?sni=snippets.kkii.eu.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://5a2c16f9@104.19.55.205:443?sni=snippets.kkii.eu.org#🇹🇼 Taiwan | Telegram: @HedwigV2ray
 trojan://5a2c16f9@104.26.1.110:443?sni=snippets.kkii.eu.org#🇺🇸 USA | Telegram: @HedwigV2ray
+trojan://5a2c16f9@172.64.229.11:443?sni=snippets.kkii.eu.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://5a2c16f9@172.64.229.33:443?sni=snippets.kkii.eu.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://5a2c16f9@172.64.229.64:443?sni=snippets.kkii.eu.org#🇺🇸 USA | Telegram: @HedwigV2ray
 trojan://5a2c16f9@172.64.229.6:443?sni=snippets.kkii.eu.org#🇺🇸 USA | Telegram: @HedwigV2ray
@@ -286,4 +286,4 @@ vmess://eyJhZGQiOiIyMDIuNzkuMTYxLjE4OCIsImFpZCI6NjQsImhvc3QiOiJ3d3cuMzIyNzgxMTcu
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInYiOiIyIiwicHMiOiJUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIn0=
 vmess://eyJhZGQiOiJ2MTAuaGVkdWlhbi5saW5rIiwiYWlkIjoyLCJob3N0IjoidjEwLmhlZHVpYW4ubGluayIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwibmV0Ijoid3MiLCJwYXRoIjoiL29vb28iLCJwb3J0IjozMDgwNywicHMiOiLwn4et8J+HsCBIb25nIEtvbmcgfCBUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYmFpZHUuY29tIn0=
 vmess://eyJhZGQiOiJ2Yy5mbHkuZGV2IiwiYWlkIjozMiwiaG9zdCI6InZjLmZseS5kZXYiLCJpZCI6IjM1Mzc5MjE5LTY1MzUtNGYyZS1hNGZlLTNlNDRmNjFlMGVlZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92YyIsInBvcnQiOjQ0MywicHMiOiLwn4e68J+HuCBVU0EgfCBUZWxlZ3JhbTogQEhlZHdpZ1YycmF5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoidmMuZmx5LmRldiJ9
-# Last updated: 2026-01-06 14:38:28
+# Last updated: 2026-01-06 15:30:01
