@@ -364,4 +364,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptV3pwZjRTQkNhZ1JhS2VZcVhCRDNO@62.133.60.60:7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#Telegram: @HedwigV2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.162.130:443#Telegram: @HedwigV2ray
-# Last updated: 2026-01-06 15:44:40
+# Last updated: 2026-01-06 15:47:38
