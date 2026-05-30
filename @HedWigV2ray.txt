@@ -23,3 +23,5 @@ vless://439f353b-b52f-4355-93d8-26e0567d5308@193.163.203.76:50592?encryption=non
 vless://f7d6927b-12bf-4390-aeca-fd7ebc3ae841@104.17.121.9:2096?encryption=none&security=tls&sni=hOSPiTABLE-dEpARtmENt77lrTfwQWh.windLEr.co.UK&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=grpc&serviceName=alef.ir.ilna.news.irannewsdaily.com.farsnews.ir.alef.ir.irdiplomacy.ir.irna.ir&mode=gun#@HedWigV2ray-Num23
 ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#@HedWigV2ray-Num24
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?security=tls&sni=172.237.145.189&insecure=0&allowInsecure=0&type=tcp&headerType=none#@HedWigV2ray-Num25
+ vless://dd929784-7045-4e06-a801-0b974e4ec0b8@172.67.130.241:80?path=%2FZiIXJAIry34Bj4i4vAY&security=none&encryption=none&host=hU.aNDisHeHpaRenTiNG.cOM&type=httpupgrade#arash-vpn-hu
+ vless://dd929784-7045-4e06-a801-0b974e4ec0b8@208.103.161.101:80?path=%2FZiIXJAIry34Bj4i4vAY&security=none&encryption=none&host=hU.aNDisHeHpaRenTiNG.cOM&type=httpupgrade#arash-vpn-hk
